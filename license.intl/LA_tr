@@ -1,0 +1,1045 @@
+LİSANS BİLGİLERİ
+
+Aşağıda listelenen programlar, daha önce Müşteri ve IBM tarafından kabul edilen Program lisansı koşullarına ek olarak aşağıdaki Lisans Bilgilerinin kayıt ve koşulları kapsamında lisanslanır. Müşteri, Programa ilişkin yürürlükte olan lisans koşullarını daha önce kabul etmemişse, Garanti Verilmeyen Programlar İçin Uluslararası Lisans Sözleşmesi (Z125-5589-05) geçerli olur.
+
+Program Adı: IBM API Connect on Docker V5.0
+Program Numarası: 5725-Z22
+
+Destekleyici Programlar
+
+Bu Program birden çok ürünün bulunduğu bir paket olarak lisanslanır ve aşağıda belirtilen Destekleyici Programları içerir. Lisans Alan Tarafa, bu tür Destekleyici Programları, Lisans Alan Tarafın Asıl Programı (Principal Program) (işbu Lisans Bilgileri Belgesinin başka herhangi bir yerinde daha geniş yetkiler sağlanmadığı sürece) yalnızca bu Sözleşme kapsamında ve bu Programa ilişkin Yetki Belgesinin (POE) sınırları içinde kullanımını desteklemek üzere kurması ve kullanması için yetki verilir. "Lisans Alan Tarafın .....kullanımını desteklemek üzere" ifadesi, Asıl Programın veya diğer bir Destekleyici Programın lisanslı kullanımı için gerekli olan veya Asıl Programın veya diğer bir Destekleyici Programın lisanslı kullanımıyla başka bir şekilde doğrudan ilişkili olan bu tür kullanımları içerir. Destekleyici Programlar, başka hiçbir amaçla kullanılamaz. Lisans Alan Tarafın, Destekleyici Programları Asıl Programdan ayrı olarak devretme ya da yeniden pazarlama yetkisi yoktur. Bir Destekleyici Programla birlikte lisans koşulları ve eğer varsa, Lisans Alan Tarafın bu Destekleyici Programı kullanımı için geçerli olan koşullar da gönderilebilir. Asıl Programın koşullarıyla Destekleyici Programın koşuları arasında bir çelişki olması durumundan işbu Lisans Bilgileri belgesinin koşulları, Destekleyici Programın koşullarını hükümsüz kılarak onların yerine geçer. Lisans Alan Tarafın bu Programı kullanım hakkı sona erdiğinde ya da sonlandırıldığında, Destekleyici Programların tüm kopyalarını kullanmaya son vermesi, bunları yok etmesi veya derhal Programı edindiği üçüncü kişiye iade etmesi gerekir. Lisans Alan Taraf, Destekleyici Programları yüklediyse, bu Programı edindiği tarafla bağlantıya geçmelidir. Lisans Alan Taraf, Destekleyici Programları, yukarıda belirtilen sınırları aşacak şekilde kullanmak amacıyla lisanslamak isterse, uygun lisansı edinmek için IBM Satış Temsilcisiyle veya bunları edindiği tarafla görüşmelidir.
+
+Bu Programlarla birlikte lisanslanan Destekleyici Programlar aşağıda belirtilmiştir:
+IBM WebSphere DataPower Option for Application Optimization V7.5
+WebSphere Application Server Liberty Core V8.5.5
+API Connect Create for Node.js V5.0
+IBM HTTP Server
+
+Geliştirici Sınırlaması
+
+Bu Program, "Geliştiriciler" için belirlendiyse, yalnızca bir geliştirici makinesinde Lisans Alan Tarafın dahili geliştirme ve birim denemesi amaçlarıyla devreye alınabilir. Geliştirici makinesi, her ikisi de erişilebilir olan ve yalnızca tek bir belirli geliştirici tarafından kullanılan birincil işletim sistemini ve bu Programı çalıştıran fiziksel ya da sanal bir masaüstü ortamıdır. Lisans Alan Taraf bu Programı üretim işyüklerinin işlenmesi, üretimde ortaya çıkan işyüklerinin benzerlerinin yaratılması ya da herhangi bir kod, uygulama ya da sistemin ölçeklenebilirliğinin denenmesi için kullanamaz. Uygun ürün yetkilerini almadığı sürece, Lisans Alan Tarafa, bu Programın hiçbir bölümünü başka herhangi bir amaçla kullanması için yetki verilmez.
+
+Ayrıca Lisanslanan Kod
+
+Bu paragrafta yer alan hükümler, bu lisansın tabi olduğu yasalar kapsamında geçersiz sayıldıkları veya uygulanamaz olarak değerlendirildikleri sürece geçerli olmazlar. Aşağıda listelenen bileşenlerden her biri "Ayrıca Lisanslanan Kod" olarak değerlendirilir. Ayrıca Lisanslanan Kod, Lisans Alan Tarafa, IBM tarafından bu Programla birlikte gönderilen NON_IBM_LICENSE dosyasında/dosyalarında belirtilen geçerli üçüncü kişi lisans sözleşmesi/sözleşmeleri koşulları kapsamında lisanslanır. Bu Sözleşmede veya Lisans Alan Tarafın IBM ile yapmış olabileceği diğer bir sözleşmede yer alan koşullar dikkate alınmaksızın, Ayrıca Lisanslanan Kodların tümünün kullanımı, aşağıda aksi belirtilmedikçe, bu tür üçüncü kişi lisans sözleşmelerinin koşullarına tabidir.
+
+Program için gerçekleştirilecek güncellemeler veya düzeltmeler, ek bir Ayrıca Lisanslanan Kod içerebilir. Bu tür bir ek Ayrıca Lisanslanan Kod ve bununla ilgili lisanslar Program güncellemesi veya düzeltmesiyle birlikte gönderilen diğer bir NON_IBM_LICENSE dosyasında yer alır. Lisans Alan Taraf, NON_IBM_LICENSE dosyasında/dosyalarında bulunan lisans sözleşmelerini okuduğunu ve kabul ettiğini belirtmiş sayılır. Lisans Alan Taraf, bu tür üçüncü kişi lisans sözleşmelerinin koşullarını kabul etmiyorsa, Ayrıca Lisanslanan Kodu kullanamaz.
+
+Lisans Alan Taraf, Uluslararası Program Lisans Sözleşmesi ("UPLS") veya Garanti Verilmeyen Programlar İçin Uluslararası Program Lisans Sözleşmesi (International Program License Agreement for Non Warranted Programs - "ILAN") kapsamında edinilen Programlar için, Programın ilk lisans alan tarafı ise ve üçüncü kişi lisans sözleşmelerinde belirtilen koşulları kabul etmiyorsa, Uluslararası Program Lisans Sözleşmesi ("UPLS") veya Garanti Verilmeyen Programlar İçin Uluslararası Program Lisans Sözleşmesi (International Program License Agreement for Non Warranted Programs - "ILAN") adlı sözleşmelerin "Para İadesi Garantisi" bölümünün koşullarına uygun olarak ve bu bölümde belirtilen süreler içinde Programı iade edebilir.
+
+Not: Üçüncü kişi lisans sözleşmesinde, bu Sözleşmede veya Lisans Alan Tarafın IBM ile yapmış olabileceği diğer herhangi bir sözleşmede yer alan koşullar dikkate alınmaksızın:
+(a) IBM, bu Ayrıca Lisanslanan Kodu Lisans Alan Tarafa HİÇBİR GARANTİ VERMEKSİZİN sağlar;
+(b) IBM, AYRICA LİSANSLANAN KODA İLİŞKİN OLARAK MÜLKİYETE, HAK İHLALİ YAPILMAYACAĞINA VEYA MÜDAHALEYE DAİR GARANTİLER İLE TİCARİLİK VE BELİRLİ BİR AMACA UYGUNLUK İÇİN ZIMNİ GARANTİ VE KOŞULLAR DA DAHİL OLMAK, ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VE ZIMNİ HİÇBİR GARANTİ VERMEZ VE HİÇBİR KOŞUL ÖNE SÜRMEZ;
+(c) IBM, Ayrıca Lisanslanan Kod ile ilgili veya Ayrıca Lisanslanan Koddan kaynaklanan herhangi bir iddiada Lisans Alan Tarafa karşı yükümlü değildir ve Lisans Alan Tarafı bu iddialara karşı tazmin etmek, savunmak ve Lisans Alan Tarafın zarara uğramamasını sağlamakla sorumlu olmayacaktır; ve
+(d) IBM, Ayrıca Lisanslanan Kod ile ilgili olarak veri kaybı, tasarruf kaybı ve kar kaybı da dahil, ancak bunlarla sınırlı olmaksızın doğrudan, dolaylı, arızi, özel, örnek niteliğinde, cezai veya sonuçta ortaya çıkan herhangi bir zarardan sorumlu değildir.
+
+Bu istisnalar dikkate alınmaksızın, Almanya ve Avusturya'da Ayrıca Lisanslanan Kod ile ilgili olarak IBM'in garanti ve yükümlülüğü yalnızca, IBM lisans sözleşmelerinde Almanya ve Avusturya için geçerli olan ilgili koşullara tabidir.
+
+Not: IBM, bazı Ayrıca Lisanslanan Kodlara ilişkin sınırlı destek sağlayabilir. Bu tür bir destek sağlandığında, bu tür bir desteğe ilişkin ayrıntılar ve tüm ek koşullar Lisans Bilgileri belgesinde belirtilecektir.
+
+Ayrıca Lisanslanan Kod aşağıdadır:
+acl
+acpi
+acpid
+acpi-support
+adaptivetheme (drupal)
+addressfield (drupal)
+AddToAny (drupal)
+adduser
+admin_menu (drupal)
+adminimal_admin_menu (drupal)
+adminimal_theme (drupal)
+advagg (drupal)
+Advanced Forum (drupal)
+Advanced syslog (drupal)
+alpha_pagination
+alsa-lib
+angular.js/images/logo
+Ansible
+apt
+aptitude
+aptitude-common
+apt-transport-https
+apt-utils
+at
+AT Tools (drupal)
+atk
+attr
+audit
+audit-libs
+augeas
+autogen
+autogen-libopts
+Automated Logout (drupal)
+avahi
+base-files
+base-lsb
+base-passwd
+bash
+bc
+Bean (drupal)
+better_exposed_filters (drupal...
+binary_heap.js
+bind
+bind9-host
+binutils
+Block Class (drupal)
+Block Class Styles (drupal)
+BOA
+bridge-utils
+bsdutils
+busybox
+c3p0
+ca-certificates
+cairo
+cairo-spice
+caniuse-db(node)
+CAPTCHA (Drupal)
+cdrkit
+chain_menu_access
+chkconfig
+commons.wikimedia
+compat-gcc-32
+config.guess
+ConsoleKit
+console-setup
+content_access (drupal)
+context (drupal)
+coreutils
+cpio
+cracklib
+cracklib-dicts
+cron
+cronie
+crontabs
+cryptsetup-libs
+cryptsetup-luks
+csync2
+CTools (drupal)
+cups
+cvs
+d3 (drupal)
+dash
+dbus
+dbus-glib
+dbus-libs
+debian-archive-keyring
+debianutils
+desktop-file-utils
+device-mapper
+device-mapper-libs
+device-mapper-multipath
+dialog
+dictionaries-common
+diffutils
+discover
+dmidecode
+dmsetup
+dnsmasq
+dpkg
+dracut
+Drafty (Drupal)
+drbd83-kmod
+drbd83-utils
+Drupal
+drupal_helpers (drupal)
+drush_language (drupal)
+e2fslibs
+e2fslibs:amd64
+e2fsprogs
+ebtables
+ed
+eggdbus
+eject
+ejectorseat (drupal)
+elfutils
+entity (drupal)
+Entity API (drupal)
+Entity Reference (drupal)
+ethtool
+FAQ (drupal)
+faq.html
+Farbtastic
+ffmpeg-spice
+field_group (drupal)
+filesystem
+findutils
+fipscheck
+Fivestar (drupal)
+Flag (Drupal)
+flood_control
+follow
+Font Awesome4.1.0
+Font-Awesome
+forum_access
+frameprevention (drupal)
+gamin
+gawk
+gcc
+gcc-4.7-base
+gcc-5-base
+gcc-6-base
+gdb
+gdbm
+geoip-database
+gettext
+gettext-base
+git
+git-core
+git-man
+glib2
+glibc
+glibc-common
+gmp
+GNU Libtool
+gnupg
+gnupg2
+gnutls
+gobject-introspection
+gpgme
+gpgv
+gpm
+gpxe
+grep
+groff
+groff-base
+Group (drupal)
+grub
+grub2-common
+grubby
+grub-common
+grub-pc
+grub-pc-bin
+gtfs
+gtk2
+gzip
+Hibernate
+hicolor-icon-theme
+hide_submit (Drupal)
+Hierachical Select (Drupal)
+hierarchical_select
+hierarchical_select (drupal)
+hostname
+Htmlmail (drupal)
+httprl (drupal)
+hwdata
+hybridauth (drupal)
+hybridauth library
+i18n (drupal)
+ifupdown
+igb-kmod
+Image CAPTCHA Refresh (drupal)
+Images
+IMCE
+IMCE (drupal)
+imce_wysiwyg
+imce_wysiwyg (drupal)
+index-debug.html
+inetutils-ping
+info
+init
+initramfs-tools
+initscripts
+init-system-helpers
+insserv
+installation-report
+install-info
+iproute
+iproute2
+iptables
+iputils
+iputils-ping
+ipvsadm
+irqbalance
+iscsi-initiator-utils
+iso-codes
+ixgbe-kmod
+java-common
+jq
+jQuery Update (drupal)
+JSONSelect site
+kbd
+kernel
+kexec-tools
+keyboard-configuration
+keyutils
+keyutils-libs
+klibc-utils
+kmod
+kmod-libs
+kpartx
+l10n_update
+l10n_update (drupal)
+LDAP (drupal)
+legal (drupal)
+less
+libacl
+libacl1
+libacl1:amd64
+libaio
+libaio1
+libaio-devel
+libapparmor1
+libapt-inst1.5
+libapt-pkg4.12
+libapt-pkg4.12:amd64
+libapt-pkg5.0
+libart_lgpl
+libasprintf0c2
+libasprintf0c2:amd64
+libassuan
+libasyncns
+libatm1
+libattr
+libattr1
+libattr1:amd64
+libaudit1
+libaudit1:amd64
+libaudit-common
+libavahi-common-data:amd64
+libblkid
+libblkid1
+libblkid1:amd64
+libbz2-1.0
+libbz2-1.0:amd64
+libc6
+libc6:amd64
+libcap2
+libcap2-bin
+libcap-ng
+libc-bin
+libcgroup
+libclass-isa-perl
+libcmpiutil
+libcomerr2
+libcryptsetup4
+libcryptsetup4:amd64
+libcwidget3
+libdb5.1
+libdb5.1:amd64
+libdbd-mysql-perl
+libdbi-perl
+libdb-utils
+libdevmapper1.02.1
+libdevmapper1.02.1:amd64
+libdevmapper-event1.02.1
+libdiscover2
+libept1.4.12
+liberror-perl
+libestr0
+libev4
+libfdisk1
+libfile-copy-recursive-perl
+libfreetype6
+libfreetype6:amd64
+libfuse2
+libgcc1
+libgcc1:amd64
+libgcrypt
+libgcrypt11
+libgcrypt11:amd64
+libgcrypt20
+libgcrypt20:amd64
+libgd2-xpm
+libgd2-xpm:amd64
+libgd3
+libgdbm3
+libgdbm3:amd64
+libgeoip1
+libgeoip1:amd64
+libglib
+libglib2.0-0
+libglib2.0-data
+libgmp10
+libgmp10:amd64
+libgnutls2
+libgnutls26:amd64
+libgnutls30
+libgnutls-openssl27
+libgnutls-openssl27:amd64
+libgpg-error
+libgpg-error0
+libgpg-error0:amd64
+libgpm2
+libhogweed2:amd64
+libhogweed4
+libhtml-template-perl
+libidn
+libidn11
+libidn11:amd64
+libjbig0
+libjbig0:amd64
+libjpeg8
+libjpeg-turbo
+libkeyutils1
+libkeyutils1:amd64
+libklibc
+libkmod2
+libkmod2:amd64
+liblcms2-2:amd64
+liblocale-gettext-perl
+libltdl7
+libltdl7:amd64
+liblz4-1
+liblzma5
+liblzma5:amd64
+libmariadbclient18
+libmcrypt4
+libmnl
+libmnl0
+libmount
+libmount1
+libmount1:amd64
+libmverbs
+libmysqlclient18
+libmysqlclient20
+libnetfilter_conntrack
+libnettle4:amd64
+libnettle6
+libnewt0.52
+libnfnetlink
+libnfnetlink0
+libnih
+libnl
+libnspr4:amd64
+libnuma1
+libopts25
+libp11-kit0
+libp11-kit0:amd64
+libpam0g
+libpam0g:amd64
+libpam-modules
+libpam-modules:amd64
+libpam-modules-bin
+libpam-runtime
+libpci3
+libpci3:amd64
+libperconaserverclient18.1
+libperl5.22
+libpipeline1
+libpipeline1:amd64
+libpng12-0
+libpng12-0:amd64
+libpopt0
+libpopt0:amd64
+libprocps0
+libprocps0:amd64
+libprocps3:amd64
+libprocps4
+libqdbm14
+Libraries API (drupal)
+libreadline5
+libreadline5:amd64
+libreadline6
+libreadline6:amd64
+librsync1
+librsync1:amd64
+librtmp0
+librtmp0:amd64
+librtmp1
+librtmp1:amd64
+libsasl2-2
+libsasl2-2:amd64
+libsasl2-modules
+libsasl2-modules:amd64
+libsasl2-modules-db
+libseccomp2
+libselinux
+libselinux1
+libselinux1:amd64
+libsemanage
+libsemanage1
+libsemanage1:amd64
+libsemanage-common
+libsepol
+libsepol1
+libsepol1:amd64
+libsigc++-2.0-0c2a
+libsigc++-2.0-0c2a:amd64
+libsigsegv2
+libslang2
+libslang2:amd64
+libsmartcols1
+libsmartcols1:amd64
+libsndfile
+libss
+libss2
+libss2:amd64
+libstdc++
+libstdc++6
+libstdc++6:amd64
+libswitch-perl
+libsystemd0
+libsystemd0:amd64
+libt
+libt1-5
+libtasn1
+libtasn1-3
+libtasn1-3:amd64
+libtasn1-6
+libtasn1-6:amd64
+libtext-charwidth-perl
+libtext-iconv-perl
+libtext-wrapi18n-perl
+libthai
+libtool
+libudev0
+libudev0:amd64
+libudev1
+libudev1:amd64
+libusb
+libusb-0.1-4
+libusb-0.1-4:amd64
+libuser
+libustr-1.0-1
+libustr-1.0-1:amd64
+libutempter
+libuuid1
+libuuid1:amd64
+libuuid-perl
+libvirt
+libvirt-cim
+libvpx1:amd64
+libxapian22
+libxtables11
+linkchecker (drupal)
+linkit
+linkit (drupal)
+linkit_picker
+linkit_picker (drupal)
+linux-base
+linux-image-3.2.0
+lksctp-tools
+lm_sensors
+locales
+login
+logrotate
+lsb-base
+lsb-release
+lsof
+lsyncd
+lvm2
+lzo
+lzop
+m4
+Mailsystem (drupal)
+make
+MAKEDEV
+man
+man-db
+manpages
+mariadb-client-5.5
+mariadb-client-core-5.5
+mariadb-common
+mariadb-galera-server
+mariadb-galera-server-5.5
+markdown (drupal)
+material-design-icons
+material-design-icons-iconfont
+mawk
+mdadm
+megaraid_sas-kmod
+menu_item_visibility (drupal)
+messaging (drupal)
+metatag (drupal)
+microcode_ctl
+mime-support
+mingetty
+module-init-tools
+motif
+mount
+mptlinux-kmod
+multiarch-support
+mysql
+mysql-common
+nano
+netbase
+netcat-traditional
+netcf
+net-tools
+newt
+nfs-utils
+nginx
+nginx-common
+nginx-full
+nmap
+no_autocomplete (drupal)
+node_clone (drupal)
+notifications (drupal)
+notifications_forum (drupal)
+nss-pam-ldapd
+ntp
+ntpdate
+numactl
+numad
+ocfs2-tools
+ofa_kernel
+OpenIPMI
+openjdk-8-jre-headless:amd64
+openssh-blacklist
+openssh-blacklist-extra
+openssh-client
+openssh-server
+openssh-sftp-server
+oprofile
+os-prober
+pam
+pam_ldap
+Panels (drupal)
+pango
+parted
+passwd
+Password policy (drupal)
+patch
+Pathologic (drupal)
+PCD
+pciutils
+Percona XtraDB Cluster
+percona-xtrabackup
+Percona-XtraDB-Cluster
+percona-xtradb-cluster-client-5.6
+percona-xtradb-cluster-common-5.6
+percona-xtradb-cluster-galera-3
+percona-xtradb-cluster-galera-3.x
+perl
+perl-base
+perl-modules
+perl-modules-5.22
+PHP SAML2
+phpmailer
+PHPMailer (drupal)
+pinentry
+pkgconfig
+pkg-config
+plymouth
+pm-utils
+polkit
+portreserve
+prelink
+procmail
+procps
+procps-ng
+psmisc
+pth
+pulseaudio
+pygobject3-base
+pygpgme
+pyliblzma
+python
+python2.7
+python2.7-minimal
+python-apt
+python-apt-common
+python-chardet
+python-gnupginterface
+python-kitchen
+python-minimal
+python-pycurl
+python-software-properties
+python-support
+python-urlgrabber
+pyxattr
+qemu-kvm
+qrencode-libs
+readline
+readline-common
+rename
+restrict_by_ip (drupal)
+restws (drupal)
+rng-tools
+rpm
+rpm-build-libs
+rpm-libs
+rpm-python
+rsync
+rsyslog
+Rules_http_client (drupal)
+scsi-target-utils
+seabios
+search_autocomplete (drupal)
+search_config (drupal)
+search404 (drupal)
+seckit (drupal)
+security_questions (drupal)
+sed
+seek-bzip
+sensible-utils
+session_limit (drupal)
+sgml-base
+shadow-utils
+shared-mime-info
+sharutils
+Simple Dialog
+simplesamlphp
+simplesamlphp_auth (drupal)
+site_test (drupal)
+site_test_helpers (drupal)
+slang
+slick (drupal)
+slick_extras (drupal)
+slick_views (drupal)
+socat
+SPDX specification
+spdx-exceptions(Node)1.0.3
+spdx-exceptions(Node)1.0.4
+spdx-exceptions(Node)1.0.5
+spdx-expression-parse (node)
+spice-server
+ssh-import-id
+sshpass
+ssmtp
+startpar
+StatsD (drupal)
+stickynav (drupal)
+Support Ticketing System (drupal)
+swig
+sysfsutils
+syslog-ng
+sysstat
+systemd
+systemd-libs
+systemd-sysv
+sysvinit
+sysvinit-utils
+sysv-rc
+TagCloud (drupal)
+tar
+tar-static
+tasksel
+tasksel-data
+taxonomy_menu
+taxonomy_menu (drupal)
+taxonomy_menu_block (drupal)
+texinfo
+tfa
+tfa (drupal)
+tfa_basic
+tfa_basic (drupal)
+time
+tinyMCE
+tmpreaper
+Token (Drupal)
+traceroute
+Translation helpers (drupal)
+transliteration (drupal)
+trustedgrub
+tunctl
+Twitter Timeline (drupal)
+ubuntu-keyring
+ucf
+udev
+ufw
+Ulimate Cron (Drupal)
+unattended-upgrades
+underscore.js (drupal)
+unixODBC
+update-inetd
+upstart
+user_pwreset_timeout (Drupal)
+usersearchtoadmin (Drupal)
+ustr
+util-linux
+util-linux-locales
+util-linux-ng
+Variable (drupal)
+vgabios
+Views (drupal)
+Views data export (Drupal)
+Views_bulk_operations (drupal)
+views_send (drupal)
+vim
+vim-minimal
+Voting API (drupal)
+VPPR (drupal)
+wget
+which
+whiptail
+workbench (drupal)
+workbench_moderation (drupal)
+Wysiwig (drupal)
+x11-common
+xautoload (drupal)
+xdg-user-dirs
+xml-core
+xmlto
+xpath.js
+xtrabackup
+xz
+xz-utils
+yum
+yum-metadata-parser
+yum-plugin-fastestmirror
+yum-plugin-ovl
+yum-utils
+
+Karşılaştırmalı Değerlendirme
+
+Lisans Alan Taraf, bu Programın veya alt bileşenlerinin karşılaştırmalı değerlendirme denemelerinin sonucunu şu koşullarda bir üçüncü kişiye açıklayabilir: (A) Lisans Alan Taraf, karşılaştırmalı değerlendirme denemesinde kullanılan yöntemlerin tümünü açıklarsa (örneğin: donanım ve yazılım kurulumu, kuruluş yordamı ve konfigürasyon dosyaları), (B) bu Programı, Tanımlanmış İşletim Ortamında, IBM veya IBM ürünleri sağlayan üçüncü kişiler ("Üçüncü Kişiler") tarafından Program için sağlanan uygulanabilir en yeni güncellemeleri, yamaları ve düzeltmeleri kullanıp çalıştırarak karşılaştırmalı değerlendirme denemesini gerçekleştirirse, (C) bu Programın belgelerinde ve IBM'in Program için sağladığı destek Web sitelerinde bulunan başarım ayarlarını ve "en iyi uygulama" yönergelerini izlerse. Lisans Alan Taraf, bu Programa ilişkin herhangi bir karşılaştırmalı değerlendirme denemesi sonucunu yayınlarsa, IBM veya Üçüncü Kişiler ile arasındaki herhangi bir sözleşmede aksini belirten herhangi bir ifade dikkate alınmaksızın, IBM veya Üçüncü Kişiler, Lisans Alan Tarafın ürünlerinin denenmesinde yukarıdaki (A), (B) ve (C) gereksinimlerini yerine getirdikleri sürece, IBM ve Üçüncü Kişiler Lisans Alan Tarafın ürünlerine ilişkin karşılaştırmalı değerlendirme denemesi sonuçlarını yayınlayabilirler.
+
+Yukarıda belirtilenler dikkate alınmaksızın, Lisans Alan Taraf, hiçbir durumda önceden yazılı izin almaksızın Outside In Technology kullanılarak çalıştırılan karşılaştırmalı değerlendirme testlerinin sonuçlarını yayınlayamaz.
+
+Yukarıda belirtilen karşılaştırmalı değerlendirme koşulları aşağıdaki Programlar veya alt bileşenler için geçerlidir:
+IBM Connect V5.0
+
+Kaynak Bileşenler ve Örnek Malzemeler
+
+Bu Program, kaynak kodu biçimindeki bazı bileşenleri ("Kaynak Bileşenler") ve Örnek Malzemeler olarak tanımlanan diğer malzemeleri içerebilir. Lisans Alan Taraf, Kaynak Bileşenleri ve Örnek Malzemeleri ancak Kaynak Bileşenleri ve Örnek Malzemeleri kullanımının bu Sözleşme kapsamındaki lisans hakları tarafından çizilen sınırlar içinde kalması ve ancak Kaynak Bileşenlerde ya da Örnek Malzemelerde içerilen hiçbir telif hakkı bilgisini veya bildirimini değiştirmemek veya silmemek koşuluyla dahili olarak kullanmak amacıyla kopyalayabilir ve kullanabilir. IBM, Kaynak Bileşenleri ve Örnek Malzemeleri, destek yükümlülüğü olmaksızın ve MÜLKİYETE, HAK İHLALİ YAPILMAYACAĞINA VEYA MÜDAHALE EDİLMEYECEĞİNE DAİR GARANTİLER İLE TİCARİLİĞE VE BELİRLİ BİR AMACA UYGUNLUĞA DAİR ZIMNİ GARANTİLER VE KOŞULLAR DA DAHİL OLMAK, ANCAK TÜMÜ BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERMEKSİZİN "OLDUĞU GİBİ" ESASIYLA SAĞLAR.
+
+İşlemci Değer Birimi (PVU)
+
+İşlemci Değer Birimi (PVU), bu Programın lisanslandığı ölçüm birimidir. Gereken İşlemci Değer Birimi (PVU) yetkilerinin sayısı için işlemci teknolojisi (İşlemci Satıcı Firması, Marka, Tip ve Model Numarası esasına göre şu adresteki PVU Tablosunda tanımlanmıştır: http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html) ve bu Program tarafından kullanılan işlemcilerin sayısı esas alınır. IBM, PVU esasına göre lisanslamanın amacı açısından bir çip üzerinde yer alan her işlemci çekirdeği için bir işlemci tanımlamaya devam eder. Örneğin, bir çift çekirdekli işlemci çipinde iki adet işlemci çekirdeği bulunur.
+
+Lisans Alan Taraf, bu Programı, Passport Advantage Alt Kapasite Lisanslama Koşulları'na (aşağıda belirtilen Web sayfasına bakın) göre Tam Kapasite lisanslama veya Sanallaştırma Kapasitesi (Alt Kapasite) lisanslama esasını kullanarak etkinleştirebilir. Tam Kapasite lisanslaması kullanılıyorsa, Lisans Alan Tarafın, bu Programın sürekli olarak kaldırıldığı sunucular hariç olmak üzere, bu Program tarafından kullanılan veya yönetilen fiziksel donanım ortamında yer alan etkinleştirilmiş tüm işlemci çekirdeklerini* kapsamaya yetecek sayıda İşlemci Değer Birimi (PVU) yetkisi edinmesi gerekir. Sanallaştırma Kapasitesi lisanslaması kullanılıyorsa, Lisans Alan Tarafın, Sanallaştırma Kapasitesi Lisansı Sayım Kuralları'na (Virtualization Capacity License Counting Rules) göre tanımlanan ve bu Program tarafından kullanılan veya yönetilen tüm etkin işlemci çekirdeklerini kapsamaya yetecek sayıda yetkiyi edinmesi gerekir. Söz konusu kurallarla ilgili bilgi edinmek için aşağıda yer alan adrese bakın: http://www.ibm.com/software/lotus/passportadvantage/Counting_Software_licenses_using_specific_virtualization_technologies.html.
+
+* Etkinleştirilmiş işlemci çekirdeği, işlemci çekirdeklerinin kapasitesinin, sanallaştırma teknolojileri, işletim sistemi komutları, BIOS ayarları veya benzeri sınırlamalarla sınırlandırılabilmesinden veya sınırlı olmasından bağımsız olarak herhangi bir fiziksel veya sanal sunucuda kullanılabilir.
+
+L/N:  L-CLIG-AGFKQ9
+D/N:  L-CLIG-AGFKQ9
+P/N:  L-CLIG-AGFKQ9
+
+
+Garanti Verilmeyen Programlar İçin Uluslararası Lisans Sözleşmesi
+
+Bölüm 1 - Genel Koşullar
+
+LİSANS ALAN TARAF, BU PROGRAMI YÜKLEYEREK, KURARAK, KOPYALAYARAK, KULLANARAK "KABUL EDİYORUM" DÜĞMESİNİ TIKLAYARAK YA DA BU PROGRAMI HERHANGİ BİR BAŞKA ŞEKİLDE KULLANARAK VEYA BU PROGRAMA ERİŞİM SAĞLAYARAK, BU SÖZLEŞMENİN KOŞULLARINI KABUL ETMİŞ SAYILIR. BU KOŞULLARI, LİSANS ALAN TARAF ADINA KABUL EDİYORSANIZ, LİSANS ALAN TARAFIN SÖZ KONUSU KOŞULLARA UYACAĞINI TAAHHÜT EDEBİLECEK TAM YETKİYE SAHİP OLDUĞUNUZU BEYAN VE GARANTİ EDERSİNİZ. BU KOŞULLARI KABUL ETMİYORSANIZ:
+
+* BU PROGRAMI YÜKLEMEYİNİZ, KURMAYINIZ, KOPYALAMAYINIZ, "KABUL EDİYORUM" DÜĞMESİNİ TIKLAMAYINIZ, KULLANMAYINIZ YA DA BU PROGRAMA ERİŞİM SAĞLAMAYIN; VE
+
+* EĞER VARSA, ÖDEDİĞİNİZ TUTARIN GERİ ÖDENMESİ İÇİN KULLANILMAMIŞ ORTAMI VE BELGELERİ, PROGRAMI ALDIĞINIZ TARAFA DERHAL İADE EDİNİZ. PROGRAMI YÜKLEYEREK EDİNDİYSENİZ, PROGRAMIN TÜM KOPYALARINI İMHA EDİNİZ.
+
+1. Tanımlar
+
+"Yetkili Kullanım" - Lisans Alan Tarafın, Programı yürütmeye veya çalıştırmaya yetkili olduğu belirtilen seviye. Bu seviye, kullanıcı sayısı, milyon cinsinden hizmet birimi ("MSU"), İşlemci Değer Birimi ("PVU") veya IBM tarafından belirlenen herhangi bir diğer kullanım seviyesi esas alınarak ölçülebilir.
+
+"IBM" - International Business Machines Corporation veya bağlı kuruluşlarından biri.
+
+"Lisans Bilgileri" ("LI") - belirli bir Programa özgü bilgileri ve ek koşulları içeren belge. Programlara ilişkin Lisans Bilgileri belgelerine şu Web adresinden ulaşılabilir: www.ibm.com/software/sla. Lisans Bilgileri (LI) belgesi aynı zamanda, bir sistem komutu kullanılarak erişilen Program dizininde bulunabilir ya da Programla birlikte bir kitapçık biçiminde gönderilebilir.
+
+"Program" - orijinalleri ve onun tüm kısmi veya tam kopyaları da dahil olmak üzere, aşağıdakiler anlamındadır: 1) makine tarafından okunabilir komutlar ve veriler, 2) bileşenler, dosyalar ve modüller, 3) işitsel-görsel içerik (örneğin, görüntüler, metinler, kayıtlar ya da resimler) ve 4) ilişkili lisanslı malzemeler (örneğin, anahtarlar ve belgeler).
+
+2. Sözleşmenin Yapısı
+
+Bu Sözleşme, Bölüm 1 - Genel Koşullar, Bölüm 2 - Ülkeye Özgü Koşullar (eğer varsa) adlı bölümleri ve Lisans Bilgileri'ni içerir ve bu Programın kullanımına ilişkin Lisans Alan Tarafla IBM arasındaki sözleşmenin tamamını oluşturur. Bu Sözleşme, Lisans Alan Tarafın Programı kullanmasıyla ilgili olarak IBM ile arasında daha önce gerçekleştirilen her türlü sözlü ve yazılı iletişimin yerine geçer. Bölüm 2'de yer alan koşullar Bölüm 1'de yer alan koşulların yerine geçebilir veya onları değiştirebilir. İki Bölümün koşulları arasında herhangi bir çelişki olması durumunda, Lisans Bilgileri belgesi her iki Bölümün yerine uygulanır.
+
+3. Lisans Verilmesi
+
+Bu Programın sahibi IBM ya da bir IBM sağlayıcısıdır. Bu Program telif hakkına tabidir ve lisanslanır, satılmaz.
+
+IBM, Lisans Alan Tarafa, aşağıda belirtilen koşullarla: 1) Programı faturada belirtilen Yetkili Kullanım düzeyinde kullanması, 2) bu tür bir Yetkili Kullanımı desteklemek için Program kopyalarını çıkarması ve kurması, ve 3) bir yedekleme kopyası çıkarması için, münhasır olmayan bir lisans verir:
+
+a. Lisans Alan Tarafın, Programı yasalara uygun olarak edinmiş olması ve bu Sözleşmesinin koşullarına uygun davranması gerekir;
+
+b. Yedekleme kopyasını, yalnızca yedeklenen Program çalıştırılamaz olduğunda çalıştırması gerekir;
+
+c. Lisans Alan Tarafın, tüm telif hakkı bildirimlerini ve mülkiyete ilişkin diğer tüm açıklamaları Programın her kopyasına veya kısmi kopyasına kopyalayarak eklemesi gerekir;
+
+d. Lisans Alan Taraf, bu Programı kullanan herkesin (yerel olarak veya uzaktan erişim ile), 1) bu Programı yalnızca Lisans Alan Taraf adına kullanacağını ve 2) bu Sözleşmenin koşullarına uymasını sağlayacağını kabul etmiş sayılır;
+
+e. Lisans Alan Taraf, 1) Programı bu Sözleşmede açıkça izin verilenler dışında başka bir biçimde kullanamaz, kopyalayamaz, değiştiremez ya da dağıtamaz; 2) geçerli yasaların sözleşme ile değiştirilmesine olanak tanımayarak açıkça izin verdiği durumlar dışında, Programı ters düzenleyemez, ters derleyemez, başka yöntemlerle çevirisini yapamaz veya amacı dışında kullanamaz; 3) Programın hiçbir bileşenini, dosyasını, modülünü, sesli ve görüntülü içeriğini veya ilişkili lisanslı malzemeleri programdan ayrı olarak kullanamaz; veya 4) Programı alt lisanslayamaz, kiralayamaz ya da Program için finansal kiralama yapamaz; ve
+
+f. Lisans Alan Taraf, Programı Destekleyici Program (Supporting Program) olarak edinirse, bu Programı yalnızca Asıl Programı (Principal Program) desteklemek üzere ve Asıl Programın lisansında yer alan tüm sınırlamalara tabi olarak kullanır. Lisans Alan Taraf, bu Programı Asıl Program olarak edinirse, tüm Destekleyici Programları yalnızca bu Programı desteklemek üzere ve bu Sözleşmede yer alan tüm sınırlamalara tabi olarak kullanır. Bu "f" maddenin amaçları açısından "Destekleyici Program", başka bir IBM Programının ("Asıl Program") bir bölümüdür ve Asıl Programın Lisans Bilgileri (LI) belgesinde Destekleyici Program olarak olarak belirtilir. (Bir Destekleyici Programı herhangi bir sınırlamaya tabi olmadan kullanmak üzere destekleyici Program için ayrı bir lisans almak amacıyla Lisans Alan Tarafın, Destekleyici Programı edindiği tarafa başvurması gerekir. )
+
+Bu lisans, Lisans Alan Tarafın çıkardığı tüm Program kopyaları için geçerlidir.
+
+3.1 Geçiş Amaçlı Büyütmeler, Güncellemeler, Düzeltmeler ve Yamalar
+
+3.1.1 Geçiş Amaçlı Büyütmeler
+
+Bu Program, bir Geçiş Amaçlı Büyütme Programıyla değiştirilirse, değiştirilen Programın lisansı derhal sona erer.
+
+3.1.2 Güncellemeler, Düzeltmeler ve Yamalar
+
+Programla ilgili olarak bir güncelleme, düzeltme veya yama alan Lisans Alan Taraf, bu tür güncelleme, düzeltme veya yamaların Lisans Bilgileri belgelerinde belirtilen ve bu güncelleme, düzeltme veya yamalar için geçerli olan tüm ek veya farklı koşulları kabul eder.Herhangi bir ek veya farklı koşul sağlanmadıysa, ilgili güncelleme, düzeltme veya yama için yalnızca bu Sözleşmenin koşulları geçerli olur. Lisans Alan Tarafın, elindeki Program Programın herhangi bir güncellemesi ile değiştirildiyse, değiştirilen Programı kullanmaya derhal son verecektir.
+
+3.2 Sabit Süreli Lisanslar
+
+IBM, Programı sabit bir süre için lisansladıysa, Lisans Alan Taraf ve IBM sözkonusu sabit süreyi yenilemeye karar vermedikleri sürece, Lisans Alan Tarafın lisansı bu sabit sürenin sonunda sona erer.
+
+3.3 Süre ve Sona Erdirme
+
+Bu Sözleşme, sona erdirilinceye kadar geçerlidir.
+
+Lisans Alan Tarafın bu Sözleşmenin koşullarına uygun davranmaması durumunda IBM, Lisans Alan Tarafın lisansını sona erdirebilir.
+
+Lisans, taraflardan herhangi biri tarafından herhangi bir nedenle sona erdirildiyse, Lisans Alan Taraf derhal programı kullanmaya son verir ve Programın kendisinde bulunan tüm kopyalarını imha eder. Nitelikleri gereği Sözleşmenin sona erdirilmesi ile sona ermeyen Sözleşme hükümleri yerine getirilinceye kadar yürürlükte kalır ve tarafların haleflerini ve devralanlarını bağlar.
+
+4. Ücretler
+
+Ücretler, eğer varsa, edinilen ve faturada belirtilen Yetkili Kullanımı esas alır. IBM bu Sözleşmenin başka bir yerinde belirtilenler dışında, muaccel olmuş ya da ödenmiş ücretler için Lisans Alan Tarafa alacak kaydetmez ya da geri ödeme yapmaz.
+
+Yetkili Kullanım düzeyini artırmak isteyen Lisans Alan Taraf, bu durumu önceden IBM'e veya bir IBM yetkili satıcısına bildirmeli ve geçerli tüm ücretleri ödemelidir.
+
+5. Vergiler
+
+IBM'in net gelirine dayananlar hariç olmak üzere, herhangi bir yetkili makam Programla ilgili olarak vergi, resim, harç veya başkaca mali yükün ödenmesini zorunlu kılarsa, Lisans Alan Taraf, bu tutarı bir faturada belirtildiği şekilde ödemeyi veya bunlardan muafsa, muaf olduğuna ilişkin belgeyi IBM'e sağlamayı kabul eder. Programla ilgili olarak, Programı edindiği tarihten sonraki tüm kişisel mülkiyet vergilerinden Lisans Alan Taraf sorumlu olur. Orijinal Lisans Alan Tarafın lisans aldığı ülkeye yapılan ithalat nedeniyle veya orijinal Lisans Alan Tarafın lisans aldığı ülkeden yapılan ihracat veya devir ya da Programın orijinal Lisans Alan Tarafın lisans aldığı ülke dışında kullanımı veya Programa orijinal Lisans Alan Tarafın lisans aldığı ülke dışından erişilmesi nedeniyle herhangi bir yetkili makam, özel vergi, resim, harç veya başkaca mali yükün ödenmesini zorunlu kılarsa, Lisans Alan Taraf sözkonusu özel vergi, resim, harç veya başkaca mali yükleri ödemekten sorumlu olduğunu ve bunları ödeyeceğini kabul eder.
+
+6. Para İadesi Garantisi
+
+Lisans Alan Taraf, herhangi bir nedenle Programdan memnun kalmazsa ve orijinal Lisans Alan Tarafsa, Programı, faturanın kendisine gönderildiği tarihten itibaren otuz (30) gün içinde Programı edindiği tarafa iade etmesi koşuluyla, lisansı sona erdirebilir ve eğer varsa Program için ödediği ücreti geri alabilir. Lisans, yenilemeye tabi olan bir sabit süreli lisans ise, Lisans Alan Taraf, ancak ilk sabit sürenin başlamasından sonraki otuz (30) gün içinde Programı ve Yetki Belgesini (PoE) iade ederse, Program için ödediği ücreti geri alabilir. Lisans Alan Taraf Programı bir yerden yüklediyse, parasının iade edilmesine ilişkin yönergeler için Programı edindiği tarafla bağlantı kurmalıdır.
+
+7. Programın Devri
+
+Lisans Alan Taraf, Programı ve Lisans Alan Tarafın tüm lisans hakları ve yükümlülüklerini, yalnızca devralan tarafın bu Sözleşmenin koşullarını kabul etmesi koşuluyla başka bir tarafa devredebilir. Lisans, taraflardan herhangi biri tarafından herhangi bir nedenle sona erdirildiyse, Lisans Alan Tarafın Programı üçüncü bir tarafa devretmesi yasaktır. Lisans Alan Taraf, 1) Programın veya 2) Programa ilişkin Yetkili Kullanımının bir kısmını devredemez.Lisans Alan Taraf Programı devrederse, Lisans Bilgileri belgesi dahil olmak üzere, bu Sözleşmenin basılı bir kopyasını da devretmelidir. Devir işlemi tamamlandıktan hemen sonra, Lisans Alan Tarafın lisansı sona erer.
+
+8. Garanti Verilmez
+
+TABİ BULUNDUĞU KANUNLARIN GARANTİ KAPSAMI DIŞINDA TUTULAMAYACAĞINI BELİRTTİĞİ GARANTİLER DIŞINDA IBM, BU PROGRAMA VEYA VARSA DESTEĞE İLİŞKİN HAK İHLALİ YAPILMAYACAĞINA DAİR GARANTİLER VEYA KOŞULLAR İLE TİCARİLİK, YETERLİ KALİTE VE BELİRLİ BİR AMACA UYGUNLUK İÇİN ZIMNİ GARANTİLER VEYA KOŞULLAR DA DAHİL OLMAK, ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK VEYA ZIMNİ HİÇBİR GARANTİ VERMEZ VEYA KOŞUL ÖNE SÜRMEZ.
+
+BAZI ÜLKELER YA DA HUKUK DÜZENLERİ, AÇIK YA DA ZIMNÎ GARANTİLERİN HARİÇ TUTULMASINA İZİN VERMEZ, BU DURUMDA YUKARIDA HARİÇ TUTULAN GARANTİLER LİSANS ALAN TARAF İÇİN GEÇERLİ OLMAYABİLİR. BÖYLE BİR DURUMDA, BU TÜR GARANTİLER YASAL OLARAK GEREKLİ GÖRÜLEN EN KISA SÜREYLE SINIRLIDIR. BU SÜRE DOLDUKTAN SONRA HİÇBİR GARANTİ GEÇERLİ DEĞİLDİR. BAZI ÜLKELER YA DA HUKUK DÜZENLERİ, ZIMNİ GARANTİNİN NE KADAR SÜRECEĞİNE İLİŞKİN SINIRLAMALARA İZİN VERMEZ, BU DURUMDA YUKARIDAKİ SINIRLAMALAR LİSANS ALAN TARAF İÇİN GEÇERLİ OLMAYABİLİR. LİSANS ALAN TARAF, ÜLKELERE YA DA HUKUK DÜZENLERİNE GÖRE DEĞİŞEN DİĞER HAKLARA DA SAHİP OLABİLİR.
+
+BU 8. BÖLÜMDE YER ALAN RED VE HARİÇ TUTMA KOŞULLARI, AYRICA IBM'İN PROGRAM GELİŞTİRİCİLERİ VE SAĞLAYICILARININ TÜMÜ İÇİN DE GEÇERLİDİR.
+
+IBM DIŞI PROGRAMLARIN ÜRETİCİLERİ, SAĞLAYICILARI VEYA YAYINCILARI KENDİ GARANTİLERİNİ VEREBİLİRLER.
+
+IBM AKSİNİ BELİRTMEDİĞİ SÜRECE, HİÇBİR DESTEK SAĞLAMAZ. BU TÜR BİR DURUMDA, IBM TARAFINDAN SAĞLANAN HER TÜRLÜ DESTEK İŞBU 8. BÖLÜMDE YER ALAN RED VE HARİÇ TUTMA KOŞULLARINA TABİ OLUR.
+
+9. Lisans Alan Tarafın Verileri ve Veritabanları
+
+IBM, Lisans Alan Tarafa, bu Programla ilgili olarak ortaya çıkan bir sorunun nedenini ayrıştırmasında yardımcı olmak için Lisans Alan Taraftan, 1) Lisans Alan Tarafın sistemine uzaktan erişmesi amacıyla IBM'e izin vermesini, ya da 2) Lisans Alan Tarafın bilgilerini veya sistem verilerini IBM'e göndermesini isteyebilir. IBM'in işbu Sözleşmeyle üstlendiği yükümlülüklerin kapsamı dışında kalan bir teknik desteği Lisans Alan Tarafa sağlaması için IBM ile Lisans Alan Taraf arasında ayrı bir yazılı sözleşmenin imzalanması ve bu sözleşmeyle IBM'in Lisans Alan Tarafa bu tür bir teknik desteği vermeyi kabul etmiş olması gerekir. Aksi durumda IBM Lisans Alan Tarafa bu tür bir desteği sağlamakla yükümlü olmaz. Her durumda, IBM, ürün ve hizmetlerini geliştirmek amacıyla hata ve sorunlara ilişkin bilgileri kullanır ve ilgili destek tekliflerin sağlanmasına yardımcı olur. IBM, bu amaçla, (Lisans Alan Tarafın yerleşik olduğu ülke dışındaki bir veya birden çok ülkede faaliyet gösterenler de dahil olmak üzere) IBM tüzel kişiliklerini ve altyüklenicilerini kullanabilir ve Lisans Alan taraf da bu şekilde davranması için IBM'e yetki verir.
+
+Lisans Alan Taraf, 1) IBM'e sağladığı tüm verilerden ve tüm veritabanı içeriklerinden, 2) (kişisel olarak tanımlanabilen veriler de dahil olmak üzere) verilere erişilmesi, verilerin güvenliği, şifrelenmesi, kullanımı ve aktarımıyla ilgili prosedürve denetimlerin seçimi ve uygulanmasından ve 3) tüm veritabanlarının ve depolanmış olan tüm verilerin yedeklenmesinden ve kurtarılmasından sorumludur. Lisans Alan Taraf, hiçbir veriyi veya herhangi bir diğer biçimdeki kişisel olarak tanımlanabilen hiçbir bilgiyi veri veya başka bir şekilde IBM'e göndermeyecek veya sağlamayacaktır ve IBM'e yanlışlıkla sağlanan bu tür tüm bilgilerle ya da üçüncü kişi iddialarından kaynaklananlar da dahil olmak üzere, bu türlü bilgilerin IBM tarafından kaybedilmesiyle veya açıklanmasıyla ilişkili olarak IBM'in ödemek zorunda kalabileceği tüm makul masraflardan ve diğer tutarlardan Lisans Alan Taraf sorumlu olacaktır.
+
+10. Sorumlulukların Sınırı
+
+10 numaralı (Sorumlulukların Sınırı) bu bölümde yer alan tüm sınırlamalar ve hariç tutmalar, geçerli yasalar tarafından sözleşmeyle değiştirilmesine olanak tanınmayarak yasaklanmadığı sürece, tümüyle geçerlidir.
+
+10.1 IBM'in Sorumlu Olabileceği Maddeler
+
+IBM'in bir kusurundan veya sorumluluklarını yerine getirmemesinden kaynaklanan ve Lisans Alan Tarafın zararlarını IBM'den talep etmeye hak kazandığı durumlar olabilir. Lisans Alan Tarafın, zararını IBM'den talep etmesine olanak sağlayan yasal dayanak (Sözleşmenin esasa ilişkin ihlali, ihmal, yanlış beyan, diğer akdi iddialar veya haksız fiil iddiaları dahil olmak üzere) her ne olursa olsun, IBM'in her bir Programdan kaynaklanan veya her bir Programla ilişkili veya başka bir şekilde bu Sözleşmeden kaynaklanan tüm iddialar karşısındaki bütün sorumluluğu aşağıda belirtilen tutarları aşmayacaktır: 1) ölüm dahil cismani zarar ile taşınmaz ve taşınabilir kişisel mallara verilen zararlar; ve 2) Lisans Alan Tarafın iddiaya konu olan Programa ilişkin ödediği ücreti aşmamak koşuluyla (eğer, Program sabit süreli lisans ücretine tabiyse, en çok on iki (12) aylık ücrete kadar olmak koşuluyla) herhangi diğer gerçek doğrudan zararlar.
+
+Bu sınırlama, ayrıca IBM'in Program geliştiricileri ve sağlayıcıları için de geçerlidir. Bu tutar, IBM ve Program geliştiricilerinin ve sağlayıcılarının toplu olarak sorumlu oldukları azami tutardır.
+
+10.2 IBM'in Sorumlu Olmadığı Maddeler
+
+OLASILIKLARI ÖNCEDEN BİLDİRİLMİŞ OLSA BİLE, IBM, IBM'İN PROGRAM GELİŞTİRİCİLERİ VEYA SAĞLAYICILARI AŞAĞIDAKİLERİN HİÇBİRİNDEN HİÇBİR KOŞUL ALTINDA SORUMLU OLMAZLAR:
+
+a. VERİLERDEKİ KAYIP VEYA HASARDAN;
+
+b. ÖZEL, ARIZİ, CEZAİ VEYA DOLAYLI ZARARLARDAN VEYA SONUÇTA ORTAYA ÇIKAN EKONOMİK ZARARLARDAN; VEYA
+
+c. KAR KAYBI, İŞ KAYBI, GELİR KAYBI, İTİBAR KAYBI VEYA BEKLENEN TASARRUFUN KAYBINDAN.
+
+11. Mevzuat Uyumluluğunun Doğrulanması
+
+11 numaralı (Mevzuat Uyumluluğunun Doğrulanması) bu bölümün amaçları açısıdan, "ILAN Program Koşulları": 1) bu Sözleşme ve IBM tarafından sağlanan geçerli değişiklik ve işlem belgeleri, ve 2) yedeklemeyle, alt kapasite fiyatlandırmasıyla ve geçişle ilgili ilkeler de dahil olmak, ancak tümü bunlarla sınırlı olmamak üzere, IBM Software Policy (IBM Yazılım İlkesi) Web sitesinde (www.ibm.com/softwarepolicies) bulunabilecek IBM yazılım ilkeleri anlamına gelir.
+
+11. numaralı bu bölümde belirtilen haklar ve yükümlülükler, Programın Lisans Alan Tarafa lisanslandığı dönem boyunca ve bu süreyi takip eden iki (2) yıl boyunca, geçerliliğini sürdürmeye devam eder.
+
+11.1 Doğrulama Süreci
+
+Lisans Alan Taraf, tüm Programları kullanımının, IBM'in hak kazanmaya ilişkin geçerli tüm lisans ve fiyatlandırma koşulları da dahil olmak, ancak tümü bunlarla sınırlı olmamak üzere, ILAN Program Koşullarına uygun olup olmadığının belirlenmesi amacıyla doğru tutulmuş yazılı kayıtları, sistem araçları çıktılarını ve diğer sistem bilgilerini yaratmayı, bunları saklamayı ve IBM ve ve denetçilerine sağlamayı kabul eder. 1) Yetkili Kullanımına ilişkin sınırları aşmadığını ve 2) UPLS Program Koşullarına uygun olduğunu kanıtlamak Lisans Alan Tarafın sorumluluğundadır.
+
+Makul bir süre önceden bildirerek, IBM, Lisans Alan Tarafın, ILAN Program Koşullarına tabi olan Programları (herhangi bir amaçla) kullandığı tüm yerlerde ve tüm ortamlarda, ILAN Program Koşullarına uygun davranıp davranmadığını soruşturabilir. Bu tür bir soruşturma işlemi, Lisans Alan Tarafın işine en az engel olacak şekilde ve normal iş saatleri içinde Lisans Alan Tarafın tesislerinde yapılacaktır. IBM'in, bu tür bir denetçiyle yazılı bir gizlilik sözleşmesi yapmış olması koşuluyla, IBM bu tür bir soruşturma işleminde yardımcı olacak bağımsız bir denetçi kullanabilir.
+
+11.2 Karar
+
+Bu tür bir soruşturmanın sonunda, Lisans Alan Tarafın herhangi bir Programı Yetkili Kullanımını aşacak şekilde kullandığının ya da ILAN Program Koşullarına uygun davranmadığının belirlenmesi durumunda IBM, Lisans Alan Tarafa bu durumu yazılı olarak bildirecektir. Lisans Alan Taraf, doğrudan IBM'e, IBM'in bir faturada belirttiği 1) bu tür yetkiyi aşan tüm kullanımlara, 2) hangisi daha kısaysa, bu tür yetkiyi aşan kullanım süresi veya iki yıl için verilen desteğe, ve 3) bu tür bir soruşturmanınsonucunda belirlenen tüm ek ücretlere ve diğer yükümlülüklere ilişkin ücretleri derhal ödemeyi kabul eder.
+
+12. Üçüncü Kişi Bildirimleri
+
+Bu Program, Lisans Alan Tarafa bu Sözleşme kapsamında üçüncü kişi tarafından değil IBM tarafından lisanslanan üçüncü kişi kodunu içerebilir. Eğer varsa, üçüncü kişi koduna ilişkin Bildirimler ("Üçüncü Kişi Bildirimleri"), Programa yalnızca Lisans Alan Tarafa bilgi vermek üzere eklenmiştir. Bu bildirimler, Programın NOTICES dosyasında/dosyalarında bulunabilir. Bazı üçüncü kişi kodlarına ilişkin kaynak kodunun nasıl edinilebileceğine ilişkin bilgi, Üçüncü Kişi Bildirimlerinde bulunabilir. IBM, Üçüncü Kişi Bildirimlerinde üçüncü kişi kodunu "Değiştirilebilir Üçüncü Kişi Kodu" olarak tanımlarsa, Lisans Alan Tarafa, 1) Değiştirilebilir Üçüncü Kişi Kodunu değiştirme ve 2) yalnızca, Lisans Alan Tarafın bu tür bir üçüncü kişi kodunda yaptığı değişikliklerde hata ayıklama amacıyla olmak koşuluyla, Değiştirilebilir Üçüncü Kişi Koduyla doğrudan arabirim oluşturan Program modülleri üzerinde ters mühendislik işlemleri yapma yetkisi verir. IBM'in hizmet ve destek yükümlülükleri, eğer varsa, yalnızca değiştirilmemiş Program için geçerlidir.
+
+13. Genel Koşullar
+
+a. Bu Sözleşmenin hiçbir koşulu, tüketicilerin sözleşme yoluyla vazgeçilemeyen veya sınırlandırılamayan yasal haklarını etkilemez.
+
+b. IBM'in Lisans Alan Tarafa somut bir ürün olarak sağladığı Programlar için, Lisans Alan Taraf ile IBM arasında yazılı olarak aksi kararlaştırılmadıkça, IBM, bu Programları kendisi tarafından belirlenen taşıyıcıya teslim edilmesini takiben, teslimata ve sevkiyata ilişkin yükümlülüklerini yerine getirir.
+
+c. Bu Sözleşmenin herhangi bir hükmü geçersiz ya da uygulanamaz olduğunda, Sözleşmenin geri kalan hükümleri tam olarak yürürlükte kalmaya ve geçerli olmaya devam eder.
+
+d. Lisans Alan Taraf, belirli son kullanım türleri ve belirli kullanıcılara yönelik ABD ambargosu ve yaptırımları da dahil olmak üzere, tüm geçerli ihracat ve ithalat yasa ve yönetmeliklerine uygun davranmayı kabul eder.
+
+e. Lisans Alan Taraf, International Business Machines Corporation ve bağlı kuruluşlarına (ve bunların haleflerine ve devralanlarına, yüklenicilerine ve IBM Çözüm Ortaklarına), IBM ürün ve hizmetleriyle ilgili veya IBM ile iş ilişkisini geliştirmek amacıyla, Lisans Alan Tarafın iletişim bilgilerini iş yaptıkları herhangi bir yerde depolama ve kullanma izni verir.
+
+f. Taraflardan her biri, diğer tarafın bu Sözleşmeyle ilgili yükümlülüklerini yerine getirmediği iddiasında bulunmadan önce, diğer tarafa ilgili yükümlülüğü yerine getirmesi için gereken makul fırsatı tanımayı kabul eder. Taraflar, bu Sözleşmeyle ilgili olarak ortaya çıkabilecek tüm ihtilafları, anlaşmazlıkları veya iddiaları iyi niyetle çözmeye çalışacaklardır.
+
+g. Geçerli yasaların sözleşmeyle değiştirilmesine veya sınırlandırılmasına olanak tanımayarak aksini belirttiği durumlar dışında: 1) taraflardan hiçbiri, bu Sözleşmeden kaynaklanan veya bu Sözleşmeyle ilgili olarak yasal işlem gerektiren bir durumun üzerinden iki yıldan fazla bir süre geçtikten sonra hangi biçimde olursa olsun, yasal bir işlemde bulunamaz; ve 2) bu sürenin sona ermesiyle birlikte, bu tür tüm iddialar ve bu iddialarla ilgili tüm haklar zamanaşımına uğrar.
+
+h. Taraflardan hiçbiri, elinde olmayan nedenlerden ötürü yükümlülüklerini yerine getirememekten sorumlu tutulamaz.
+
+i. Bu Sözleşme herhangi bir üçüncü kişi için bir dava hakkı ya da bir dava nedeni yaratmaz ve ayrıca IBM, yukarıda yer alan 10.1 numaralı (IBM'in Sorumlu Olabileceği Maddeler) başlıklı bölümde izin verilenler dışında ilgili üçüncü kişiye karşı yasal olarak sorumlu olduğu (ölüm dahil) cismani zarar veya taşınmaz ve taşınabilir kişisel mallara verilen zarar dışında, üçüncü bir kişi tarafından Lisans Alan tarafa yöneltilen herhangi bir iddiaya karşı sorumluluk üstlenmez.
+
+j. Bu Sözleşmeyi imzalayarak, taraflardan hiçbiri : 1) Bu Programın performans veya işlevleri; 2) diğer tarafların deneyimleri veya önerileri; veya 3) Lisans Alan Tarafın elde edebileceği sonuçlar veya tasarruflar da dahil olmak, ancak tümü bunlarla sınırlı olmamak üzere bu Sözleşmede belirtilmemiş olan hiçbir beyana itibar etmeyecektir.
+
+k. IBM, belirli kuruluşlarla ("IBM Çözüm Ortakları" olarak adlandırılır) belirli Programları tanıtmak, pazarlamak ve desteklemek üzere sözleşmeler imzalamıştır. IBM Çözüm Ortakları, IBM'den ayrı ve bağımsız kuruluşlardır. IBM, IBM Çözüm Ortaklarının eylemlerinden veya bildirimlerinden ya da Lisans Alan Tarafa karşı yükümlülüklerinden sorumlu değildir.
+
+l. Lisans Alan Tarafın IBM ile yaptığı diğer sözleşmelere (örneğin, IBM Müşteri Sözleşmesi) ilişkin lisans ve fikri mülkiyete ilişkin tazminat koşulları bu Sözleşme kapsamında sağlanan Program lisansları için geçerli olmaz.
+
+m. Her iki taraf da, birbirleriyle paylaştıkları bilgilerin gizli olmadığını kabul eder; Taraflar'ın birbirine gizli bilgi açıklamak istemeleri halinde, bu taraflarca ayrıca imzalanacak bir gizlilik sözleşmene tabidir.
+
+14. Coğrafi Kapsam ve Geçerli Yasa
+
+14.1 Geçerli Yasa
+
+Taraflar, kanunlar ihtilafı prensibine bakılmaksızın, bu Sözleşmenin konusundan doğan veya bir biçimde bu Sözleşmenin konusu ile ilgili olan haklar, görevler ve yükümlülüklerin, Lisans Alan Tarafın lisansı edindiği ülkenin yasalarına tabi olup, yine bunların yorumlanması ve uygulanmasında bu yasaların geçerli olduğunu kabul ederler.
+
+Birleşmiş Milletler'in Uluslararası Mal Satışlarına ilişkin Sözleşme Bildirgesi geçerli değildir.
+
+14.2 Yetkili Mahkeme
+
+Tarafların tüm hak, görev ve yükümlülükleri, Lisans Alan tarafın Program lisansını edindiği ülkenin mahkemelerine tabidir.
+
+Bölüm 2 - Ülkeye Özgü Koşullar
+
+Aşağıda belirtilen ülkelerde verilen lisanslara ilişkin olarak aşağıda belirtilen koşullar Bölüm 1'de atıfta bulunulan koşulların yerine geçer veya onları değiştirir. Bölüm 1'de yer alan ve bu değişiklik eki tarafından değiştirilmeyen tüm koşullar değişmeksizin yürürlükte kalmaya devam eder. Bölüm 2 aşağıda belirtilen şekilde düzenlenmiştir:
+
+* Bölüm 1, Madde 14 (Geçerli Yasa ve Yetkili Mahkeme) için Ülkeye özgü değişiklikler; ve
+
+* Diğer Sözleşme hükümlerine ilişkin Avrupa, Orta Doğu ve Afrika ülkelerine özgü değişiklikler.
+
+Bölüm 1, Madde 14 (Geçerli Yasa ve Yetkili Mahkeme) için ülkeye özgü değişiklikler;
+
+14.2 Yetkili Mahkeme
+
+Aşağıdaki paragraf yetkili mahkeme ile ilgilidir ve Türkiye için geçerli olduğundan Altbölüm 14.2 (Yetkili Mahkeme) içinde yer alan koşulları değiştirir:
+
+Tarafların tüm hak, görev ve yükümlülükleri, Lisans Alan Tarafın Program lisansını edindiği ülkenin mahkemelerine tabidir. Ancak, aşağıda belirtilen ülkeler için, seri yargılama usulü de dahil olmak üzere, bu Sözleşmeden doğan veya bu Sözleşmenin yürütülmesiyle ilgili tüm anlaşmazlıklar, aşağıda belirtilen ve yetkili mahkeme olan mahkemelere tabi olacak ve bu mahkemelerde çözümlenecektir:
+
+Türkiye'de: Türkiye Cumhuriyeti'nin İstanbul Merkez Mahkemelerinde ya da İcra Dairelerinde çözümlenecektir.
+
+AVRUPA, ORTA DOĞU, AFRİKA (EMEA) ÜLKELERİNE İLİŞKİN DEĞİŞİKLİKLER
+
+AVRUPA BİRLİĞİ (AB) ÜLKELERİ
+
+8. Garanti Verilmez
+
+Aşağıdaki paragraf, 8 (Garanti Verilmez) numaralı bölüme eklenmiştir:
+
+Avrupa Birliği'nde ("AB"), tüketicilerin, tüketim mallarının satışına ilişkin geçerli ulusal mevzuat kapsamında yasal hakları bulunmaktadır. Bu haklar, 8 numaralı bölümde (Garanti Verilmez) yer alan hükümlerden etkilenmez.
+
+AB ÜYESİ ÜLKELER VE TÜRKİYE
+
+Verilerin gizliliğine veya korunmasına ilişkin yerel mevzuatını AB modeline uyumlu hale getirmiş olan Türkiye veya herhangi bir diğer Avrupa ülkesi.
+
+13. Genel Koşullar
+
+Aşağıdaki paragraf Madde 13.e'nin yerine geçer:
+
+(1) Tanımlar - Madde 13.e'nin amacı açısından aşağıdaki ek tanımlar geçerli olur:
+
+(a) İş İletişim Bilgileri - Lisans Alan Tarafın çalışanlarına ve yüklenicilerine ilişkin adlar, görevler, iş adresleri, telefon numaraları ve e-posta adresleri de dahil olmak üzere Lisans Alan Taraf tarafından IBM'e açıklanan işle ilgili iletişim bilgileri. Avusturya, İtalya ve İsviçre için İş İletişim Bilgileri, tüzel kişilikler olan Müşteri ve Müşterinin yüklenicilerine ilişkin bilgileri (örneğin, Müşterinin gelir verileri ve diğer işlem bilgileri) de içerir.
+
+(b) İletişim Sorumluları - İş İletişim Bilgileriyle ilgili olan Lisans Alan Taraf çalışanları ve yüklenicileri.
+
+(c) Veri Koruma Yetkilisi - İlgili ülkede geçerli Veri Koruma ve Elektronik İletişim Mevzuatı tarafından belirlenen yetkili veya AB ülkeleri dışındaki ülkeler için, ilgili ülkedeki kişisel verilerin korunması için danışmanlıktan sorumlu yetkili veya (yukarıda belirtilenlerin herhangi biri için) usulüne uygun olarak bu tür yetkililerin halefi olarak atanan yetkili.
+
+(d) Veri Koruma & Elektronik İletişim Mevzuatı - (i) 95/46/EC kodlu AB Yönergesinin (kişisel verilerin işlenmesiyle ve bu tür verilerin serbest dolaşımıyla ilgili olarak kişilerin korunmasını amaçlar) ve 2002/58/EC kodlu AB Yönergesinin (elektronik iletişim sektöründe kişisel verilerin işlenmesiyle ve korunmasıyla ilgilidir) koşullarını uygulamak üzere yürürlükte olan yerel mevzuat ve düzenlemeler; ya da (ii) AB ülkeleri dışındaki ülkeler için, (yukarıda belirtilenlerden herhangi biri için) yasal mevzuat ve/veya düzenlemelerde yapılan herhangi bir yasal değişiklik de dahil olmak üzere, ilgili ülkede, kişisel verilerin korunmasıyla ve kişisel verilerle ilgili elektronik iletişimin düzenlenmesiyle ilgili yürürlükte olan yasal mevzuat ve/veya düzenlemeler.
+
+(e) IBM Grubu - International Business Machines Corporation of Armonk, New York, ABD, bağlı şirketleri ve bunların ilgili Çözüm Ortakları ve altyüklenicileri.
+
+(2) Lisans Alan Taraf, IBM'e aşağıda belirtilenlere ilişkin yetki verir:
+
+(a) Destek hizmetlerinin sağlanması da dahil olmak üzere, Lisans Alan Tarafı desteklemek amacıyla İletişim Sorumlularıyla bağlantı kurulması (e-posta veya başka yollarla) ve IBM Grubu ürünleri ve hizmetlerinin pazarlanması amacı da dahil olmak, ancak tümü bunlarla sınırlı olmamak üzere, Lisans Alan Tarafla IBM Grubu arasındaki iş ilişkisinin geliştirilmesinin sağlanması amacıyla ("Belirlenen Amaç") IBM Grubu içinde İş İletişim Bilgilerinin işlenmesi ve kullanılması; ve
+
+(b) İş İletişim Bilgilerinin, yalnızca Belirlenen Amaçla ilgili olarak IBM Grubunun diğer üyelerine açıklanması.
+
+(3) IBM, İş İletişim Bilgilerinin, Veri Koruma & Elektronik İletişim Mevzuatına uygun olarak işleneceğini ve yalnızca Belirlenen amaç için kullanılacağını kabul eder.
+
+(4) Veri Koruma & Elektronik İletişim Mevzuatının gerektirdiği ölçüde Lisans Alan Taraf, IBM Grubuna İş İletişim Bilgilerinin Belirlenen Amaç için işlenmesini ve kullanılmasını sağlamak amacıyla İletişim Sorumlularından gereken tüm izinleri aldığını (ve alacağını) ve tüm bildirimleri İletişim Sorumlularına gönderdiğini (veya göndereceğini) beyan eder.
+
+(5) Lisans Alan Taraf, IBM'e İş İletişim Bilgilerini, aktarım işleminin Veri Koruma Yetkilisi tarafından onaylanan sözleşme koşullarına uygun olarak gerçekleştirilmesi veya aktarım işlemine Veri Koruma & Elektronik İletişim Mevzuatı kapsamında izin verilmesi koşuluyla Avrupa Ekonomik Alanı dışına aktarma yetkisini verir.
+
+Z125-5589-05 (07/2011)
+
+

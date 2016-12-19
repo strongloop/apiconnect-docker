@@ -1,0 +1,1031 @@
+LICENČNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základě následujících podmínek uvedených v dokumentu Licenční informace, které doplňují licenční podmínky pro Program, s nimiž dříve Zákazník a IBM vyjádřili souhlas Pokud Zákazník dříve nevyjádřil souhlas s účinnými licenčními podmínkami pro Program, uplatní se licence Mezinárodní licenční smlouva pro programy bez záruky (Z125-5589-05).
+
+Název Programu: IBM API Connect on Docker V5.0
+Číslo Programu: 5725-Z22
+
+Podpůrné programy
+
+Program je licencován jako multiprogramový balík zahrnující níže identifikované Podpůrné programy. Držitel licence je oprávněn nainstalovat a užívat tyto Podpůrné programy pouze k podpoře užívání Základního programu Držitelem licence v souladu s touto Smlouvou a v rámci omezení stanovených dokumentem o oprávnění (Proof of Entitlement), ledaže by na jiném místě v tomto dokumentu Licenční informace byl stanoven širší rozsah práv. Formulace "k podpoře užívání Držitelem licence" bude zahrnovat pouze takové způsoby užívání, které jsou nezbytné nebo jinak přímo souvisejí s licencovaným užíváním Základního programu nebo jiného Podpůrného programu. Podpůrné programy nesmí být užívány k žádnému jinému účelu. Držitel licence není oprávněn Podpůrné programy převádět nebo dále prodávat nezávisle na Základním programu. K Podpůrnému programu mohou být připojeny licenční podmínky. Tyto podmínky (pokud existují) platí pro užívání tohoto Podpůrného programu Držitelem licence. V případě rozporu podmínek mají přednost podmínky uvedené v tomto dokumentu Licenční informace před podmínkami Podpůrného programu. Jestliže oprávnění Držitele licence na užívání Programu skončí, je Držitel licence povinen přestat používat, zničit nebo bezodkladně vrátit všechny kopie Podpůrných programů smluvní straně, od níž získal Program. Jestliže Držitel licence stáhnul Podpůrné programy, je povinen kontaktovat smluvní stranu, od níž zakoupil Program. Jestliže chce Držitel licence Podpůrné programy licencovat pro jakékoli užívání přesahující výše uvedené limity, musí se obrátit za účelem pořízení příslušných licencí na Obchodního zástupce IBM nebo na smluvní stranu, od které Program získal.
+
+S Programem jsou licencovány následující Podpůrné programy:
+IBM WebSphere DataPower Option for Application Optimization V7.5
+WebSphere Application Server Liberty Core V8.5.5
+API Connect Create for Node.js V5.0
+IBM HTTP Server
+
+Omezení užívání - pouze pro vývojáře
+
+Je-li v názvu Programu uveden výraz "For Developers", může být Program implementován pouze v rámci interního vývoje a testování jednotek Držitele licence na stroji vývojáře. Stroj vývojáře je prostředí fyzického nebo virtuálního počítače, na němž je provozován primární operační systém a Program, přičemž jak tento operační systém, tak i Program jsou dostupné a užívané nejvýše jedním určeným vývojářem. Držitel licence není oprávněn užívat Program ke zpracování pracovních zátěží, simulování produktivních pracovních zátěží nebo k testování rozšiřitelnosti jakéhokoliv kódu, aplikace nebo systému. Držitel licence není oprávněn užívat žádnou část Programu k jakýmkoliv jiným účelům, ledaže by si zakoupil příslušná oprávnění k užívání v produktivním prostředí.
+
+Samostatně licencovaný kód
+
+Podmínky tohoto odstavce se neaplikují v míře, v níž jsou považována za neplatná nebo nevymahatelná na základě právních předpisů, jimiž se řídí tato licence. Každá z komponent uvedených níže je považována za "Samostatně licencovaný kód". Licence na Samostatně licencovaný kód IBM je udělována Držiteli licence na základě podmínek platné licenční smlouvy (platných licenčních smluv) třetích stran, jak je uvedeno v souboru(ech) NON_IBM_LICENSE připojeném(ých) k Programu. Nestanoví-li tato Smlouva nebo jiná licenční smlouva, kterou může Držitel licence uzavřít s IBM, jinak, řídí se jeho užívání veškerého Samostatně licencovaného kódu podmínkami takové(vých) licenční(ch) smlouvy (smluv) třetích stran, pokud není níže uvedeno jinak.
+
+Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodatečný Samostatně licencovaný kód. Takový dodatečný Samostatně licencovaný kód a související licence jsou uvedeny v jiném souboru "NON_IBM_LICENSE" připojeném k aktualizaci Programu nebo sadě oprav k Programu. Držitel licence potvrzuje, že přečetl podmínky licenční smlouvy obsažené v souboru(ech) NON_IBM_LICENSE a že s nimi souhlasí. Jestliže Držitel licence nesouhlasí s podmínkami těchto licenčních smluv třetích stran, nesmí užívat Samostatně licencovaný kód.
+
+Pro Programy zakoupené na základě Mezinárodní licenční smlouvy na programy ("IPLA") nebo Mezinárodní licenční smlouvy pro programy bez záruky ("ILAN") a za předpokladu, že Držitel licence je původním držitelem licence na Program, platí, že jestliže Držitel licence nesouhlasí s podmínkami licenčních smluv třetích stran, může vrátit Program v souladu s podmínkami (a v rámci stanoveného časového období) uvedenými v oddíle "Záruka vrácení peněz" ve smlouvě IBM IPLA nebo ILAN.
+
+Poznámka: Bez ohledu na jakékoliv podmínky licenční smlouvy třetí strany, této Smlouvy s IBM nebo jakékoliv jiné smlouvy, kterou můžete mít s IBM uzavřenou:
+(a) IBM poskytuje Držiteli licence tento Samostatně licencovaný kód BEZ ZÁRUK JAKÉHOKOLIV DRUHU;
+(b) IBM VYLUČUJE VEŠKERÉ ZÁRUKY A PODMÍNKY VÝSLOVNĚ VYJÁDŘENÉ A VYPLÝVAJÍCÍ Z OKOLNOSTÍ VČETNĚ - A TO ZEJMÉNA - ZÁRUKY VLASTNICKÉHO NÁROKU, ZÁRUKY NEPORUŠENÍ PRÁV TŘETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO URČITÝ ÚČEL, POKUD JDE O SAMOSTATNĚ LICENCOVANÝ KÓD;
+(c) IBM nenese vůči Držiteli licence odpovědnost, ani jej nebude hájit a neodškodní jej v souvislosti s jakýmikoli nároky na náhradu škody vztahujícími se k Samostatně licencovanému kódu; a
+(d) IBM nenese odpovědnost za žádné přímé, nepřímé, nahodilé, zvláštní, exemplární škody ani za sankční náhrady škody nebo za následné škody včetně - a to zejména - ztráty dat, ztráty úspor, ušlého zisku, v souvislosti se Samostatně licencovaným kódem.
+
+Bez ohledu na tato vyloučení se záruka a odpovědnost IBM za Samostatně licencovaný kód řídí na území Německa a Rakouska pouze příslušnými podmínkami platnými pro Německo a Rakousko v licenčních smlouvách IBM.
+
+Poznámka: IBM může poskytnout omezenou podporu pro určitý Samostatně licencovaný kód. Je-li taková podpora dostupná, budou podrobné informace a dodatečné podmínky vztahující se k takové podpoře stanoveny v dokumentu Licenční informace.
+
+Níže je uveden Samostatně licencovaný kód:
+acl
+acpi
+acpid
+acpi-support
+adaptivetheme (drupal)
+addressfield (drupal)
+AddToAny (drupal)
+adduser
+admin_menu (drupal)
+adminimal_admin_menu (drupal)
+adminimal_theme (drupal)
+advagg (drupal)
+Advanced Forum (drupal)
+Advanced syslog (drupal)
+alpha_pagination
+alsa-lib
+angular.js/images/logo
+Ansible
+apt
+aptitude
+aptitude-common
+apt-transport-https
+apt-utils
+at
+AT Tools (drupal)
+atk
+attr
+audit
+audit-libs
+augeas
+autogen
+autogen-libopts
+Automated Logout (drupal)
+avahi
+base-files
+base-lsb
+base-passwd
+bash
+bc
+Bean (drupal)
+better_exposed_filters (drupal...
+binary_heap.js
+bind
+bind9-host
+binutils
+Block Class (drupal)
+Block Class Styles (drupal)
+BOA
+bridge-utils
+bsdutils
+busybox
+c3p0
+ca-certificates
+cairo
+cairo-spice
+caniuse-db(node)
+CAPTCHA (Drupal)
+cdrkit
+chain_menu_access
+chkconfig
+commons.wikimedia
+compat-gcc-32
+config.guess
+ConsoleKit
+console-setup
+content_access (drupal)
+context (drupal)
+coreutils
+cpio
+cracklib
+cracklib-dicts
+cron
+cronie
+crontabs
+cryptsetup-libs
+cryptsetup-luks
+csync2
+CTools (drupal)
+cups
+cvs
+d3 (drupal)
+dash
+dbus
+dbus-glib
+dbus-libs
+debian-archive-keyring
+debianutils
+desktop-file-utils
+device-mapper
+device-mapper-libs
+device-mapper-multipath
+dialog
+dictionaries-common
+diffutils
+discover
+dmidecode
+dmsetup
+dnsmasq
+dpkg
+dracut
+Drafty (Drupal)
+drbd83-kmod
+drbd83-utils
+Drupal
+drupal_helpers (drupal)
+drush_language (drupal)
+e2fslibs
+e2fslibs:amd64
+e2fsprogs
+ebtables
+ed
+eggdbus
+eject
+ejectorseat (drupal)
+elfutils
+entity (drupal)
+Entity API (drupal)
+Entity Reference (drupal)
+ethtool
+FAQ (drupal)
+faq.html
+Farbtastic
+ffmpeg-spice
+field_group (drupal)
+filesystem
+findutils
+fipscheck
+Fivestar (drupal)
+Flag (Drupal)
+flood_control
+follow
+Font Awesome4.1.0
+Font-Awesome
+forum_access
+frameprevention (drupal)
+gamin
+gawk
+gcc
+gcc-4.7-base
+gcc-5-base
+gcc-6-base
+gdb
+gdbm
+geoip-database
+gettext
+gettext-base
+git
+git-core
+git-man
+glib2
+glibc
+glibc-common
+gmp
+GNU Libtool
+gnupg
+gnupg2
+gnutls
+gobject-introspection
+gpgme
+gpgv
+gpm
+gpxe
+grep
+groff
+groff-base
+Group (drupal)
+grub
+grub2-common
+grubby
+grub-common
+grub-pc
+grub-pc-bin
+gtfs
+gtk2
+gzip
+Hibernate
+hicolor-icon-theme
+hide_submit (Drupal)
+Hierachical Select (Drupal)
+hierarchical_select
+hierarchical_select (drupal)
+hostname
+Htmlmail (drupal)
+httprl (drupal)
+hwdata
+hybridauth (drupal)
+hybridauth library
+i18n (drupal)
+ifupdown
+igb-kmod
+Image CAPTCHA Refresh (drupal)
+Images
+IMCE
+IMCE (drupal)
+imce_wysiwyg
+imce_wysiwyg (drupal)
+index-debug.html
+inetutils-ping
+info
+init
+initramfs-tools
+initscripts
+init-system-helpers
+insserv
+installation-report
+install-info
+iproute
+iproute2
+iptables
+iputils
+iputils-ping
+ipvsadm
+irqbalance
+iscsi-initiator-utils
+iso-codes
+ixgbe-kmod
+java-common
+jq
+jQuery Update (drupal)
+JSONSelect site
+kbd
+kernel
+kexec-tools
+keyboard-configuration
+keyutils
+keyutils-libs
+klibc-utils
+kmod
+kmod-libs
+kpartx
+l10n_update
+l10n_update (drupal)
+LDAP (drupal)
+legal (drupal)
+less
+libacl
+libacl1
+libacl1:amd64
+libaio
+libaio1
+libaio-devel
+libapparmor1
+libapt-inst1.5
+libapt-pkg4.12
+libapt-pkg4.12:amd64
+libapt-pkg5.0
+libart_lgpl
+libasprintf0c2
+libasprintf0c2:amd64
+libassuan
+libasyncns
+libatm1
+libattr
+libattr1
+libattr1:amd64
+libaudit1
+libaudit1:amd64
+libaudit-common
+libavahi-common-data:amd64
+libblkid
+libblkid1
+libblkid1:amd64
+libbz2-1.0
+libbz2-1.0:amd64
+libc6
+libc6:amd64
+libcap2
+libcap2-bin
+libcap-ng
+libc-bin
+libcgroup
+libclass-isa-perl
+libcmpiutil
+libcomerr2
+libcryptsetup4
+libcryptsetup4:amd64
+libcwidget3
+libdb5.1
+libdb5.1:amd64
+libdbd-mysql-perl
+libdbi-perl
+libdb-utils
+libdevmapper1.02.1
+libdevmapper1.02.1:amd64
+libdevmapper-event1.02.1
+libdiscover2
+libept1.4.12
+liberror-perl
+libestr0
+libev4
+libfdisk1
+libfile-copy-recursive-perl
+libfreetype6
+libfreetype6:amd64
+libfuse2
+libgcc1
+libgcc1:amd64
+libgcrypt
+libgcrypt11
+libgcrypt11:amd64
+libgcrypt20
+libgcrypt20:amd64
+libgd2-xpm
+libgd2-xpm:amd64
+libgd3
+libgdbm3
+libgdbm3:amd64
+libgeoip1
+libgeoip1:amd64
+libglib
+libglib2.0-0
+libglib2.0-data
+libgmp10
+libgmp10:amd64
+libgnutls2
+libgnutls26:amd64
+libgnutls30
+libgnutls-openssl27
+libgnutls-openssl27:amd64
+libgpg-error
+libgpg-error0
+libgpg-error0:amd64
+libgpm2
+libhogweed2:amd64
+libhogweed4
+libhtml-template-perl
+libidn
+libidn11
+libidn11:amd64
+libjbig0
+libjbig0:amd64
+libjpeg8
+libjpeg-turbo
+libkeyutils1
+libkeyutils1:amd64
+libklibc
+libkmod2
+libkmod2:amd64
+liblcms2-2:amd64
+liblocale-gettext-perl
+libltdl7
+libltdl7:amd64
+liblz4-1
+liblzma5
+liblzma5:amd64
+libmariadbclient18
+libmcrypt4
+libmnl
+libmnl0
+libmount
+libmount1
+libmount1:amd64
+libmverbs
+libmysqlclient18
+libmysqlclient20
+libnetfilter_conntrack
+libnettle4:amd64
+libnettle6
+libnewt0.52
+libnfnetlink
+libnfnetlink0
+libnih
+libnl
+libnspr4:amd64
+libnuma1
+libopts25
+libp11-kit0
+libp11-kit0:amd64
+libpam0g
+libpam0g:amd64
+libpam-modules
+libpam-modules:amd64
+libpam-modules-bin
+libpam-runtime
+libpci3
+libpci3:amd64
+libperconaserverclient18.1
+libperl5.22
+libpipeline1
+libpipeline1:amd64
+libpng12-0
+libpng12-0:amd64
+libpopt0
+libpopt0:amd64
+libprocps0
+libprocps0:amd64
+libprocps3:amd64
+libprocps4
+libqdbm14
+Libraries API (drupal)
+libreadline5
+libreadline5:amd64
+libreadline6
+libreadline6:amd64
+librsync1
+librsync1:amd64
+librtmp0
+librtmp0:amd64
+librtmp1
+librtmp1:amd64
+libsasl2-2
+libsasl2-2:amd64
+libsasl2-modules
+libsasl2-modules:amd64
+libsasl2-modules-db
+libseccomp2
+libselinux
+libselinux1
+libselinux1:amd64
+libsemanage
+libsemanage1
+libsemanage1:amd64
+libsemanage-common
+libsepol
+libsepol1
+libsepol1:amd64
+libsigc++-2.0-0c2a
+libsigc++-2.0-0c2a:amd64
+libsigsegv2
+libslang2
+libslang2:amd64
+libsmartcols1
+libsmartcols1:amd64
+libsndfile
+libss
+libss2
+libss2:amd64
+libstdc++
+libstdc++6
+libstdc++6:amd64
+libswitch-perl
+libsystemd0
+libsystemd0:amd64
+libt
+libt1-5
+libtasn1
+libtasn1-3
+libtasn1-3:amd64
+libtasn1-6
+libtasn1-6:amd64
+libtext-charwidth-perl
+libtext-iconv-perl
+libtext-wrapi18n-perl
+libthai
+libtool
+libudev0
+libudev0:amd64
+libudev1
+libudev1:amd64
+libusb
+libusb-0.1-4
+libusb-0.1-4:amd64
+libuser
+libustr-1.0-1
+libustr-1.0-1:amd64
+libutempter
+libuuid1
+libuuid1:amd64
+libuuid-perl
+libvirt
+libvirt-cim
+libvpx1:amd64
+libxapian22
+libxtables11
+linkchecker (drupal)
+linkit
+linkit (drupal)
+linkit_picker
+linkit_picker (drupal)
+linux-base
+linux-image-3.2.0
+lksctp-tools
+lm_sensors
+locales
+login
+logrotate
+lsb-base
+lsb-release
+lsof
+lsyncd
+lvm2
+lzo
+lzop
+m4
+Mailsystem (drupal)
+make
+MAKEDEV
+man
+man-db
+manpages
+mariadb-client-5.5
+mariadb-client-core-5.5
+mariadb-common
+mariadb-galera-server
+mariadb-galera-server-5.5
+markdown (drupal)
+material-design-icons
+material-design-icons-iconfont
+mawk
+mdadm
+megaraid_sas-kmod
+menu_item_visibility (drupal)
+messaging (drupal)
+metatag (drupal)
+microcode_ctl
+mime-support
+mingetty
+module-init-tools
+motif
+mount
+mptlinux-kmod
+multiarch-support
+mysql
+mysql-common
+nano
+netbase
+netcat-traditional
+netcf
+net-tools
+newt
+nfs-utils
+nginx
+nginx-common
+nginx-full
+nmap
+no_autocomplete (drupal)
+node_clone (drupal)
+notifications (drupal)
+notifications_forum (drupal)
+nss-pam-ldapd
+ntp
+ntpdate
+numactl
+numad
+ocfs2-tools
+ofa_kernel
+OpenIPMI
+openjdk-8-jre-headless:amd64
+openssh-blacklist
+openssh-blacklist-extra
+openssh-client
+openssh-server
+openssh-sftp-server
+oprofile
+os-prober
+pam
+pam_ldap
+Panels (drupal)
+pango
+parted
+passwd
+Password policy (drupal)
+patch
+Pathologic (drupal)
+PCD
+pciutils
+Percona XtraDB Cluster
+percona-xtrabackup
+Percona-XtraDB-Cluster
+percona-xtradb-cluster-client-5.6
+percona-xtradb-cluster-common-5.6
+percona-xtradb-cluster-galera-3
+percona-xtradb-cluster-galera-3.x
+perl
+perl-base
+perl-modules
+perl-modules-5.22
+PHP SAML2
+phpmailer
+PHPMailer (drupal)
+pinentry
+pkgconfig
+pkg-config
+plymouth
+pm-utils
+polkit
+portreserve
+prelink
+procmail
+procps
+procps-ng
+psmisc
+pth
+pulseaudio
+pygobject3-base
+pygpgme
+pyliblzma
+python
+python2.7
+python2.7-minimal
+python-apt
+python-apt-common
+python-chardet
+python-gnupginterface
+python-kitchen
+python-minimal
+python-pycurl
+python-software-properties
+python-support
+python-urlgrabber
+pyxattr
+qemu-kvm
+qrencode-libs
+readline
+readline-common
+rename
+restrict_by_ip (drupal)
+restws (drupal)
+rng-tools
+rpm
+rpm-build-libs
+rpm-libs
+rpm-python
+rsync
+rsyslog
+Rules_http_client (drupal)
+scsi-target-utils
+seabios
+search_autocomplete (drupal)
+search_config (drupal)
+search404 (drupal)
+seckit (drupal)
+security_questions (drupal)
+sed
+seek-bzip
+sensible-utils
+session_limit (drupal)
+sgml-base
+shadow-utils
+shared-mime-info
+sharutils
+Simple Dialog
+simplesamlphp
+simplesamlphp_auth (drupal)
+site_test (drupal)
+site_test_helpers (drupal)
+slang
+slick (drupal)
+slick_extras (drupal)
+slick_views (drupal)
+socat
+SPDX specification
+spdx-exceptions(Node)1.0.3
+spdx-exceptions(Node)1.0.4
+spdx-exceptions(Node)1.0.5
+spdx-expression-parse (node)
+spice-server
+ssh-import-id
+sshpass
+ssmtp
+startpar
+StatsD (drupal)
+stickynav (drupal)
+Support Ticketing System (drupal)
+swig
+sysfsutils
+syslog-ng
+sysstat
+systemd
+systemd-libs
+systemd-sysv
+sysvinit
+sysvinit-utils
+sysv-rc
+TagCloud (drupal)
+tar
+tar-static
+tasksel
+tasksel-data
+taxonomy_menu
+taxonomy_menu (drupal)
+taxonomy_menu_block (drupal)
+texinfo
+tfa
+tfa (drupal)
+tfa_basic
+tfa_basic (drupal)
+time
+tinyMCE
+tmpreaper
+Token (Drupal)
+traceroute
+Translation helpers (drupal)
+transliteration (drupal)
+trustedgrub
+tunctl
+Twitter Timeline (drupal)
+ubuntu-keyring
+ucf
+udev
+ufw
+Ulimate Cron (Drupal)
+unattended-upgrades
+underscore.js (drupal)
+unixODBC
+update-inetd
+upstart
+user_pwreset_timeout (Drupal)
+usersearchtoadmin (Drupal)
+ustr
+util-linux
+util-linux-locales
+util-linux-ng
+Variable (drupal)
+vgabios
+Views (drupal)
+Views data export (Drupal)
+Views_bulk_operations (drupal)
+views_send (drupal)
+vim
+vim-minimal
+Voting API (drupal)
+VPPR (drupal)
+wget
+which
+whiptail
+workbench (drupal)
+workbench_moderation (drupal)
+Wysiwig (drupal)
+x11-common
+xautoload (drupal)
+xdg-user-dirs
+xml-core
+xmlto
+xpath.js
+xtrabackup
+xz
+xz-utils
+yum
+yum-metadata-parser
+yum-plugin-fastestmirror
+yum-plugin-ovl
+yum-utils
+
+Benchmarking
+
+Držitel licence je oprávněn sdělit výsledky testování Programu nebo jeho dílčích komponent libovolné třetí straně za předpokladu, že (A) Držitel licence veřejně oznámí kompletní metodologii použitou při testování (např. nastavení hardwaru a softwaru, postup instalace a konfigurační soubory), (B) provede testování při spouštění Programu ve svém Určeném provozním prostředí a použije nejnovější aktualizace a opravy, které IBM nebo třetí strany dodávající produkty IBM ("Třetí strany") pro Program zpřístupnily, a (C) bude postupovat v souladu s veškerými pokyny pro ladění výkonu a "osvědčenými postupy", které jsou k dispozici v dokumentaci k Programu a na webových stránkách IBM týkajících se podpory Programu. Pokud Držitel licence zveřejní výsledky benchmarkových testů Programu, pak budou IBM nebo Třetí strany, nestanoví-li podmínky smlouvy uzavřené mezi Držitelem licence a IBM nebo Třetími stranami jinak, oprávněny zveřejnit výsledky testování produktů Držitele licence, přičemž IBM nebo Třetí strany musí při testování produktů Držitele licence dodržet požadavky uvedené výše v bodech (A), (B) a (C).
+
+Bez ohledu na výše uvedené nesmí Držitel licence za žádných okolností zveřejnit výsledky benchmarkových testů technologie Outside In Technology bez předchozího písemného souhlasu.
+
+Výše uvedené podmínky týkající se testování se vztahují na níže uvedené Programy nebo jejich dílčí komponenty:
+IBM Connect V5.0
+
+Komponenty ve vzorovém kódu a Vzorové materiály
+
+Program může obsahovat některé komponenty ve formě zdrojového kódu ("Komponenty ve zdrojovém kódu") a jiné materiály označované jako Vzorové materiály. Držitel licence smí kopírovat a měnit Komponenty ve zdrojovém kódu a Vzorové materiály pouze pro interní užívání a pouze pod podmínkou, že toto užívání bude v souladu s omezeními licenčních oprávnění stanovenými touto Smlouvou. Držitel licence však nesmí měnit ani odstraňovat žádné informace nebo výhrady týkající se autorských práv obsažené v Komponentách ve zdrojovém kódu nebo ve Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDŘENÉ VÝSLOVNĚ ČI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VČETNĚ ZÁRUKY VLASTNICTVÍ, NEPORUŠENÍ PRÁV TŘETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚČEL.
+
+Jednotka PVU
+
+Jednotka PVU (Processor Value Unit) je měrnou jednotkou, na jejímž základě může být Program licencován. Počet vyžadovaných oprávnění k jednotkám PVU je založen na technologii procesoru (definované v Tabulce PVU členěné podle Prodejce procesoru, Značky, Typu a Čísla modelu, která je uvedena na webové adrese http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html) a na počtu procesorů zpřístupněných pro Program. IBM i nadále definuje procesor pro účely licencování na základě jednotek PVU jako každé procesorové jádro na čipu. Dvoujádrový procesorový čip má například dvě procesorová jádra.
+
+Držitel licence může implementovat Program prostřednictvím licencování buď na základě Plné kapacity (Full Capacity), nebo Virtualizační kapacity (takzvané dílčí kapacity) v souladu s licenčními podmínkami Passport Advantage pro licencování na základě dílčí kapacity (viz níže uvedené webové stránky). Jestliže Držitel licence využívá licencování na základě Plné kapacity, musí získat oprávnění k jednotkám PVU postačující pro pokrytí všech aktivovaných procesorových jader* v prostředí fyzického hardwaru, která jsou dostupná pro Program nebo která jsou spravována Programem, s výjimkou takových serverů, z nichž byl Program trvale odstraněn. Jestliže Držitel licence využívá licencování na základě Virtualizační kapacity, musí získat oprávnění postačující pro pokrytí všech aktivovaných procesorových jader, která jsou přístupná pro Program nebo jsou spravována Programem, jak je definováno v souladu s dokumentem Virtualization Capacity License Counting Rules, který je k dispozici na adrese http://www.ibm.com/software/lotus/passportadvantage/Counting_Software_licenses_using_specific_virtualization_technologies.html.
+
+* Aktivované procesorové jádro je takové procesorové jádro, které je dostupné pro užívání v rámci fyzického nebo virtuálního serveru, přičemž v obou případech nezáleží na tom, zda kapacita procesorových jader může být nebo je omezena prostřednictvím virtualizačních technologií, příkazů operačního systému, nastavení BIOS nebo podobnými omezeními.
+
+L/N:  L-CLIG-AGFKQ9
+D/N:  L-CLIG-AGFKQ9
+P/N:  L-CLIG-AGFKQ9
+
+
+Mezinárodní licenční smlouva pro programy bez záruky
+
+Část 1 - Obecná ustanovení
+
+STAŽENÍM, INSTALACÍ, ZKOPÍROVÁNÍM, PŘÍSTUPEM K PROGRAMU NEBO KLEPNUTÍM NA TLAČÍTKO "SOUHLASÍM" NEBO JINÝM POUŽITÍM PROGRAMU VYJADŘUJE DRŽITEL LICENCE SVŮJ SOUHLAS S TOUTO SMLOUVOU. JESTLIŽE TYTO PODMÍNKY AKCEPTUJETE JMÉNEM DRŽITELE LICENCE, PROHLAŠUJETE A ZARUČUJETE, ŽE JSTE ZMOCNĚNI VÁZAT DRŽITELE LICENCE TĚMITO PODMÍNKAMI. JESTLIŽE S TĚMITO PODMÍNKAMI NESOUHLASÍTE:
+
+* NESTAHUJTE, NEINSTALUJTE, NEKOPÍRUJTE PROGRAM, NEPŘISTUPUJTE K PROGRAMU, NEPOUŽÍVEJTE TLAČÍTKO "SOUHLASÍM", ANI PROGRAM NEPOUŽÍVEJTE; A
+
+* NEPRODLENĚ VRAŤTE NEPOUŽITÉ NOSIČE A DOKUMENTACI STRANĚ, OD KTERÉ JSTE JE ZÍSKALI, A BUDE VÁM VRÁCENA ČÁSTKA, KTEROU JSTE ZA NĚ UHRADILI (JE-LI TO RELEVANTNÍ). POKUD BYL PROGRAM STAŽEN, VEŠKERÉ JEHO KOPIE ZNIČTE.
+
+1. Definice
+
+"Oprávněné užívání" - stanovená úroveň oprávnění Držitele licence provádět nebo spouštět Program. Tuto úroveň lze měřit na základě počtu uživatelů, miliónů servisních jednotek ("jednotky MSU"), jednotek Processor Value Units ("jednotky PVU") nebo na základě jiné úrovně užívání, kterou stanoví IBM.
+
+"IBM" - společnost International Business Machines Corporation nebo některá z jejích dceřiných společností.
+
+"Licenční informace" ("LI") - dokument uvádějící informace a jakékoli dodatečné podmínky specifické pro Program. Dokument Licenční informace k programu je k dispozici na adrese www.ibm.com/software/sla. Licenční informace lze rovněž nalézt v adresáři s Programem - prostřednictvím systémového příkazu - nebo ve formě příručky, kterou obdržíte s Programem.
+
+"Program" - níže uvedené komponenty, včetně originálu a všech úplných nebo dílčích kopií: 1) strojově čitelné instrukce a data, 2) komponenty, soubory a moduly, 3) audiovizuální obsah (jako jsou obrazy, text, nahrávky nebo obrázky) a 4) související licenční materiály (jako jsou licenční klíče a dokumentace).
+
+2. Struktura smlouvy
+
+Tato smlouva zahrnuje Část 1 - Obecná ustanovení, Část 2 - Podmínky specifické pro zemi (jsou-li nějaká) a dokument Licenční informace a představuje úplnou dohodu mezi Držitelem licence a IBM ve vztahu k užívání Programu. Nahrazuje veškerá předchozí ústní nebo písemná ujednání mezi Držitelem licence a IBM ohledně jeho užívání Programu. Podmínky Části 2 mohou nahrazovat nebo upravovat podmínky Části 1. V míře, v níž se vyskytne rozpor podmínek, mají podmínky dokumentu Licenční informace přednost před podmínkami obou Částí.
+
+3. Udělení licence
+
+Program je vlastnictvím IBM nebo dodavatele IBM, je chráněn autorskými právy a je k němu poskytováno právo užívání, není prodáván.
+
+IBM uděluje Držiteli licence nevýhradní licenci na 1) užívání Programu až do úrovně Oprávněného užívání uvedené na faktuře, 2) vytvoření a instalaci kopií na podporu takového Oprávněného užívání, a 3) vytvoření záložní kopie, to vše za předpokladu, že:
+
+a. Držitel licence získal Program zákonným způsobem a dodržuje podmínky této Smlouvy;
+
+b. záložní kopie není spouštěna, ledaže nelze spustit zálohovaný Program;
+
+c. Držitel licence uvádí všechna upozornění o autorských právech a další výhrady vlastnických práv na každé kopii nebo dílčí kopii Programu;
+
+d. Držitel licence zajistí, aby každá osoba (s lokálním nebo vzdáleným přístupem) používající Program 1) tak činila pouze jménem Držitele licence, a 2) tak činila v souladu s podmínkami této Smlouvy;
+
+e. Držitel licence nesmí 1) používat, kopírovat, upravovat nebo distribuovat Program jinak, než je výslovně dovoleno touto Smlouvou; 2) zpětně sestavovat, zpětně kompilovat či jakkoliv překládat Program, není-li to výslovně dovoleno zákonem bez možnosti toto povolení smluvně vyloučit; 3) užívat kterékoli komponenty, soubory, moduly, audiovizuální obsah nebo související licenční materiály nezávisle na Programu; nebo 4) Program sublicencovat, pronajímat či poskytovat formou leasingu; a
+
+f. jestliže Držitel licence získá tento Program jako Podpůrný program, bude jej používat pouze na podporu Základního programu a v souladu s veškerými omezeními uvedenými v licenci na Základní program, nebo - jestliže Držitel licence získá tento program jako Základní program - bude používat všechny Podpůrné programy pouze na podporu tohoto Programu a v souladu s veškerými omezeními stanovenými v této Smlouvě. Pro účely tohoto bodu "f" znamená "Podpůrný program" program, který je součástí jiného programu IBM ("Základní program") a je v Licenčních informacích k Základnímu programu jako Podpůrný program uveden. (Chce-li Držitel licence získat samostatnou licenci na neomezené užívání Podpůrného programu, musí se obrátit na subjekt, od něhož Podpůrný program zakoupil.)
+
+Tato licence se vztahuje na každou kopii Programu, kterou Držitel licence vytvoří.
+
+3.1 Přechody typu Trade-up, aktualizace a opravy
+
+3.1.1 Přechody typu Trade-up
+
+V případě nahrazení Programu programem typu Trade-up platnost licence nahrazeného Programu okamžitě končí.
+
+3.1.2 Aktualizace, opravy a záplaty
+
+Pokud Držitel licence obdrží aktualizaci nebo opravu k Programu, akceptuje veškeré dodatečné nebo odlišné podmínky, které jsou uvedeny v Licenčních informacích pro tuto aktualizaci nebo opravu. Nejsou-li k aktualizaci či opravě dodatečné nebo odlišné podmínky připojeny, pak se taková aktualizace či oprava řídí výlučně podmínkami této Smlouvy. Držitel licence se zavazuje, že v případě nahrazení Programu aktualizací přestane původní Program okamžitě používat.
+
+3.2 Licence na dobu určitou
+
+Licencuje-li IBM Program na dobu určitou, pak licenční oprávnění Držitele licence končí ke konci takové doby určité, ledaže se Držitel licence a IBM dohodli na prodloužení licence.
+
+3.3 Trvání a ukončení Smlouvy
+
+Tato Smlouva je účinná až do jejího ukončení.
+
+IBM je oprávněna ukončit licenci Držitele licence, jestliže tento nedodržuje podmínky této Smlouvy.
+
+Ukončí-li kterákoli ze stran licenci z jakéhokoli důvodu, Držitel licence je povinen okamžitě přestat používat a zničit všechny kopie Programu, které má ve svém držení. Podmínky této Smlouvy, jež svou povahou přesahují dobu její platnosti, zůstávají plně v platnosti a jsou účinné až do okamžiku jejich splnění a platí i pro případné právní nástupce a postupníky smluvních stran.
+
+4. Cena
+
+Poplatky (jsou-li nějaké) jsou založeny na úrovni Oprávněného užívání, která je uvedena na faktuře. IBM nevrací ani jinak nerefunduje již splatné nebo zaplacené částky, s výjimkou případů, které jsou specifikovány jinde v této smlouvě.
+
+Přeje-li si Držitel licence úroveň Oprávněného užívání zvýšit, je povinen o této skutečnosti předem informovat IBM nebo oprávněného prodejce IBM a uhradit veškeré příslušné poplatky.
+
+5. Daně
+
+Bude-li na Program některým úřadem uvaleno clo, daň či poplatek, vyjma těch, které jsou založeny na čistém příjmu IBM, pak se Držitel licence zavazuje tuto částku uhradit ve výši uvedené na faktuře, pokud nepředloží potvrzení prokazující jeho osvobození od takové povinnosti. Od data obdržení Programu je Držitel licence odpovědný za úhradu veškerých případných majetkových daní. Jestliže některý orgán k tomu oprávněný uvalí clo, daň či poplatek na import nebo export, přenos, přístup nebo užívání Programu mimo zemi, v níž byla původnímu Držiteli licence udělena licence, pak je Držitel licence povinen uhradit jakoukoli takto uvalenou částku.
+
+6. Záruka vrácení peněz
+
+Není-li Držitel licence z jakéhokoli důvodu spokojen s Programem a je původním Držitelem licence, je oprávněn ukončit licenci a má nárok na refundaci částky, kterou za Program zaplatil (pokud nějakou částku zaplatil), avšak za předpokladu, že Držitel licence vrátí Program straně, od které jej získal, během 30 dní od data faktury. Jedná-li se o licenci na dobu určitou, která podléhá prodloužení, má Držitel licence nárok na refundaci pouze v případě, že Program vrátí během prvních 30 dní původního období. Pokud Držitel licence Program stáhnul, měl by požádat subjekt, od kterého jej získal, o pokyny, jak dosáhnout vrácení peněz.
+
+7. Převod programu
+
+Držitel licence je oprávněn převést Program a veškerá licenční práva a povinnosti Držitele licence na jinou smluvní stranu za předpokladu, že tato strana akceptuje podmínky této Smlouvy. V případě ukončení licence kteroukoli smluvní stranou bez ohledu na důvod nesmí Držitel licence Program na jinou smluvní stranu převést. Držitel licence není oprávněn převádět část 1) Programu; nebo 2) Oprávněné užívání programu. V případě převodu Programu musí Držitel licence převést rovněž tištěnou verzi této Smlouvy, včetně dokumentu Licenční informace. Licenční oprávnění Držitele licence okamžitě po převodu končí.
+
+8. Vyloučení záruky
+
+V SOULADU S VEŠKERÝMI ZÁKONNÝMI ZÁRUKAMI, KTERÉ NELZE VYLOUČIT, NEPOSKYTUJE IBM ŽÁDNÉ ZÁRUKY ČI PODMÍNKY, VYJÁDŘENÉ VÝSLOVNĚ NEBO VYPLÝVAJÍCÍ Z OKOLNOSTÍ, POKUD JDE O PROGRAM NEBO PODPORU (JE-LI NĚJAKÁ POSKYTOVÁNA), VČETNĚ - A TO ZEJMÉNA - VEŠKERÝCH ZÁRUK ČI PODMÍNEK PRODEJNOSTI, USPOKOJIVÉ KVALITY, VHODNOSTI PRO URČITÝ ÚČEL A VLASTNICKÉHO NÁROKU, A JAKÉKOLI ZÁRUKY ČI PODMÍNKY NEPORUŠENÍ PRÁV TŘETÍCH STRAN.
+
+NĚKTERÉ STÁTY NEBO JURISDIKCE NEPŘIPOUŠTĚJÍ VYLOUČENÍ ZÁRUK VYJÁDŘENÝCH VÝSLOVNĚ NEBO VYPLÝVAJÍCÍCH Z OKOLNOSTÍ, A PROTO SE VÝŠE UVEDENÉ ZÁRUKY NEMUSÍ NA DRŽITELE LICENCE VZTAHOVAT. V TAKOVÉM PŘÍPADĚ JSOU TAKOVÉ ZÁRUKY ČASOVĚ OMEZENY POUZE NA MINIMÁLNÍ DOBU POŽADOVANOU ZÁKONEM. PO UKONČENÍ TÉTO DOBY IBM NEPOSKYTUJE ŽÁDNÉ DALŠÍ ZÁRUKY. NĚKTERÉ STÁTY NEBO JURISDIKCE NEPŘIPOUŠTĚJÍ OMEZENÍ DOBY TRVÁNÍ IMPLICITNÍ ZÁRUKY, A PROTO SE VÝŠE UVEDENÉ OMEZENÍ NA DRŽITELE LICENCE NEMUSÍ VZTAHOVAT. DRŽITEL LICENCE MŮŽE MÍT I DALŠÍ PRÁVA, KTERÁ SE LIŠÍ STÁT OD STÁTU NEBO JURISDIKCE OD JURISDIKCE.
+
+VYLOUČENÍ ZÁRUKY UVEDENÁ V TOMTO ODDÍLU 8 SE VZTAHUJÍ ROVNĚŽ NA VEŠKERÉ VÝVOJÁŘE A DODAVATELE IBM.
+
+VÝROBCI, DODAVATELÉ NEBO DISTRIBUTOŘI PROGRAMŮ OD JINÝCH DODAVATELŮ MOHOU POSKYTOVAT SVÉ VLASTNÍ ZÁRUKY.
+
+NESTANOVÍ-LI IBM VÝSLOVNĚ JINAK, PAK IBM NEPOSKYTUJE PODPORU ŽÁDNÉHO DRUHU. V TAKOVÉM PŘÍPADĚ SE NA JAKOUKOLI PODPORU POSKYTOVANOU SPOLEČNOSTÍ IBM VZTAHUJÍ VYLOUČENÍ ZÁRUKY UVEDENÁ V TOMTO ODDÍLU 8.
+
+9. Data a databáze Držitele licence
+
+IBM může s cílem pomoci Držiteli licence s určením problému s Programem požadovat, aby Držitel licence 1) umožnil IBM vzdálený přístup k systému Držitele licence, nebo 2) aby zaslal IBM příslušné údaje nebo systémová data. IBM však není povinna poskytnout takovou asistenci, pokud IBM a Držitel licence neuzavřeli samostatnou písemnou dohodu, na jejímž základě se IBM zavazuje, že bude Držiteli licence poskytovat tento typ podpory, který přesahuje povinnosti IBM vyplývající z této Smlouvy. IBM za všech okolností používá informace o chybách a problémech ke zdokonalování jejích produktů a služeb a poskytuje klientům asistenci prostřednictvím souvisejících nabídek podpory. K tomuto účelu může IBM využít služeb subjektů a dodavatelů IBM (včetně subjektů a dodavatelů z jedné nebo více jiných zemí, než je země, v níž má sídlo Držitel licence) a Držitel licence opravňuje IBM k takovému využití služeb subjektů a dodavatelů IBM.
+
+Držitel licence zůstává odpovědný za 1) veškerá data a obsah jakékoli databáze, kterou pro IBM zpřístupní, 2) výběr a implementaci postupů a kontrol týkajících se přístupu, zabezpečení, šifrování, užívání a přenosu dat (včetně veškerých osobních údajů), a 3) zálohování a obnovu jakékoli databáze a veškerých uložených dat. Držitel licence nesmí odeslat IBM žádné osobní údaje nebo poskytnout IBM přístup k žádným osobním údajům, ať už ve formě dat nebo v nějaké jiné formě, a nese odpovědnost za veškeré přiměřené náklady nebo jiné výdaje, které mohou IBM vzniknout v souvislosti s neoprávněným poskytnutím takových informací IBM nebo v souvislosti se ztrátou či zpřístupněním informací ze strany IBM, včetně těch založených na nárocích třetích stran.
+
+10. Omezení odpovědnosti
+
+Omezení odpovědnosti a vyloučení záruky v tomto oddíle 10 (Omezení odpovědnosti) se aplikuje v plném rozsahu, pokud není zakázáno ze zákona, bez možnosti smluvního zřeknutí se.
+
+10.1 Položky, za které IBM nese odpovědnost
+
+Mohou nastat okolnosti, kdy má Držitel licence z důvodu neplnění závazku na straně IBM nebo jiné odpovědnosti nárok na náhradu škody od IBM. Bez ohledu na příčinu vzniku nároku Držitele licence na náhradu škody od IBM (včetně podstatného porušení, nedbalosti, přivedení v omyl nebo jiného porušení závazkového či mimozávazkového vztahu), odpovídá IBM pouze za nároky vzniklé na základě každého Programu nebo ve spojení s ním nebo za nároky jinak vzniklé na základě této Smlouvy, a tato odpovědnost nesmí přesáhnout částku jakýchkoli 1) škod na zdraví (včetně smrti) a škod na nemovitém a osobním hmotném majetku, a 2) jiných skutečných přímých škod, až do výše poplatků, které Držitel licence zaplatil za Program, který je předmětem nároku (pokud je Program licencován na dobu určitou, pak do výše dvanácti měsíčních poplatků).
+
+Toto omezení se vztahuje rovněž i na všechny vývojáře a dodavatele Programů IBM. Jedná se o maximum, za které IBM a její vývojáři a dodavatelé Programů společně odpovídají.
+
+10.2 Položky, za které IBM nenese odpovědnost
+
+VYJMA PŘÍPADŮ, KDY JE TO VÝSLOVNĚ POŽADOVÁNO PRÁVNÍMI PŘEDPISY BEZ MOŽNOSTI VZDÁNÍ SE PRÁVA SMLUVNĚ, NEBUDOU IBM, JEJÍ SUBDODAVATELÉ ANI VÝVOJÁŘI PROGRAMŮ ZA ŽÁDNÝCH OKOLNOSTÍ ODPOVĚDNI ZA NÁSLEDUJÍCÍ, A TO V PŘÍPADĚ, ŽE BY IBM BYLA NA TAKOVOU MOŽNOST UPOZORNĚNA:
+
+a. ZA ZTRÁTU DAT NEBO ŠKODU NA DATECH;
+
+b. ZA ZVLÁŠTNÍ, NAHODILÉ NEBO NEPŘÍMÉ ŠKODY ČI ZA NÁSLEDNÉ HOSPODÁŘSKÉ ŠKODY; NEBO
+
+c. ZA UŠLÝ ZISK, ZTRÁTU OBCHODNÍCH PŘÍLEŽITOSTÍ, UŠLÉ PŘÍJMY, ÚJMU ZPŮSOBENOU POŠKOZENÍM DOBRÉHO JMÉNA NEBO ZA NEDOSAŽENÉ PŘEDPOKLÁDANÉ ÚSPORY.
+
+11. Kontrola dodržování podmínek
+
+Pro účely tohoto oddílu 11 (Kontrola dodržování podmínek), znamenají "Podmínky ILAN" 1) tuto Smlouvu a příslušné dodatky a transakční dokumenty poskytnuté IBM, a 2) softwarové postupy IBM, které jsou k dispozici na webových stránkách IBM Software Policy (www.ibm.com/softwarepolicies) včetně - a to zejména - postupů týkajících se zálohování, cen pro neúplný server a migrace.
+
+Práva a povinnosti uvedená dále v tomto oddílu 11 zůstávají v platnosti po dobu trvání licence a dva roky poté.
+
+11.1 Proces ověřování
+
+Držitel licence souhlasí, že vytvoří, bude uchovávat a poskytne IBM a jejím auditorům přesné písemné záznamy, výstupy systémových nástrojů a další systémové informace, které budou dostatečné k ověření, že Držitel licence užívá všechny Programy v souladu s podmínkami smlouvy ILAN, včetně všech příslušných podmínek IBM týkajících se licencování a cen. Držitel licence nese odpovědnost za 1) zajištění, že nepřekročí svou úroveň Oprávněného užívání, a 2) bude jednat v souladu s podmínkami smlouvy ILAN.
+
+IBM je na základě oznámení zaslaného v přiměřené dlouhé lhůtě předem oprávněna ověřit si, zda Držitel licence dodržuje podmínky smlouvy ILAN na všech pracovištích a pro všechna prostředí, v nichž používá Programy (k jakémukoli účelu) v souladu s podmínkami smlouvy ILAN. Takové ověření bude provedeno způsobem, jenž bude minimalizovat rušení obchodní činnosti Držitele licence a smí být provedeno v prostorách Držitele licence během řádné pracovní doby. IBM je oprávněna využít k takové kontrole služeb nezávislého auditora, a to za předpokladu, že IBM s tímto auditorem uzavře písemnou smlouvu o ochraně důvěrných informací.
+
+11.2 Rozhodnutí
+
+IBM bude Držitele písemně informovat, jestliže bude v rámci kontroly dodržování podmínek zjištěno, že Držitel licence užívá Program v rozsahu přesahujícím úroveň jeho Oprávněného užívání nebo jiným způsobem nedodržuje podmínky smlouvy ILAN. Držitel licence se zavazuje, že neprodleně uhradí přímo IBM poplatky, které IBM uvede na faktuře za 1) jakékoli takové nadměrné užívání, 2) podporu pro takové nadměrné užívání za dobu trvání takového nadměrného užívání nebo za dva roky (podle toho, které období je kratší), a 3) jakékoli dodatečné poplatky nebo jiné částky, které budou stanoveny na základě výsledků takové kontroly.
+
+12. Poznámky třetích stran
+
+Program může zahrnovat kód třetích stran, ke kterému Držiteli licence poskytuje licenci na základě této Smlouvy IBM, nikoli třetí strana. Jsou-li uvedeny jakékoli poznámky vztahující se ke kódu třetích stran ("Poznámky třetích stran"), jsou uvedeny pouze pro informaci Držitele licence. Tyto poznámky mohou být uvedeny v souboru(ech) NOTICES k Programu. Informace o způsobu získání zdrojového kódu pro určitý kód třetích stran najdete v Poznámkách třetích stran. Jestliže IBM v Poznámkách třetích stran označí kód třetích stran za "Kód třetích stran s možností modifikace", pak IBM opravňuje Držitele licence k 1) modifikaci Kódu třetích stran s možností modifikace a 2) ke zpětné kompilaci Programových modulů, které mají přímé rozhraní ke Kódu třetích stran s možností modifikace, za předpokladu, že tyto činnosti budou sloužit výhradně k ladění modifikací prováděných Držitelem licence u takového Kódu třetích stran. Závazek IBM týkající se servisu a podpory (je-li nějaký) se vztahuje pouze na nemodifikovaný Program.
+
+13. Všeobecná ustanovení
+
+a. Touto Smlouvou nejsou dotčena zákonná práva spotřebitelů, jichž se není možno smluvně zříci nebo jež nemohou být smluvně omezena.
+
+b. Není-li mezi Držitelem licence a IBM písemně dohodnuto jinak, splní IBM u Programů, které dodává Držiteli licence v hmotné podobě, svůj závazek odeslat a dodat předmětné Programy jejich předáním přepravci určenému IBM.
+
+c. V případě, že by některé ustanovení této Smlouvy bylo považováno za neplatné nebo nevymahatelné, zůstanou zbývající ustanovení této Smlouvy v plné platnosti a účinnosti.
+
+d. Každá ze smluvních stran bude postupovat v souladu s příslušnými vývozními a dovozními právními předpisy, včetně právních předpisů Spojených států amerických, které zakazují či omezují vývoz pro účely určitého použití či pro určité koncové uživatele. Držitel licence se zavazuje, že bude postupovat v souladu s příslušnými vývozními a dovozními právními předpisy, včetně právních předpisů Spojených států amerických, které zakazují či omezují vývoz pro účely určitého použití či pro určité koncové uživatele.
+
+e. Držitel licence souhlasí s tím, že umožní společnosti International Business Machines Corporation a jejím dceřiným společnostem (včetně jejich právních nástupců, postupníků, subdodavatelů a obchodních partnerů) ukládat a užívat jeho kontaktní informace všude, kde tito uskutečňují svou obchodní činnost související s produkty a službami IBM, nebo v rámci podpory obchodního vztahu mezi IBM a držitelem Licence.
+
+f. Každá ze smluvních stran poskytne druhé straně přiměřeně možnost nápravy předtím, než vůči druhé straně vznese nároky související s neplněním jejích povinností z této Smlouvy. Smluvní strany se pokusí v dobré vůli vyřešit jakékoli spory, neshody či nároky vztahující se k této Smlouvě.
+
+g. Nevyžadují-li příslušné právní předpisy jinak, bez možnosti smluvního zřeknutí se nebo omezení: 1) žádná ze smluvních stran nezahájí právní úkon (bez ohledu na jeho formu) ohledně jakéhokoli nároku vzniklého na základě této Smlouvy nebo ve spojení s touto Smlouvou později než dva roky od data vzniku příčiny takového právního úkonu; a 2) veškeré takové nároky a všechna příslušná práva vztahující se k takovým nárokům se po vypršení takového časového limitu považují za promlčené.
+
+h. Žádná ze smluvních stran nenese odpovědnost za nesplnění jakýchkoli závazků, pokud k takovému neplnění došlo z důvodů vzniklých nezávisle na její vůli.
+
+i. Tato Smlouva nezakládá pro žádnou třetí stranu žádné právo nebo důvod k žalobě a IBM nenese odpovědnost za žádné nároky třetích stran vznesené vůči Držiteli licence, s výjimkou, jak uvádí odstavec 10.1 (Položky, za které IBM nenese odpovědnost) výše, škody na zdraví (včetně smrti) nebo škody na nemovitém nebo hmotném osobním majetku, za které je IBM vůči takové třetí straně právně odpovědná.
+
+j. Smluvní strany se dohodly, že se po uzavření toto Smlouvy nebudou odvolávat na žádné prohlášení, které není v této Smlouvě uvedeno, včetně jakéhokoli prohlášení, které se týká: 1) výkonu či fungování Programu; 2) zkušeností nebo doporučení jiných stran; nebo 3) jakýchkoli výsledků či úspor, kterých může Držitel licence dosáhnout.
+
+k. IBM uzavřela smlouvy s určitými organizacemi (dále jen "Obchodní partneři IBM") za účelem nabízení, zprostředkování prodeje a podpory vybraných Programů. Obchodní partneři IBM zůstávají organizacemi nezávislými na IBM. IBM nenese odpovědnost za jednání nebo prohlášení Obchodních partnerů IBM, ani za jejich závazky vůči Držiteli licence.
+
+l. Licenční podmínky a podmínky týkající se odškodnění ve vztahu k právu duševního vlastnictví uvedené v jiných smlouvách, jež Držitel licence uzavřel s IBM (jako je například smlouva IBM Customer Agreement), se nevztahují na licence na Program udělené na základě této Smlouvy.
+
+m. Obě smluvní strany berou na vědomí, že veškeré vzájemně sdělené informace nejsou důvěrné. Vyžaduje-li některá ze smluvních stran výměnu důvěrných informací, pak taková výměna musí proběhnout na základě smlouvy o utajení důvěrných informací;
+
+14. Geografický rozsah a rozhodné právo
+
+14.1 Rozhodné právo
+
+Smluvní strany souhlasí s použitím práva země, v níž Držitel licence zakoupil licenci na Program, podle kterého se budou řídit, vykládat a uplatňovat veškeré práva, povinnosti a závazky Držitele licence a IBM z této Smlouvy či vztahující se k jejímu předmětu a to bez ohledu na rozpor právních zásad.
+
+Úmluva OSN o smlouvách o mezinárodní koupi zboží se neaplikuje.
+
+14.2 Jurisdikce
+
+Všechna práva, povinnosti a závazky budou podléhat rozhodnutím příslušných soudů země, v níž Držitel licence obdržel licenci na Program.
+
+Část 2 - Podmínky specifické pro zemi
+
+Pro licence udělené v České republice platí, že níže uvedené podmínky nahrazují nebo mění podmínky uvedené v Části 1. Veškeré podmínky uvedené v Části 1, které nejsou těmito dodatky dotčeny, zůstávají v plné platnosti.
+
+DODATKY PRO ZEMĚ EVROPY, STŘEDNÍHO VÝCHODU A AFRIKY (EMEA)
+
+ČLENSKÉ STÁTY EVROPSKÉ UNIE
+
+8. Záruka a vyloučení záruky
+
+Níže uvedený text se přidává k oddílu 8 (Záruka a vyloučení záruky):
+
+Spotřebitelé z Evropské unie ("EU") mají zákonná práva, která vyplývají z platné národní legislativy vztahující se na prodej spotřebního zboží. Tato práva nejsou dotčena ustanoveními tohoto oddílu 8 (Záruka a vyloučení záruky).
+
+ČLENSKÉ STÁTY EU A ZEMĚ UVEDENÉ NÍŽE
+
+Jakákoliv evropská země, v které platí právní předpisy upravující ochranu osobních údajů a ochranu soukromí podobně jako právní předpisy EU.
+
+13. Všeobecná ustanovení
+
+Níže uvedený text nahrazuje bod 13.e:
+
+(1) Definice - Pro účely tohoto bodu 13.e platí následující dodatečné definice:
+
+(a) Informace o obchodních kontaktech - kontaktní informace vztahující se k obchodním vztahům, které Držitel licence zpřístupní IBM, včetně jmen, funkcí, obchodních adres, telefonních čísel, e-mailových adres zaměstnanců a dodavatelů Držitele licence. Pro Rakousko, Itálii a Švýcarsko zahrnují Informace o obchodních kontaktech rovněž údaje o Držiteli licence a jeho dodavatelích, kteří jsou právnickými osobami (například údaje o příjmech Držitele licence a další informace týkající se transakcí).
+
+(b) Obchodní kontakty - zaměstnanci a dodavatelé Držitele licence, jichž se týkají Informace o obchodních kontaktech.
+
+(c) Úřad na ochranu osobních údajů - úřad zřízený dle zákona o ochraně osobních údajů a zákona o elektronických komunikacích příslušné země nebo (v zemích, jež nejsou členy EU) úřad odpovědný za kontrolu ochrany osobních údajů v této zemi, nebo (pro kteroukoli z výše uvedených možností) řádně jmenovaný právní nástupce takového úřadu.
+
+(d) Právní předpisy na ochranu osobních údajů a o elektronických komunikacích - i) příslušné místní právní předpisy v platném znění, které implementují požadavky Směrnice Evropského parlamentu a Rady 95/46/ES (o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů) a Směrnice Evropského parlamentu a Rady 2002/58/ES (o zpracování osobních údajů a ochraně soukromí v odvětví elektronických komunikací); nebo (ii) u zemí, jež nejsou členy EU, právní předpisy schválené v příslušné zemi a týkající se ochrany osobních údajů a regulace elektronických komunikací, včetně (pro kteroukoli z výše uvedených možností) jakékoli jejich zákonné náhrady nebo změny.
+
+(e) Skupina IBM - International Business Machines Corporation, Armonk, New York, USA, její dceřiné společnosti a jejich příslušní Obchodní partneři a subdodavatelé.
+
+(2) Držitel licence opravňuje IBM:
+
+(a) ke zpracování a používání Informací o obchodních kontaktech v rámci Skupiny IBM pro účely poskytování podpory Držiteli licence, včetně poskytování služeb, a pro účely podporování obchodních vztahů mezi Držitelem licence a Skupinou IBM, včetně komunikace s Obchodními kontakty (e-mailem nebo jinak) a marketingu produktů a služeb Skupiny IBM ("Uvedený účel"); a
+
+(b) ke zpřístupnění Informací o obchodních kontaktech ostatním členům Skupiny IBM, a to pouze v souvislosti s Uvedeným účelem.
+
+(3) IBM se zavazuje zpracovávat Informace o obchodních kontaktech v souladu s platnými právními předpisy na ochranu osobních údajů a o elektronických komunikacích a užívat je pouze pro Uvedený účel.
+
+(4) Držitel licence prohlašuje, že získal (nebo získá), a to v rozsahu, v jakém to požadují právní předpisy na ochranu osobních údajů a o elektronických komunikacích, příslušné souhlasy od Obchodních kontaktů, které patřičně o této skutečnosti informoval (nebo informuje), aby bylo Skupině IBM umožněno zpracovávat a užívat Informace o obchodních kontaktech za účelem komunikace s těmito kontakty, včetně komunikace emailem, a to v souladu s Uvedeným účelem.
+
+(5) Držitel licence opravňuje IBM k přenášení Informací o obchodních kontaktech mimo oblast Evropského hospodářského prostoru za předpokladu, že takový přenos bude probíhat na základě smluvních podmínek schválených Úřadem na ochranu osobních údajů, případně, že takový přenos bude jinak povolen právními předpisy na ochranu osobních údajů a o elektronických komunikacích.
+
+Z125-5589-05 (07/2011)
+
+

@@ -1,0 +1,1019 @@
+INFORMASI LISENSI
+
+Program-program yang tercantum di bawah ini dilisensikan dengan syarat dan ketentuan Informasi Lisensi berikut ini selain syarat lisensi Program yang sebelumnya telah disetujui oleh Klien dan IBM. Apabila Klien sebelumnya tidak menyetujui syarat lisensi yang berlaku untuk Program, Perjanjian Lisensi Internasional untuk Program Tanpa Garansi (Z125-5589-05) akan berlaku.
+
+Nama Program: IBM API Connect on Docker V5.0
+Nomor Program: 5725-Z22
+
+Program Pendukung
+
+Program diberi lisensi sebagai sebuah paket multiproduk dan termasuk Program-program Pendukung yang diidentifikasi di bawah ini. Pemegang Lisensi berhak untuk memasang dan menggunakan Program-program Pendukung tersebut hanya untuk mendukung penggunaan Pemegang Lisensi atas Program Utama berdasarkan Perjanjian ini dan dalam batas-batas Bukti Kepemilikan untuk Program (kecuali apabila hak-hak yang lebih luas ditetapkan di suatu tempat dalam dokumen Informasi Lisensi ini). Frasa "untuk mendukung penggunaan Pemegang Lisensi" hanya akan termasuk penggunaan-penggunaan tersebut yang diperlukan atau dengan cara lain, yang terkait secara langsung dengan penggunaan yang diberi lisensi atas Program Utama dan Program Pendukung lainnya. Program-program Pendukung tidak dapat digunakan untuk tujuan lainnya. Pemegang Lisensi tidak berhak untuk mentransfer atau memasarkan kembali Program-program Pendukung secara terpisah dari Program Utama. Program Pendukung dapat disertai dengan syarat-syarat lisensi, dan syarat-syarat tersebut, apabila ada, berlaku untuk penggunaan Pemegang Lisensi atas Program Pendukung. Apabila terdapat ketidaksesuaian, syarat-syarat dalam dokumen Informasi tentang Lisensi ini menggantikan syarat-syarat Program Pendukung. Pada saat hak Pemegang Lisensi untuk menggunakan Program habis waktunya atau berakhir, Pemegang Lisensi harus berhenti menggunakan, memusnahkan atau segera mengembalikan semua salinan dari Program-program Pendukung kepada pihak yang darinya Pemegang Lisensi memperoleh Program. Apabila Pemegang Lisensi telah mengunduh Program-program Pendukung, Pemegang Lisensi sebaiknya menghubungi pihak yang darinya Pemegang Lisensi memperoleh Program. Apabila Pemegang Lisensi ingin memberi lisensi untuk Program-program Pendukung untuk digunakan melampaui batas-batas yang tercantum di atas, hubungi Perwakilan Penjualan IBM atau pihak yang darinya Pemegang Lisensi memperoleh Program untuk mendapatkan lisensi yang sesuai.
+
+Berikut ini adalah Program-program Pendukung yang diberi lisensi bersama dengan Program:
+IBM WebSphere DataPower Option for Application Optimization V7.5
+WebSphere Application Server Liberty Core V8.5.5
+API Connect Create for Node.js V5.0
+IBM HTTP Server
+
+Batasan untuk Pengembang
+
+Apabila Program ditetapkan untuk "Para Pengembang", Program hanya dapat disebarkan sebagai bagian dari pengembangan dan pengujian unit internal Pemegang Lisensi pada mesin pengembang. Mesin pengembang adalah lingkungan destop fisik atau virtual, yang menjalankan sistem operasi utama dan Program, yang mana keduanya dapat diakses dan digunakan oleh tidak lebih dari satu pengembang yang ditetapkan. Pemegang Lisensi tidak berhak menggunakan Program untuk memproses beban-beban kerja produksi, mensimulasi beban-beban kerja produksi atau menguji kemampuan pengembangan kode, aplikasi atau sistem apa pun. Pemegang Lisensi tidak berhak untuk menggunakan sebagian Program untuk tujuan-tujuan lainnya tanpa memperoleh kepemilikan-kepemilikan produksi yang sesuai.
+
+Kode Berlisensi Terpisah
+
+Ketentuan-ketentuan ayat ini tidak berlaku sepanjang ketentuan-ketentuan tersebut dianggap tidak sah atau tidak dapat diberlakukan berdasarkan undang-undang yang mengatur lisensi ini. Masing-masing komponen yang tercantum di bawah ini dianggap sebagai "Kode Berlisensi Terpisah". Kode Berlisensi Terpisah IBM dilisensikan kepada Pemegang Lisensi berdasarkan syarat-syarat perjanjian lisensi pihak ketiga yang berlaku yang tercantum dalam file(-file) NON_LISENSI_IBM yang menyertai Program. Meskipun terdapat syarat-syarat dalam Perjanjian, atau setiap perjanjian lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM, syarat-syarat perjanjian lisensi pihak ketiga tersebut mengatur penggunaan Pemegang Lisensi atas semua Kode Berlisensi Terpisah kecuali apabila disebutkan lain di bawah ini.
+
+Pembaruan-pembaruan atau perbaikan-perbaikan Program di masa yang akan datang dapat memuat Kode Berlisensi Terpisah tambahan. Kode Berlisensi Terpisah tambahan tersebut dan lisensi-lisensi terkait tercantum dalam file NON_LISENSI_IBM lainnya yang menyertai pembaruan atau perbaikan Program. Pemegang Lisensi mengakui bahwa Pemegang Lisensi telah membaca dan menyetujui perjanjian-perjanjian lisensi yang terdapat dalam file(-file) NON_LISENSI_IBM. Apabila Pemegang Lisensi tidak menyetujui syarat-syarat perjanjian lisensi pihak ketiga ini, Pemegang Lisensi tidak dapat menggunakan Kode Berlisensi Terpisah.
+
+Untuk Program-program yang diperoleh berdasarkan Perjanjian Lisensi Program Internasional (International Program License Agreement) ("IPLA") atau Perjanjian Lisensi Program Internasional untuk Program Tanpa Garansi (International Program License Agreement for Non Warranted Program) ("ILAN") dan Pemegang Lisensi adalah pemegang lisensi asli Program, apabila Pemegang Lisensi tidak setuju dengan perjanjian-perjanjian lisensi pihak ketiga, Pemegang Lisensi dapat mengembalikan Program sesuai dengan syarat-syarat, dan dalam batas-batas waktu yang ditetapkan yang dinyatakan dalam, pasal "Jaminan Uang Kembali" Perjanjian IPLA atau ILAN IBM.
+
+Catatan: Meskipun terdapat syarat dalam perjanjian lisensi pihak ketiga, Perjanjian, atau perjanjian lainnya yang dapat dimiliki oleh Pemegang Lisensi dengan IBM:
+(a) IBM memberikan Kode Berlisensi Terpisah ini kepada Pemegang Lisensi TANPA GARANSI APA PUN;
+(b) IBM MELEPASKAN SETIAP DAN SEMUA JAMINAN DAN KETENTUAN SECARA TEGAS DAN TERSIRAT TERMASUK, TETAPI TIDAK TERBATAS PADA, GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU, TERKAIT DENGAN KODE BERLISENSI TERPISAH;
+(c) IBM tidak bertanggung jawab kepada Pemegang Lisensi, dan tidak akan membela, memberikan ganti rugi kepada, atau membebaskan Pemegang Lisensi atas setiap tuntutan yang timbul dari atau terkait dengan Kode Berlisensi Terpisah; dan
+(d) IBM tidak bertanggung jawab atas setiap ganti rugi langsung, tak langsung, tambahan, khusus, biasa, hukuman atau sebab-akibat termasuk, tetapi tidak terbatas pada, kehilangan data, simpanan, dan laba yang terkait dengan Kode Berlisensi Terpisah.
+
+Meskipun terdapat pengecualian-pengecualian ini, di Jerman dan Austria, jaminan dan kewajiban IBM untuk Kode Berlisensi Terpisah diatur hanya oleh syarat masing-masing yang berlaku untuk Jerman dan Austria dalam perjanjian-perjanjian lisensi IBM.
+
+Catatan: IBM dapat memberikan dukungan yang terbatas untuk beberapa Kode Berlisensi Terpisah. Apabila dukungan tersebut tersedia, rincian dan setiap syarat tambahan yang terkait dengan dukungan tersebut akan dicantumkan dalam dokumen Informasi Lisensi.
+
+Berikut ini adalah Kode Berlisensi Terpisah:
+acl
+acpi
+acpid
+acpi-support
+adaptivetheme (drupal)
+addressfield (drupal)
+AddToAny (drupal)
+adduser
+admin_menu (drupal)
+adminimal_admin_menu (drupal)
+adminimal_theme (drupal)
+advagg (drupal)
+Advanced Forum (drupal)
+Advanced syslog (drupal)
+alpha_pagination
+alsa-lib
+angular.js/images/logo
+Ansible
+apt
+aptitude
+aptitude-common
+apt-transport-https
+apt-utils
+at
+AT Tools (drupal)
+atk
+attr
+audit
+audit-libs
+augeas
+autogen
+autogen-libopts
+Automated Logout (drupal)
+avahi
+base-files
+base-lsb
+base-passwd
+bash
+bc
+Bean (drupal)
+better_exposed_filters (drupal...
+binary_heap.js
+bind
+bind9-host
+binutils
+Block Class (drupal)
+Block Class Styles (drupal)
+BOA
+bridge-utils
+bsdutils
+busybox
+c3p0
+ca-certificates
+cairo
+cairo-spice
+caniuse-db(node)
+CAPTCHA (Drupal)
+cdrkit
+chain_menu_access
+chkconfig
+commons.wikimedia
+compat-gcc-32
+config.guess
+ConsoleKit
+console-setup
+content_access (drupal)
+context (drupal)
+coreutils
+cpio
+cracklib
+cracklib-dicts
+cron
+cronie
+crontabs
+cryptsetup-libs
+cryptsetup-luks
+csync2
+CTools (drupal)
+cups
+cvs
+d3 (drupal)
+dash
+dbus
+dbus-glib
+dbus-libs
+debian-archive-keyring
+debianutils
+desktop-file-utils
+device-mapper
+device-mapper-libs
+device-mapper-multipath
+dialog
+dictionaries-common
+diffutils
+discover
+dmidecode
+dmsetup
+dnsmasq
+dpkg
+dracut
+Drafty (Drupal)
+drbd83-kmod
+drbd83-utils
+Drupal
+drupal_helpers (drupal)
+drush_language (drupal)
+e2fslibs
+e2fslibs:amd64
+e2fsprogs
+ebtables
+ed
+eggdbus
+eject
+ejectorseat (drupal)
+elfutils
+entity (drupal)
+Entity API (drupal)
+Entity Reference (drupal)
+ethtool
+FAQ (drupal)
+faq.html
+Farbtastic
+ffmpeg-spice
+field_group (drupal)
+filesystem
+findutils
+fipscheck
+Fivestar (drupal)
+Flag (Drupal)
+flood_control
+follow
+Font Awesome4.1.0
+Font-Awesome
+forum_access
+frameprevention (drupal)
+gamin
+gawk
+gcc
+gcc-4.7-base
+gcc-5-base
+gcc-6-base
+gdb
+gdbm
+geoip-database
+gettext
+gettext-base
+git
+git-core
+git-man
+glib2
+glibc
+glibc-common
+gmp
+GNU Libtool
+gnupg
+gnupg2
+gnutls
+gobject-introspection
+gpgme
+gpgv
+gpm
+gpxe
+grep
+groff
+groff-base
+Group (drupal)
+grub
+grub2-common
+grubby
+grub-common
+grub-pc
+grub-pc-bin
+gtfs
+gtk2
+gzip
+Hibernate
+hicolor-icon-theme
+hide_submit (Drupal)
+Hierachical Select (Drupal)
+hierarchical_select
+hierarchical_select (drupal)
+hostname
+Htmlmail (drupal)
+httprl (drupal)
+hwdata
+hybridauth (drupal)
+hybridauth library
+i18n (drupal)
+ifupdown
+igb-kmod
+Image CAPTCHA Refresh (drupal)
+Images
+IMCE
+IMCE (drupal)
+imce_wysiwyg
+imce_wysiwyg (drupal)
+index-debug.html
+inetutils-ping
+info
+init
+initramfs-tools
+initscripts
+init-system-helpers
+insserv
+installation-report
+install-info
+iproute
+iproute2
+iptables
+iputils
+iputils-ping
+ipvsadm
+irqbalance
+iscsi-initiator-utils
+iso-codes
+ixgbe-kmod
+java-common
+jq
+jQuery Update (drupal)
+JSONSelect site
+kbd
+kernel
+kexec-tools
+keyboard-configuration
+keyutils
+keyutils-libs
+klibc-utils
+kmod
+kmod-libs
+kpartx
+l10n_update
+l10n_update (drupal)
+LDAP (drupal)
+legal (drupal)
+less
+libacl
+libacl1
+libacl1:amd64
+libaio
+libaio1
+libaio-devel
+libapparmor1
+libapt-inst1.5
+libapt-pkg4.12
+libapt-pkg4.12:amd64
+libapt-pkg5.0
+libart_lgpl
+libasprintf0c2
+libasprintf0c2:amd64
+libassuan
+libasyncns
+libatm1
+libattr
+libattr1
+libattr1:amd64
+libaudit1
+libaudit1:amd64
+libaudit-common
+libavahi-common-data:amd64
+libblkid
+libblkid1
+libblkid1:amd64
+libbz2-1.0
+libbz2-1.0:amd64
+libc6
+libc6:amd64
+libcap2
+libcap2-bin
+libcap-ng
+libc-bin
+libcgroup
+libclass-isa-perl
+libcmpiutil
+libcomerr2
+libcryptsetup4
+libcryptsetup4:amd64
+libcwidget3
+libdb5.1
+libdb5.1:amd64
+libdbd-mysql-perl
+libdbi-perl
+libdb-utils
+libdevmapper1.02.1
+libdevmapper1.02.1:amd64
+libdevmapper-event1.02.1
+libdiscover2
+libept1.4.12
+liberror-perl
+libestr0
+libev4
+libfdisk1
+libfile-copy-recursive-perl
+libfreetype6
+libfreetype6:amd64
+libfuse2
+libgcc1
+libgcc1:amd64
+libgcrypt
+libgcrypt11
+libgcrypt11:amd64
+libgcrypt20
+libgcrypt20:amd64
+libgd2-xpm
+libgd2-xpm:amd64
+libgd3
+libgdbm3
+libgdbm3:amd64
+libgeoip1
+libgeoip1:amd64
+libglib
+libglib2.0-0
+libglib2.0-data
+libgmp10
+libgmp10:amd64
+libgnutls2
+libgnutls26:amd64
+libgnutls30
+libgnutls-openssl27
+libgnutls-openssl27:amd64
+libgpg-error
+libgpg-error0
+libgpg-error0:amd64
+libgpm2
+libhogweed2:amd64
+libhogweed4
+libhtml-template-perl
+libidn
+libidn11
+libidn11:amd64
+libjbig0
+libjbig0:amd64
+libjpeg8
+libjpeg-turbo
+libkeyutils1
+libkeyutils1:amd64
+libklibc
+libkmod2
+libkmod2:amd64
+liblcms2-2:amd64
+liblocale-gettext-perl
+libltdl7
+libltdl7:amd64
+liblz4-1
+liblzma5
+liblzma5:amd64
+libmariadbclient18
+libmcrypt4
+libmnl
+libmnl0
+libmount
+libmount1
+libmount1:amd64
+libmverbs
+libmysqlclient18
+libmysqlclient20
+libnetfilter_conntrack
+libnettle4:amd64
+libnettle6
+libnewt0.52
+libnfnetlink
+libnfnetlink0
+libnih
+libnl
+libnspr4:amd64
+libnuma1
+libopts25
+libp11-kit0
+libp11-kit0:amd64
+libpam0g
+libpam0g:amd64
+libpam-modules
+libpam-modules:amd64
+libpam-modules-bin
+libpam-runtime
+libpci3
+libpci3:amd64
+libperconaserverclient18.1
+libperl5.22
+libpipeline1
+libpipeline1:amd64
+libpng12-0
+libpng12-0:amd64
+libpopt0
+libpopt0:amd64
+libprocps0
+libprocps0:amd64
+libprocps3:amd64
+libprocps4
+libqdbm14
+Libraries API (drupal)
+libreadline5
+libreadline5:amd64
+libreadline6
+libreadline6:amd64
+librsync1
+librsync1:amd64
+librtmp0
+librtmp0:amd64
+librtmp1
+librtmp1:amd64
+libsasl2-2
+libsasl2-2:amd64
+libsasl2-modules
+libsasl2-modules:amd64
+libsasl2-modules-db
+libseccomp2
+libselinux
+libselinux1
+libselinux1:amd64
+libsemanage
+libsemanage1
+libsemanage1:amd64
+libsemanage-common
+libsepol
+libsepol1
+libsepol1:amd64
+libsigc++-2.0-0c2a
+libsigc++-2.0-0c2a:amd64
+libsigsegv2
+libslang2
+libslang2:amd64
+libsmartcols1
+libsmartcols1:amd64
+libsndfile
+libss
+libss2
+libss2:amd64
+libstdc++
+libstdc++6
+libstdc++6:amd64
+libswitch-perl
+libsystemd0
+libsystemd0:amd64
+libt
+libt1-5
+libtasn1
+libtasn1-3
+libtasn1-3:amd64
+libtasn1-6
+libtasn1-6:amd64
+libtext-charwidth-perl
+libtext-iconv-perl
+libtext-wrapi18n-perl
+libthai
+libtool
+libudev0
+libudev0:amd64
+libudev1
+libudev1:amd64
+libusb
+libusb-0.1-4
+libusb-0.1-4:amd64
+libuser
+libustr-1.0-1
+libustr-1.0-1:amd64
+libutempter
+libuuid1
+libuuid1:amd64
+libuuid-perl
+libvirt
+libvirt-cim
+libvpx1:amd64
+libxapian22
+libxtables11
+linkchecker (drupal)
+linkit
+linkit (drupal)
+linkit_picker
+linkit_picker (drupal)
+linux-base
+linux-image-3.2.0
+lksctp-tools
+lm_sensors
+locales
+login
+logrotate
+lsb-base
+lsb-release
+lsof
+lsyncd
+lvm2
+lzo
+lzop
+m4
+Mailsystem (drupal)
+make
+MAKEDEV
+man
+man-db
+manpages
+mariadb-client-5.5
+mariadb-client-core-5.5
+mariadb-common
+mariadb-galera-server
+mariadb-galera-server-5.5
+markdown (drupal)
+material-design-icons
+material-design-icons-iconfont
+mawk
+mdadm
+megaraid_sas-kmod
+menu_item_visibility (drupal)
+messaging (drupal)
+metatag (drupal)
+microcode_ctl
+mime-support
+mingetty
+module-init-tools
+motif
+mount
+mptlinux-kmod
+multiarch-support
+mysql
+mysql-common
+nano
+netbase
+netcat-traditional
+netcf
+net-tools
+newt
+nfs-utils
+nginx
+nginx-common
+nginx-full
+nmap
+no_autocomplete (drupal)
+node_clone (drupal)
+notifications (drupal)
+notifications_forum (drupal)
+nss-pam-ldapd
+ntp
+ntpdate
+numactl
+numad
+ocfs2-tools
+ofa_kernel
+OpenIPMI
+openjdk-8-jre-headless:amd64
+openssh-blacklist
+openssh-blacklist-extra
+openssh-client
+openssh-server
+openssh-sftp-server
+oprofile
+os-prober
+pam
+pam_ldap
+Panels (drupal)
+pango
+parted
+passwd
+Password policy (drupal)
+patch
+Pathologic (drupal)
+PCD
+pciutils
+Percona XtraDB Cluster
+percona-xtrabackup
+Percona-XtraDB-Cluster
+percona-xtradb-cluster-client-5.6
+percona-xtradb-cluster-common-5.6
+percona-xtradb-cluster-galera-3
+percona-xtradb-cluster-galera-3.x
+perl
+perl-base
+perl-modules
+perl-modules-5.22
+PHP SAML2
+phpmailer
+PHPMailer (drupal)
+pinentry
+pkgconfig
+pkg-config
+plymouth
+pm-utils
+polkit
+portreserve
+prelink
+procmail
+procps
+procps-ng
+psmisc
+pth
+pulseaudio
+pygobject3-base
+pygpgme
+pyliblzma
+python
+python2.7
+python2.7-minimal
+python-apt
+python-apt-common
+python-chardet
+python-gnupginterface
+python-kitchen
+python-minimal
+python-pycurl
+python-software-properties
+python-support
+python-urlgrabber
+pyxattr
+qemu-kvm
+qrencode-libs
+readline
+readline-common
+rename
+restrict_by_ip (drupal)
+restws (drupal)
+rng-tools
+rpm
+rpm-build-libs
+rpm-libs
+rpm-python
+rsync
+rsyslog
+Rules_http_client (drupal)
+scsi-target-utils
+seabios
+search_autocomplete (drupal)
+search_config (drupal)
+search404 (drupal)
+seckit (drupal)
+security_questions (drupal)
+sed
+seek-bzip
+sensible-utils
+session_limit (drupal)
+sgml-base
+shadow-utils
+shared-mime-info
+sharutils
+Simple Dialog
+simplesamlphp
+simplesamlphp_auth (drupal)
+site_test (drupal)
+site_test_helpers (drupal)
+slang
+slick (drupal)
+slick_extras (drupal)
+slick_views (drupal)
+socat
+SPDX specification
+spdx-exceptions(Node)1.0.3
+spdx-exceptions(Node)1.0.4
+spdx-exceptions(Node)1.0.5
+spdx-expression-parse (node)
+spice-server
+ssh-import-id
+sshpass
+ssmtp
+startpar
+StatsD (drupal)
+stickynav (drupal)
+Support Ticketing System (drupal)
+swig
+sysfsutils
+syslog-ng
+sysstat
+systemd
+systemd-libs
+systemd-sysv
+sysvinit
+sysvinit-utils
+sysv-rc
+TagCloud (drupal)
+tar
+tar-static
+tasksel
+tasksel-data
+taxonomy_menu
+taxonomy_menu (drupal)
+taxonomy_menu_block (drupal)
+texinfo
+tfa
+tfa (drupal)
+tfa_basic
+tfa_basic (drupal)
+time
+tinyMCE
+tmpreaper
+Token (Drupal)
+traceroute
+Translation helpers (drupal)
+transliteration (drupal)
+trustedgrub
+tunctl
+Twitter Timeline (drupal)
+ubuntu-keyring
+ucf
+udev
+ufw
+Ulimate Cron (Drupal)
+unattended-upgrades
+underscore.js (drupal)
+unixODBC
+update-inetd
+upstart
+user_pwreset_timeout (Drupal)
+usersearchtoadmin (Drupal)
+ustr
+util-linux
+util-linux-locales
+util-linux-ng
+Variable (drupal)
+vgabios
+Views (drupal)
+Views data export (Drupal)
+Views_bulk_operations (drupal)
+views_send (drupal)
+vim
+vim-minimal
+Voting API (drupal)
+VPPR (drupal)
+wget
+which
+whiptail
+workbench (drupal)
+workbench_moderation (drupal)
+Wysiwig (drupal)
+x11-common
+xautoload (drupal)
+xdg-user-dirs
+xml-core
+xmlto
+xpath.js
+xtrabackup
+xz
+xz-utils
+yum
+yum-metadata-parser
+yum-plugin-fastestmirror
+yum-plugin-ovl
+yum-utils
+
+Penentuan Tolok Ukur
+
+Pemegang Lisensi dapat mengungkapkan hasil-hasil pengujian tolok ukur Program atau subkomponen-subkomponennya kepada pihak ketiga dengan ketentuan bahwa Pemegang Lisensi (A) mengungkapkan metodologi secara lengkap yang digunakan dalam pengujian tolok ukur (sebagai contoh: penyusunan perangkat keras dan perangkat lunak, prosedur pemasangan, dan file-file konfigurasi) kepada publik, (B) melaksanakan pengujian tolok ukur Pemegang Lisensi yang menjalankan Program dalam Lingkungan Operasi yang Ditetapkannya dengan menggunakan pembaruan-pembaruan, tambahan-tambahan, dan perbaikan-perbaikan terbaru yang berlaku yang tersedia untuk Program dari IBM atau para pihak ketiga yang memberikan produk-produk IBM ("Para Pihak Ketiga"), dan (C) mengikuti setiap dan semua petunjuk tentang perbaikan kinerja sistem dan "praktik-praktik terbaik" yang tersedia dalam dokumentasi Program dan di situs web dukungan IBM untuk Program. Apabila Pemegang Lisensi mempublikasikan hasil-hasil dari pengujian tolok ukur untuk Program, maka meskipun terdapat hal-hal yang menetapkan sebaliknya dalam setiap perjanjian antara Pemegang Lisensi dan IBM atau Para Pihak Ketiga, IBM dan Para Pihak Ketiga akan memiliki hak untuk mempublikasikan hasil-hasil pengujian tolok ukur yang terkait dengan produk-produk Pemegang Lisensi dengan ketentuan bahwa IBM atau Para Pihak Ketiga mematuhi persyaratan (A), (B), dan (C) di atas dalam pengujiannya atas produk-produk Pemegang Lisensi.
+
+Meskipun terdapat ketentuan-ketentuan di atas, dalam keadaan bagaimanapun juga Pemegang Lisensi tidak dapat mempublikasikan hasil-hasil pengujian tolok ukur yang dijalankan dalam Teknologi Pengubah Format (Outside In Technology) Oracle tanpa adanya izin tertulis sebelumnya.
+
+Syarat-syarat penentuan tolok ukur di atas berlaku atas Program-program atau subkomponen-subkomponen berikut ini:
+IBM Connect V5.0
+
+Komponen Sumber dan Material Contoh
+
+Program dapat mencakup beberapa komponen dalam bentuk kode sumber ("Komponen Sumber") dan beberapa material lain yang dikenal sebagai Material Contoh. Pemegang Lisensi dapat menyalin dan memodifikasi Komponen-komponen Sumber dan Material Contoh untuk penggunaan internal hanya dengan ketentuan bahwa penggunaan tersebut dalam batas-batas hak lisensi berdasarkan Perjanjian ini, akan tetapi dengan ketentuan bahwa Pemegang Lisensi tidak dapat mengubah atau menghapus setiap informasi atau pemberitahuan tentang hak cipta yang terdapat dalam Komponen-komponen Sumber atau Material Contoh.  IBM memberikan Komponen-komponen Sumber dan Material Sampel tanpa adanya kewajiban dukungan dan "APA ADANYA", TANPA GARANSI APA PUN, SECARA TEGAS ATAU TERSIRAT, TERMASUK GARANSI KEPEMILIKAN, JAMINAN TIDAK ADANYA PELANGGARAN ATAU CAMPUR TANGAN SERTA JAMINAN DAN KETENTUAN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN DAN KESESUAIAN UNTUK TUJUAN TERTENTU.
+
+Unit Nilai Prosesor (Processor Value Unit - PVU)
+
+Unit Nilai Prosesor (PVU) adalah unit ukuran yang melaluinya Program dapat diberi lisensi. Jumlah kepemilikan PVU yang diperlukan didasarkan pada teknologi prosesor (ditentukan dalam Tabel PVU berdasarkan Vendor, Merek, Jenis, dan Nomor Model Prosesor di http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html) dan jumlah prosesor yang disediakan untuk Program. IBM terus menentukan prosesor, untuk tujuan pemberian lisensi berdasarkan PVU, menjadi masing-masing inti prosesor pada sebuah keping. Sebagai contoh, keping dua inti (dual-core) prosesor memiliki dua inti prosesor.
+
+Pemegang Lisensi dapat meluncurkan Program yang menggunakan pemberian lisensi Kapasitas Penuh atau pemberian lisensi Kapasitas Virtualisasi (Subkapasitas) sesuai dengan Syarat-syarat Pemberian Lisensi Subkapasitas Passport Advantage (lihat halaman web di bawah ini). Apabila menggunakan pemberian lisensi Kapasitas Penuh, Pemegang Lisensi harus mendapatkan kepemilikan PVU yang memadai untuk mencakup semua inti prosesor yang diaktifkan* dalam lingkungan perangkat keras fisik yang disediakan untuk atau dikelola oleh Program, kecuali untuk server-server tersebut yang darinya Program telah dihapus secara permanen. Apabila menggunakan pemberian lisensi Kapasitas Virtualisasi, Pemegang Lisensi harus mendapatkan kepemilikan-kepemilikan yang memadai untuk mencakup semua inti prosesor yang diaktifkan yang disediakan untuk atau dikelola oleh Program, sebagaimana ditentukan sesuai dengan Aturan Penghitungan Lisensi Kapasitas Virtualisasi di http://www.ibm.com/software/lotus/passportadvantage/Counting_Software_licenses_using_specific_virtualization_technologies.html.
+
+* Inti prosesor yang diaktifkan adalah inti prosesor yang tersedia untuk digunakan dalam sebuah server fisik atau maya, tanpa memperhatikan apakah kapasitas inti prosesor dapat dibatasi atau dibatasi melalui teknologi-teknologi virtualisasi, perintah-perintah sistem operasi, pengaturan-pengaturan BIOS atau pembatasan-pembatasan yang sama.
+
+L/N:  L-CLIG-AGFKQ9
+D/N:  L-CLIG-AGFKQ9
+P/N:  L-CLIG-AGFKQ9
+
+
+Perjanjian Lisensi Internasional untuk Program Tanpa Garansi
+
+Bagian 1 - Syarat-syarat Umum
+
+DENGAN MENGUNDUH, MEMASANG, MENYALIN, MENGAKSES, MENEKAN TOMBOL "TERIMA" ATAU DENGAN CARA LAIN MENGGUNAKAN PROGRAM, PEMEGANG LISENSI MENYETUJUI SYARAT-SYARAT PERJANJIAN INI. APABILA ANDA MENERIMA SYARAT-SYARAT INI ATAS NAMA PEMEGANG LISENSI, ANDA MENYATAKAN DAN MENJAMIN BAHWA ANDA MEMILIKI WEWENANG SEPENUHNYA UNTUK MENGIKAT PEMEGANG LISENSI DENGAN SYARAT-SYARAT INI. APABILA ANDA TIDAK MENYETUJUI SYARAT-SYARAT INI,
+
+* JANGAN MENGUNDUH, MEMASANG, MENYALIN, MENGAKSES, MENEKAN TOMBOL "TERIMA" ATAU MENGGUNAKAN PROGRAM; DAN
+
+* SEGERA MENGEMBALIKAN MEDIA DAN DOKUMENTASI YANG TIDAK TERPAKAI KEPADA PIHAK DARI MANA ANDA MENDAPATKANNYA UNTUK SUATU PENGEMBALIAN UANG ATAS JUMLAH YANG TELAH DIBAYARKAN. APABILA PROGRAM TELAH DIUNDUH, MUSNAHKAN SEMUA SALINAN PROGRAM.
+
+1. Definisi
+
+"Penggunaan yang Sah" - tingkat yang ditetapkan di mana Pemegang Lisensi berhak untuk melaksanakan atau menjalankan Program. Tingkat tersebut dapat diukur berdasarkan jumlah pengguna, jutaan unit layanan ("MSU"), Unit Nilai Prosesor ("PVU") atau tingkat penggunaan lainnya yang ditetapkan oleh IBM.
+
+"IBM" - International Business Machines Corporation atau salah satu anak perusahaannya.
+
+"Informasi tentang Lisensi" ("IL") - dokumen yang memberikan informasi dan syarat-syarat tambahan yang dikhususkan untuk Program. IL Program tersedia di www.ibm.com/software/sla. IL juga dapat dilihat dalam direktori Program dengan menggunakan perintah sistem atau sebagai buklet yang dimasukkan bersama dengan Program.
+
+"Program" - hal-hal berikut ini, termasuk asli dan seluruh atau sebagian salinan: 1) instruksi dan data yang dapat dibaca oleh mesin, 2) komponen, berkas, dan modul, 3) konten audio-visual (seperti gambar, teks, rekaman atau foto), dan 4) materi yang dilisensikan terkait (seperti kunci dan dokumentasi).
+
+2. Susunan Perjanjian
+
+Perjanjian ini termasuk Bagian 1 - Syarat-syarat Umum, Bagian 2 - Syarat-syarat Khusus Tiap Negara (apabila ada) dan IL dan merupakan perjanjian yang lengkap antara Pemegang Lisensi dan IBM tentang penggunaan Program. Perjanjian ini menggantikan setiap komunikasi lisan atau tertulis sebelumnya antara Pemegang Lisensi dan IBM tentang penggunaan Program oleh Pemegang Lisensi. Syarat-syarat Bagian 2 dapat menggantikan atau memodifikasi syarat-syarat Bagian 1. Sepanjang terdapat ketidaksesuaian, IL berlaku atas kedua Bagian tersebut.
+
+3. Pemberian Lisensi
+
+Program adalah milik IBM atau pemasok IBM serta diberi hak cipta dan lisensi, tetapi tidak dijual.
+
+IBM memberikan lisensi yang tidak eksklusif kepada Pemegang Lisensi untuk 1) menggunakan Program sampai dengan Penggunaan yang Sah sebagaimana ditetapkan dalam tagihan, 2) membuat dan memasang salinan-salinan untuk mendukung Penggunaan yang Sah tersebut, dan 3) membuat salinan cadangan, semua dengan ketentuan bahwa
+
+a. Pemegang Lisensi telah mendapatkan Program secara sah dan mematuhi syarat-syarat Perjanjian ini;
+
+b. salinan cadangan tidak bekerja kecuali apabila Program yang dicadangkan tidak dapat bekerja;
+
+c. Pemegang Lisensi mereproduksi semua pemberitahuan tentang hak cipta dan keterangan kepemilikan lainnya dalam masing-masing salinan atau sebagian salinan Program;
+
+d. Pemegang Lisensi memastikan bahwa setiap individu yang menggunakan Program (yang diakses dari jarak dekat atau jarak jauh) 1) melakukan hal tersebut hanya atas nama Pemegang Lisensi dan 2) mematuhi syarat-syarat Perjanjian ini;
+
+e. Pemegang Lisensi tidak 1) menggunakan, menyalin, memodifikasi, atau mendistribusikan Program kecuali apabila diizinkan secara tegas dalam Perjanjian ini; 2) merakit kembali, menyusun kembali, dengan cara lain, menerjemahkan atau merekayasa kembali Program, kecuali apabila diizinkan secara tegas oleh undang-undang tanpa adanya kemungkinan pelepasan kontrak; 3) menggunakan setiap komponen, berkas, modul, konten audio-visual atau materi yang dilisensikan terkait yang terpisah dari Program tersebut; atau 4) mensublisensikan, menyewa atau menyewakan Program; dan
+
+f. apabila Pemegang Lisensi mendapatkan Program ini sebagai Program Pendukung, Pemegang Lisensi menggunakan Program ini hanya untuk mendukung Program Utama dan tunduk kepada setiap batasan dalam lisensi untuk Program Utama, atau, apabila Pemegang Lisensi mendapatkan Program ini sebagai Program Utama, Pemegang Lisensi menggunakan semua Program Pendukung hanya untuk mendukung Program ini dan tunduk kepada setiap batasan dalam Perjanjian ini. Untuk tujuan Butir "f" ini, "Program Pendukung" adalah Program yang merupakan bagian dari Program IBM lainnya ("Program Utama") dan diidentifikasi sebagai Program Pendukung dalam IL Program Utama. (Untuk mendapatkan lisensi terpisah untuk Program Pendukung tanpa pembatasan-pembatasan ini, Pemegang Lisensi sebaiknya menghubungi pihak yang darinya Pemegang Lisensi telah mendapatkan Program Pendukung.)
+
+Lisensi ini berlaku untuk masing-masing salinan Program yang dibuat oleh Pemegang Lisensi.
+
+3.1 Tukar Tambah, Pembaruan, Perbaikan, dan Tambahan
+
+3.1.1 Tukar Tambah
+
+Apabila Program digantikan oleh Program tukar tambah, lisensi Program yang digantikan segera diakhiri.
+
+3.1.2 Pembaruan, Perbaikan, dan Tambahan
+
+Pada saat Pemegang Lisensi menerima pembaruan, perbaikan atau tambahan untuk Program, Pemegang Lisensi menerima syarat-syarat tambahan atau syarat-syarat yang berbeda yang berlaku untuk pembaruan, perbaikan atau tambahan tersebut yang ditetapkan dalam IL-nya. Apabila syarat-syarat tambahan atau syarat-syarat yang berbeda tidak diberikan, maka pembaruan, perbaikan atau tambahan tersebut semata-mata tunduk kepada Perjanjian ini. Apabila Program digantikan oleh pembaruan, Pemegang Lisensi setuju untuk segera berhenti menggunakan Program yang digantikan.
+
+3.2 Lisensi Jangka Waktu Tertentu
+
+Apabila IBM melisensikan Program selama jangka waktu tertentu, lisensi Pemegang Lisensi diakhiri pada akhir jangka waktu tertentu, kecuali apabila Pemegang Lisensi dan IBM sepakat untuk memperbarui lisensi Program tersebut.
+
+3.3 Jangka Waktu dan Pengakhiran
+
+Perjanjian ini berlaku sampai perjanjian ini diakhiri.
+
+IBM dapat mengakhiri lisensi Pemegang Lisensi apabila Pemegang Lisensi tidak mematuhi syarat-syarat Perjanjian ini.
+
+Apabila lisensi diakhiri karena alasan apa pun oleh salah satu pihak, Pemegang Lisensi setuju untuk segera berhenti menggunakan dan memusnahkan semua salinan Program Pemegang Lisensi. Setiap syarat Perjanjian ini yang berdasarkan sifatnya melampaui pengakhiran Perjanjian ini tetap berlaku sampai syarat tersebut dipenuhi, dan berlaku untuk masing-masing penerus dan penerima pengalihan hak kedua belah pihak.
+
+4. Biaya-biaya
+
+Biaya-biaya, apabila ada, didasarkan pada Penggunaan yang Sah yang telah didapatkan, yang ditetapkan dalam tagihan. IBM tidak memberikan kredit atau pengembalian uang atas biaya-biaya yang telah jatuh tempo atau dibayar, kecuali apabila ditetapkan lain dalam Perjanjian ini.
+
+Apabila Pemegang Lisensi ingin meningkatkan Penggunaannya yang Sah, Pemegang Lisensi harus memberitahukan kepada IBM atau pengecer (reseller) IBM yang sah terlebih dahulu dan membayar setiap biaya yang berlaku.
+
+5. Pajak
+
+Apabila suatu lembaga mengenakan bea, pajak, retribusi atau biaya terhadap Program, tidak termasuk bea, pajak, retribusi atau biaya yang didasarkan pada pendapatan bersih IBM, maka Pemegang Lisensi setuju untuk membayar jumlah tersebut, sebagaimana ditetapkan dalam tagihan atau dokumentasi tentang pembebasan pajak atas pasokan. Pemegang Lisensi bertanggung jawab atas setiap pajak properti pribadi untuk Program sejak tanggal Pemegang Lisensi mendapatkan Program tersebut. Apabila suatu lembaga mengenakan bea cukai, pajak, retribusi atau biaya untuk impor ke dalam atau ekspor, transfer, akses atau penggunaan Program ke luar negeri di mana Pemegang Lisensi awal mendapatkan lisensi, maka Pemegang Lisensi setuju bahwa pihaknya bertanggung jawab atas, dan akan membayar, setiap jumlah yang dikenakan.
+
+6. Jaminan Uang Kembali
+
+Apabila Pemegang Lisensi tidak puas dengan Program karena alasan apa pun dan merupakan Pemegang Lisensi awal, Pemegang Lisensi dapat mengakhiri lisensi dan mendapatkan pengembalian uang atas jumlah yang telah dibayar oleh Pemegang Lisensi, apabila ada, untuk Program, dengan ketentuan bahwa Pemegang Lisensi mengembalikan Program kepada pihak yang darinya Pemegang Lisensi telah mendapatkan Program tersebut dalam jangka waktu 30 hari sejak tanggal tagihan. Apabila lisensi adalah lisensi untuk jangka waktu tertentu yang tunduk kepada pembaruan, maka Pemegang Lisensi dapat mendapatkan pengembalian uang hanya apabila Program dikembalikan dalam jangka waktu 30 hari pertama sejak jangka waktu yang pertama. Apabila Pemegang Lisensi telah mengunduh Program, Pemegang Lisensi sebaiknya menghubungi pihak yang darinya Pemegang Lisensi telah mendapatkan Program tersebut untuk mendapatkan instruksi-instruksi tentang cara untuk mendapatkan pengembalian uang.
+
+7. Transfer Program
+
+Pemegang Lisensi dapat mentransfer Program serta semua hak dan kewajiban lisensi Pemegang Lisensi kepada pihak lainnya hanya apabila pihak tersebut menyetujui syarat-syarat Perjanjian ini. Apabila lisensi diakhiri karena alasan apa pun oleh salah satu pihak, Pemegang Lisensi dilarang untuk mentransfer Program kepada pihak lainnya. Pemegang Lisensi tidak dapat mentransfer sebagian 1) Program atau 2) Penggunaan yang Sah atas Program. Pada saat Pemegang Lisensi mentransfer Program, Pemegang Lisensi juga harus mentransfer salinan kertas Perjanjian ini, termasuk IL. Segera setelah transfer dilakukan, lisensi Pemegang Lisensi berakhir.
+
+8. Tidak Adanya Jaminan
+
+DENGAN TUNDUK KEPADA SETIAP JAMINAN YANG DIDASARKAN PADA UNDANG-UNDANG YANG TIDAK DAPAT DIKECUALIKAN, IBM TIDAK MEMBUAT JAMINAN ATAU KETENTUAN APA PUN, SECARA TEGAS ATAU TERSIRAT, TENTANG PROGRAM ATAU DUKUNGAN, APABILA ADA, TERMASUK, TETAPI TIDAK TERBATAS PADA, SETIAP JAMINAN ATAU KETENTUAN APA PUN SECARA TERSIRAT TENTANG KELAYAKAN UNTUK DIPERJUALBELIKAN, KUALITAS YANG MEMUASKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN HAK MILIK, SERTA SETIAP JAMINAN ATAU KETENTUAN TENTANG TIDAK ADANYA PELANGGARAN. 
+
+BEBERAPA NEGARA ATAU YURISDIKSI TIDAK MEMPERBOLEHKAN PENGECUALIAN TENTANG JAMINAN SECARA TEGAS ATAU TERSIRAT. OLEH KARENA ITU, PENGECUALIAN DI ATAS MUNGKIN TIDAK BERLAKU UNTUK PEMEGANG LISENSI. DALAM HAL TERSEBUT, JAMINAN-JAMINAN TERSEBUT DIBATASI SELAMA PERIODE MINIMUM YANG DIWAJIBKAN OLEH UNDANG-UNDANG. TIDAK ADA JAMINAN APA PUN YANG BERLAKU SETELAH PERIODE TERSEBUT. BEBERAPA NEGARA ATAU YURISDIKSI TIDAK MEMPERBOLEHKAN BATASAN-BATASAN TENTANG BERAPA LAMA JAMINAN YANG TERSIRAT BERLAKU. OLEH KARENA ITU, BATASAN DI ATAS MUNGKIN TIDAK BERLAKU UNTUK PEMEGANG LISENSI. PEMEGANG LISENSI DAPAT MEMILIKI HAK LAINNYA YANG BERBEDA-BEDA ANTARA NEGARA YANG SATU DENGAN NEGARA YANG LAIN ATAU ANTARA YURISDIKSI YANG SATU DENGAN YURISDIKSI YANG LAIN. 
+
+SANGGAHAN-SANGGAHAN DAN PENGECUALIAN-PENGECUALIAN DALAM PASAL 8 INI JUGA BERLAKU UNTUK SETIAP PENGEMBANG DAN PEMASOK PROGRAM IBM. 
+
+PARA PRODUSEN, PEMASOK ATAU PENERBIT PROGRAM NON-IBM DAPAT MEMBERIKAN GARANSI MEREKA SENDIRI.
+
+IBM TIDAK MEMBERIKAN DUKUNGAN DALAM BENTUK APA PUN, KECUALI APABILA IBM MENETAPKAN LAIN. DALAM HAL TERSEBUT, SETIAP DUKUNGAN YANG DIBERIKAN OLEH IBM TUNDUK KEPADA SANGGAHAN-SANGGAHAN DAN PENGECUALIAN-PENGECUALIAN DALAM PASAL 8 INI.
+
+9. Data dan Basis Data Pemegang Lisensi
+
+Untuk membantu Pemegang Lisensi dalam mengisolasi penyebab permasalahan pada Program, IBM dapat meminta agar Pemegang Lisensi 1) memperbolehkan IBM untuk mengakses sistem Pemegang Lisensi dari jarak jauh atau 2) mengirimkan informasi atau data sistem Pemegang Lisensi kepada IBM. Akan tetapi, IBM tidak diwajibkan untuk memberikan asistensi tersebut kecuali apabila IBM dan Pemegang Lisensi mengadakan perjanjian tertulis secara terpisah yang atas dasarnya IBM setuju untuk memberikan kepada Pemegang Lisensi jenis dukungan tersebut, yang tidak termasuk dalam kewajiban-kewajiban IBM dalam Perjanjian ini. Dalam hal apa pun, IBM menggunakan informasi tentang kesalahan-kesalahan dan permasalahan-permasalahan untuk meningkatkan produk dan layanannya serta membantu pemberian tawaran-tawaran dukungan terkait yang dilakukannya. Untuk tujuan-tujuan ini, IBM dapat menggunakan badan-badan dan para subkontraktor IBM (termasuk dalam satu negara atau lebih selain negara di mana Pemegang Lisensi berada), dan Pemegang Lisensi memberikan wewenang kepada IBM untuk melakukan hal tersebut.
+
+Pemegang Lisensi tetap bertanggung jawab atas 1) setiap data dan konten dari setiap basis data yang disediakan oleh Pemegang Lisensi untuk IBM, 2) pilihan dan pelaksanaan prosedur dan kendali yang terkait dengan akses, keamanan, enkripsi, penggunaan, dan transmisi data (termasuk setiap data yang dapat diidentifikasi secara pribadi), serta 3) cadangan dan pemulihan atas setiap basis data dan setiap data yang disimpan. Pemegang Lisensi tidak akan mengirimkan atau memberikan kepada IBM akses ke setiap informasi yang dapat diidentifikasi secara pribadi, dalam bentuk data atau bentuk apa pun lainnya, dan akan bertanggung jawab atas biaya-biaya dan jumlah-jumlah lainnya yang wajar yang mungkin ditanggung oleh IBM terkait dengan setiap informasi tersebut yang secara tidak sengaja diberikan kepada IBM atau kehilangan atau pengungkapan informasi tersebut oleh IBM, termasuk biaya-biaya dan jumlah-jumlah lainnya yang timbul dari tuntutan pihak ketiga.
+
+10. Batasan Kewajiban
+
+Batasan-batasan dan pengecualian-pengecualian dalam Pasal 10 (Batasan Kewajiban) ini berlaku sepanjang batasan-batasan dan pengecualian-pengecualian tersebut tidak dilarang oleh undang-undang yang berlaku tanpa adanya kemungkinan pelepasan kontrak.
+
+10.1 Hal-hal yang Mungkin Menjadi Tanggung Jawab IBM
+
+Keadaan-keadaan dapat timbul apabila, karena wanprestasi dari pihak IBM atau kewajiban lainnya, Pemegang Lisensi berhak untuk mendapatkan ganti rugi dari IBM. Terlepas dari alasan Pemegang Lisensi untuk menuntut ganti rugi dari IBM (termasuk pelanggaran yang mendasar, kelalaian, pernyataan yang salah, atau kontrak lainnya atau tuntutan atas tindakan kejahatan), seluruh kewajiban IBM untuk semua tuntutan secara keseluruhan yang timbul dari atau terkait dengan masing-masing Program atau dengan cara lain, yang timbul berdasarkan Perjanjian ini tidak akan melampaui jumlah dari setiap 1) ganti rugi karena cedera badan (termasuk kematian) dan kerusakan terhadap properti yang bersifat tetap (real property) dan properti pribadi yang berwujud dan 2) ganti rugi aktual atas kerusakan langsung lainnya, sampai sebesar-besarnya biaya yang telah dibayarkan oleh Pemegang Lisensi untuk Program yang menjadi subjek tuntutan (apabila Program tunduk kepada biaya-biaya tetap dalam jangka waktu tertentu, sampai sebesar-besarnya biaya-biaya selama jangka waktu dua belas bulan).
+
+Batas ini juga berlaku untuk setiap pengembang dan pemasok Program IBM. Batas ini merupakan jumlah maksimum tanggung jawab IBM serta para pengembang dan pemasok Programnya secara bersama-sama.
+
+10.2 Hal-hal yang Bukan Merupakan Tanggung Jawab IBM
+
+DALAM SITUASI APA PUN JUGA, IBM, PARA PENGEMBANG ATAU PEMASOK PROGRAMNYA TIDAK BERTANGGUNG JAWAB ATAS SALAH SATU HAL BERIKUT INI, BAHKAN APABILA TELAH DIINFORMASIKAN BAHWA TERDAPAT KEMUNGKINAN TERJADI HAL-HAL BERIKUT INI:
+
+a. KEHILANGAN ATAU KERUSAKAN DATA;
+
+b. KERUSAKAN / KERUGIAN KHUSUS, INSEDENTIL, CONTOH, ATAU KERUSAKAN / KERUGIAN TAK LANGSUNG, ATAU UNTUK SETIAP KERUSAKAN / KERUGIAN SEBAB-AKIBAT EKONOMIS; ATAU
+
+c. HILANGNYA LABA, BISNIS, PENDAPATAN, NAMA BAIK (GOODWILL), ATAU SIMPANAN YANG DIHARAPKAN.
+
+11. Verifikasi terhadap Kepatuhan
+
+Untuk tujuan-tujuan Pasal 11 (Verifikasi terhadap Kepatuhan) ini, "Syarat-syarat Perjanjian Lisensi Internasional untuk Program Tanpa Garansi" ini berarti 1) Perjanjian ini serta perubahan-perubahan dan dokumen-dokumen transaksi yang berlaku yang diberikan oleh IBM, dan 2) kebijakan-kebijakan perangkat lunak IBM yang dapat dilihat di situs web Kebijakan Perangkat Lunak IBM (www.ibm.com/softwarepolicies), termasuk tetapi tidak terbatas pada kebijakan-kebijakan tersebut yang terkait dengan cadangan, penetapan harga subkapasitas, dan migrasi.
+
+Hak-hak dan kewajiban-kewajiban yang tercantum dalam Pasal 11 ini tetap berlaku selama periode saat Program dilisensikan kepada Pemegang Lisensi dan selama dua tahun berikutnya.
+
+11.1 Proses Verifikasi
+
+Pemegang Lisensi setuju untuk menciptakan, menyimpan, dan memberikan kepada IBM dan para auditornya catatan-catatan tertulis yang akurat, keluaran (output) sistem, dan informasi sistem lainnya yang memadai untuk memberikan verifikasi yang dapat diaudit bahwa penggunaan semua Program oleh Pemegang Lisensi sesuai dengan Syarat-syarat Perjanjian Lisensi Internasional untuk Program Tanpa Garansi, termasuk, tetapi tidak terbatas pada, semua syarat pemberian lisensi dan kualifikasi penetapan harga yang berlaku dari IBM. Pemegang Lisensi bertanggung jawab untuk 1) memastikan bahwa pihaknya tidak melampaui Penggunaannya yang Sah dan 2) tetap sesuai dengan Syarat-syarat Perjanjian Lisensi Internasional untuk Program Tanpa Garansi.
+
+Setelah adanya pemberitahuan yang wajar, IBM dapat memverifikasi kepatuhan Pemegang Lisensi terhadap Syarat-syarat Perjanjian Lisensi Internasional untuk Program Tanpa Garansi di semua lokasi dan untuk semua lingkungan di mana Pemegang Lisensi menggunakan (untuk tujuan apa pun) Program-program dengan tunduk kepada Syarat-syarat Perjanjian Lisensi Internasional untuk Program Tanpa Garansi. Verifikasi tersebut akan dilakukan dengan cara yang seminimal mungkin mengganggu bisnis Pemegang Lisensi, dan dapat dilakukan di tempat-tempat Pemegang Lisensi, selama jam-jam kerja normal. IBM dapat menggunakan auditor yang independen untuk membantu verifikasi tersebut, dengan ketentuan bahwa IBM memiliki perjanjian kerahasiaan tertulis yang ada pada auditor tersebut.
+
+11.2 Resolusi
+
+IBM akan memberitahukan kepada Pemegang Lisensi secara tertulis apabila verifikasi tersebut menunjukkan bahwa Pemegang Lisensi telah menggunakan Program dengan cara yang melampaui Penggunaannya yang Sah atau dengan cara lain, tidak sesuai dengan Syarat-syarat Perjanjian Lisensi Internasional untuk Program Tanpa Garansi. Pemegang Lisensi setuju untuk segera membayar kepada IBM secara langsung biaya-biaya yang ditetapkan oleh IBM dalam tagihan untuk 1) setiap kelebihan penggunaan tersebut, 2) dukungan untuk kelebihan penggunaan tersebut selama kurang dari jangka waktu kelebihan penggunaan tersebut atau dua tahun, dan 3) setiap biaya tambahan dan kewajiban lainnya yang ditentukan yang diakibatkan oleh verifikasi tersebut.
+
+12. Pemberitahuan Pihak Ketiga
+
+Program dapat termasuk kode pihak ketiga yang dilisensikan oleh IBM, bukan pihak ketiga, kepada Pemegang Lisensi berdasarkan Perjanjian ini. Pemberitahuan-pemberitahuan, apabila ada, untuk kode pihak ketiga ("Pemberitahuan Pihak Ketiga") dimasukkan hanya untuk informasi Pemegang Lisensi. Pemberitahuan-pemberitahuan ini dapat dilihat di dalam berkas(-berkas) PEMBERITAHUAN Program. Informasi tentang cara untuk mendapatkan sumber kode untuk kode pihak ketiga tertentu dapat dilihat di dalam Pemberitahuan Pihak Ketiga. Apabila di dalam Pemberitahuan Pihak Ketiga, IBM mengidentifikasi kode pihak ketiga sebagai "Kode Pihak Ketiga yang Dapat Dimodifikasi", IBM memberikan wewenang kepada Pemegang Lisensi untuk 1) memodifikasi Kode Pihak Ketiga yang Dapat Dimodifikasi dan 2) merekayasa kembali modul-modul Program yang terhubung secara langsung dengan Kode Pihak Ketiga yang Dapat Dimodifikasi dengan ketentuan bahwa modul-modul tersebut hanya untuk tujuan debug modifikasi-modifikasi Pemegang Lisensi atas kode pihak ketiga tersebut. Kewajiban-kewajiban layanan dan dukungan IBM, apabila ada, berlaku hanya untuk Program yang tidak dimodifikasi.
+
+13. Umum
+
+a. Tidak ada satu pun dalam Perjanjian ini yang mempengaruhi hak-hak konsumen yang didasarkan pada undang-undang yang tidak dapat dilepaskan atau dibatasi oleh kontrak.
+
+b. Untuk Program-program yang diberikan oleh IBM kepada Pemegang Lisensi dalam bentuk yang berwujud, IBM memenuhi kewajiban-kewajiban pengiriman dan penyerahannya setelah Program-program tersebut diserahkan kepada pengangkut yang ditunjuk oleh IBM, kecuali apabila disepakati lain secara tertulis oleh Pemegang Lisensi dan IBM.
+
+c. Apabila terdapat ketentuan Perjanjian ini yang dianggap tidak sah atau tidak dapat diberlakukan, ketentuan-ketentuan Perjanjian lainnya yang tersisa tetap berlaku sepenuhnya.
+
+d. Pemegang Lisensi setuju untuk mematuhi semua peraturan perundang-undangan ekspor dan impor yang berlaku, termasuk peraturan-peraturan tentang embargo dan sanksi serta larangan-larangan ekspor A. S. untuk penggunaan-penggunaan akhir tertentu atau untuk para pengguna tertentu.
+
+e. Pemegang Lisensi memberikan wewenang kepada International Business Machines Corporation dan anak perusahaannya (dan para penerus, penerima pengalihan hak, kontraktor, dan Mitra Bisnis IBM mereka) untuk menyimpan dan menggunakan informasi kontak bisnis Pemegang Lisensi di mana pun mereka menjalankan bisnis, terkait dengan produk-produk dan layanan-layanan IBM, atau sebagai kelanjutan dari hubungan bisnis IBM dengan Pemegang Lisensi.
+
+f. Masing-masing pihak akan memberikan kesempatan yang wajar kepada pihak lainnya untuk mematuhi sebelum pihaknya mengajukan tuntutan bahwa pihak lainnya belum memenuhi kewajiban-kewajibannya berdasarkan Perjanjian ini. Para pihak akan berupaya dengan itikad baik untuk menyelesaikan semua sengketa, perselisihan atau tuntutan di antara para pihak yang terkait dengan Perjanjian ini.
+
+g. Kecuali apabila diwajibkan lain oleh undang-undang yang berlaku tanpa adanya kemungkinan pelepasan atau batasan kontrak: 1) tidak ada satu pihak pun yang akan mengambil tindakan hukum, tanpa memperhatikan bentuknya, untuk setiap tuntutan yang timbul dari atau terkait dengan Perjanjian ini dalam jangka waktu lebih dari dua tahun setelah timbulnya penyebab tuntutan; dan 2) setelah berakhirnya batas waktu tersebut, setiap tuntutan tersebut dan semua hak masing-masing yang terkait dengan tuntutan berakhir.
+
+h. Pemegang Lisensi atau IBM tidak bertanggung jawab atas kegagalan dalam memenuhi setiap kewajiban yang diakibatkan oleh penyebab-penyebab di luar kendalinya.
+
+i. Tidak ada hak atau dasar tuntutan untuk pihak ketiga yang diciptakan oleh Perjanjian ini, dan IBM tidak bertanggung jawab atas tuntutan-tuntutan pihak ketiga terhadap Pemegang Lisensi, kecuali apabila diizinkan dalam Subpasal 10.1 (Hal-hal yang Mungkin Menjadi Tanggung Jawab IBM) di atas karena cedera badan (termasuk kematian) atau kerusakan terhadap properti pribadi yang bersifat tetap atau berwujud yang merupakan tanggung jawab IBM secara hukum kepada pihak ketiga tersebut.
+
+j. Dalam mengadakan Perjanjian ini, tidak ada satu pihak pun yang mendasarkan pada setiap pernyataan yang tidak ditetapkan dalam Perjanjian ini, termasuk tetapi tidak terbatas pada setiap pernyataan yang terkait dengan: 1) kinerja atau fungsi Program; 2) pengalaman-pengalaman atau rekomendasi-rekomendasi para pihak lainnya; atau 3) hasil atau simpanan apa pun yang dapat dicapai oleh Pemegang Lisensi.
+
+k. IBM telah menandatangani perjanjian-perjanjian dengan perusahaan-perusahaan tertentu (disebut sebagai "Para Mitra Bisnis IBM") untuk mempromosikan, memasarkan, dan mendukung Program-program tertentu. Para Mitra Bisnis IBM tetap bersifat independen dan terpisah dari IBM. IBM tidak bertanggung jawab atas tindakan-tindakan atau pernyataan-pernyataan Para Mitra Bisnis IBM atau kewajiban-kewajiban yang mereka miliki terhadap Pemegang Lisensi.
+
+l. Syarat-syarat lisensi dan pemberian ganti rugi atas kekayaan intelektual dari perjanjian-perjanjian Pemegang Lisensi lainnya dengan IBM (seperti Perjanjian Konsumen IBM) tidak berlaku untuk lisensi-lisensi Program yang diberikan berdasarkan Perjanjian ini.
+
+m. Kedua belah pihak sepakat bahwa semua informasi yang dipertukarkan tidak bersifat rahasia. Apabila salah satu mewajibkan pertukaran informasi rahasia, pertukaran informasi tersebut akan dilakukan berdasarkan perjanjian kerahasiaan yang ditandatangani;
+
+14. Cakupan Geografis dan Undang-undang yang Mengatur
+
+14.1 Undang-undang yang Mengatur
+
+Kedua belah pihak sepakat bahwa pelaksanaan undang-undang negara di mana Pemegang Lisensi telah mendapatkan lisensi Program akan mengatur, menafsirkan, dan memberlakukan semua hak, tugas, dan kewajiban Pemegang Lisensi dan IBM yang timbul dari, atau yang dengan cara apa pun terkait dengan, pokok materi Perjanjian ini, dengan tidak memperhatikan ketidaksesuaian prinsip undang-undang.
+
+Konvensi Perserikatan Bangsa-Bangsa tentang Kontrak Penjualan Barang Internasional (United Nations Convention on Contracts for the International Sale of Goods) tidak berlaku.
+
+14.2 Yurisdiksi
+
+Semua hak, tugas, dan kewajiban tunduk kepada pengadilan-pengadilan negara di mana Pemegang Lisensi telah mendapatkan lisensi Program.
+
+Bagian 2 - Syarat-syarat Khusus Tiap Negara
+
+Untuk lisensi-lisensi yang diberikan di Indonesia, syarat-syarat berikut ini menggantikan atau memodifikasi syarat-syarat yang dijadikan acuan dalam Bagian 1. Semua syarat dalam Bagian 1 yang tidak diubah oleh perubahan-perubahan ini tetap tidak berubah dan tetap berlaku. Bagian 2 ini disusun sebagai berikut:
+
+* Perubahan negara terhadap Bagian 1, Pasal 14 (Undang-undang dan Yurisdiksi yang Mengatur); dan
+
+* Perubahan negara Asia Pasifik terhadap syarat-syarat Perjanjian lainnya.
+
+Perubahan negara terhadap Bagian 1, Pasal 14 (Undang-undang dan Yurisdiksi yang Mengatur)
+
+14.3 Arbitrase
+
+Ayat-ayat berikut ini ditambahkan sebagai Subpasal 14.3 (Arbitrase) yang baru sebagaimana ayat-ayat tersebut berlaku untuk Indonesia. Ketentuan-ketentuan Subpasal 14.3 ini berlaku atas ketentuan-ketentuan Subpasal 14.2 (Yurisdiksi) sepanjang diizinkan oleh undang-undang dan peraturan tata tertib yang mengatur yang berlaku:
+
+Masing-masing pihak akan memberikan kesempatan yang wajar kepada pihak lainnya untuk mematuhi sebelum pihaknya mengajukan tuntutan bahwa pihak lainnya belum memenuhi kewajiban-kewajibannya berdasarkan Perjanjian ini. Para pihak akan berupaya dengan itikad baik untuk menyelesaikan semua sengketa, perselisihan atau tuntutan di antara para pihak yang terkait dengan Perjanjian ini. Kecuali diwajibkan lain oleh undang-undang yang berlaku tanpa adanya kemungkinan pelepasan atau batasan kontrak, i) tidak ada satu pihak pun yang akan mengambil tindakan hukum, tanpa memperhatikan bentuknya, yang timbul karena atau terkait dengan Perjanjian ini atau transaksi apa pun berdasarkan Perjanjian ini dalam jangka waktu lebih dari dua tahun setelah timbulnya dasar tuntutan; dan ii) setelah batas waktu tersebut, setiap tindakan hukum yang timbul karena Perjanjian ini atau transaksi apa pun berdasarkan Perjanjian ini dan semua hak masing-masing yang terkait dengan setiap tindakan tersebut berakhir.
+
+Sengketa-sengketa yang timbul karena atau terkait dengan Perjanjian ini pada akhirnya akan diselesaikan melalui arbitrase yang akan diadakan di Jakarta, Indonesia, sesuai dengan aturan-aturan Badan Arbitrase Nasional Indonesia ("BANI") yang berlaku pada saat itu. Putusan arbitrase akan bersifat final dan mengikat para pihak tanpa adanya banding dan akan dibuat secara tertulis serta mencantumkan temuan-temuan fakta dan kesimpulan-kesimpulan hukum.
+
+Arbiter akan berjumlah tiga orang, dengan masing-masing pihak dalam sengketa tersebut berhak menunjuk seorang arbiter. Kedua arbiter yang ditunjuk oleh para pihak akan menunjuk arbiter ketiga yang akan bertindak sebagai ketua untuk memimpin proses penyelesaian sengketa tersebut. Lowongan dalam jabatan ketua akan diisi oleh Ketua BANI. Lowongan-lowongan lainnya akan diisi oleh masing-masing pihak yang mencalonkan. Proses-proses hukum akan berlanjut dari tahap proses-proses hukum sebelumnya pada saat terdapat lowongan.
+
+Apabila salah satu pihak menolak atau dengan kata lain, tidak menunjuk arbiter dalam jangka waktu 30 hari sejak tanggal pada saat pihak lainnya menunjuk arbiternya, arbiter yang ditunjuknya pertama kali akan menjadi arbiter tunggal, dengan ketentuan bahwa arbiter tersebut ditunjuk dengan cara yang sah dan tepat.
+
+Semua proses hukum akan dilaksanakan, termasuk semua dokumen yang disampaikan dalam proses hukum tersebut akan dibuat, dalam bahasa Inggris dan/atau Indonesia.
+
+PERUBAHAN-PERUBAHAN NEGARA ASIA PASIFIK
+
+INDONESIA
+
+3.3 Jangka Waktu dan Pengakhiran
+
+Kalimat berikut ini ditambahkan ke ayat terakhir:
+
+Kedua belah pihak melepaskan ketentuan Pasal 1266 Kitab Undang-undang Hukum Perdata, sepanjang ketentuan pasal tersebut mewajibkan keputusan pengadilan untuk mengakhiri perjanjian yang menciptakan kewajiban-kewajiban bersama.
+
+Z125-5589-05 (07/2011)
+
+

@@ -1,0 +1,1049 @@
+LICENCIJOS INFORMACIJA
+
+Toliau nurodytos Programos licencijuojamos pagal šias Licencijos informacijos sąlygas, kurios papildo Programos licencijos sąlygas, dėl kurių susitarė Klientas ir IBM. Jei Klientas anksčiau nėra sutikęs su Programai taikomomis licencijos sąlygomis, taikoma Programų kurioms neteikiama garantija tarptautinė licencinė sutartis (Z125-5589-05).
+
+Programos pavadinimas: IBM API Connect on Docker V5.0
+Programos numeris: 5725-Z22
+
+Pagalbinės programos
+
+Programa yra licencijuojama kaip kelių produktų paketas ir apima toliau nurodytas Pagalbines programas. Licenciatas įgaliotas diegti ir naudoti tokias Pagalbines programas tik Licenciato Pagrindinės programos naudojimui palaikyti pagal šią Sutartį, kaip nurodyta Programos Teisių suteikimo dokumente (nebent šiame Licencijos informacijos dokumente yra suteiktos platesnės teisės). Frazė „palaikyti Licenciato naudojimą“ apima tik tą naudojimą, kuris reikalingas ar kitaip tiesiogiai susijęs su Pagrindinės ar kitos Pagalbinės Programos licencijuotu naudojimu. Pagalbinių programų negalima naudoti jokiam kitam tikslui. Licenciatas nėra įgaliotas perduoti arba perparduoti Pagalbinių programų atskirai nuo Pagrindinės Programos. Pagalbinė programa gali būti pateikiama su licencijos sąlygomis ir šios sąlygos, jei tokių yra, taikomos Pagalbinę programą naudojančiam Licenciatui. Įvykus ginčui šiame Licencijos informacijos dokumente pateiktos sąlygos pakeičia Pagalbinės programos sąlygas. Kai Licenciato teisė naudoti Programą baigiasi arba nutraukiama, Licenciatas privalo nutraukti naudojimą, sunaikinti arba nedelsdamas grąžinti visas Pagalbinių Programų kopijas šaliai, iš kurios Licenciatas įsigijo Programą. Jeigu Licenciatas Pagalbines Programas atsisiuntė, jis turi susisiekti su šalimi, iš kurios Licenciatas įsigijo Programą. Jei Licenciatas nori licencijuoti Pagalbines programas naudoti ilgiau, nei nurodyta anksčiau, norėdami gauti atitinkamą licenciją, kreipkitės į IBM pardavimo atstovą arba šalį, iš kurios Licenciatas įsigijo Programą.
+
+Toliau išvardytos kartu su Programa licencijuotos Pagalbinės programos:
+IBM WebSphere DataPower Option for Application Optimization V7.5
+WebSphere Application Server Liberty Core V8.5.5
+API Connect Create for Node.js V5.0
+IBM HTTP Server
+
+Kūrėjo ribojimas
+
+Jei Programa pažymėta kaip skirta „Kūrėjams“, Programą kūrėjo kompiuteryje galima diegti tik kaip Licenciato vidinio kūrimo ir įrenginių testavimo paskirties dalį. Kūrėjo kompiuteris – tai fizinė arba kompiuterio virtualioji aplinka, kurioje veikia pagrindinė operacinė sistema ir Programa, prie kurių prieigą turi ir kurias naudoja ne daugiau nei vienas nurodytas kūrėjas. Licenciatas neturi teisės naudoti Programos gamybos darbo krūviams apdoroti, gamybos darbo krūviams modeliuoti arba bet kurio kodo, taikomosios programos arba sistemos pritaikomumui tikrinti. Licenciatas neturi teisės naudoti bet kurios Programos dalies bet kokiais kitais tikslais, jei nėra įsigijęs atitinkamų gamybos teisių.
+
+Atskirai licencijuotas kodas
+
+Šios dalies nuostatos netaikomos ta apimtimi, kai jos laikomos negaliojančios arba netaikytinos atsižvelgiant į įstatymą, kuriuo remiasi ši licencija. Visi toliau išvardyti komponentai vadinami „Atskirai licencijuotu kodu“. IBM Atskirai licencijuotas kodas yra licencijuotas Licenciatui remiantis taikomomis trečiosios šalies licencijos sutarties (-čių) sąlygomis, kurios išdėstytos kartu su Programa pateikiamame faile (-uose) NON_IBM_LICENSE. Nepaisant šios Sutarties sąlygų arba kitos sutarties, kurią Licenciatas gali turėti su IBM, tokios trečiosios šalies licencijos sutarties (-čių) sąlygos, jei toliau nenurodyta kitaip, apibrėžia, kaip naudoti visus Licenciato Atskirai licencijuotus kodus.
+
+Būsimuose Programos naujinimuose arba taisymuose gali būti papildomų Atskirai licencijuotų kodų. Tokie papildomi Atskirai licencijuoti kodai ir susijusios licencijos išvardijami kitame NON_IBM_LICENSE faile, kuris pateikiamas su Programos naujinimu arba taisymu. Licenciatas patvirtina, kad Licenciatas perskaitė ir sutinka su licencijos sutartimis, kurios yra NON_IBM_LICENSE faile (-uose). Jei Licenciatas nesutinka su šiomis trečiosios šalies licencijos sutarčių sąlygomis, Licenciatas negali naudoti Atskirai licencijuoto kodo.
+
+Jei Programos įsigytos pagal Tarptautinę programos licencijos sutartį („IPLA“) arba Tarptautinę programos licencijos sutartį, skirtą negarantinei programai ("ILAN") ir Licenciatas yra pradinis Programos licenciatas, jei licenciatas nesutinka su trečiosios šalies licencijos sutarčių sąlygomis, Licenciatas turi grąžinti Programą pagal IPLA arba ILAN IBM sutarties „Pinigų grąžinimo garantijos“ skyriuje nurodytą laiką ir sąlygas.
+
+Pastaba: nepaisant jokių trečiosios šalies sutarties, Sutarties ar kitos sutarties, kurią Licenciatas gali sudaryti su IBM, sąlygų:
+(a) IBM pateikia Licenciatui Atskirai licencijuotą kodą NETAIKYDAMA JOKIŲ GARANTIJŲ;
+(b) IBM PANEIGIA BET KOKIAS IR VISAS SU ATSKIRAI LICENCIJUOTU KODU SUSIJUSIAS APIBRĖŽTAS IR NUMANOMAS GARANTIJAS IR SĄLYGAS, ĮSKAITANT, BET NEAPSIRIBOJANT, PAVADINIMO, NEPAŽEIDŽIAMUMO AR ĮSIKIŠIMO GARANTIJAS IR NUMANOMAS TINKAMUMO PREKYBAI IR TAM TIKRAM TIKSLUI GARANTIJAS BEI SĄLYGAS;
+(c) IBM nėra įsipareigoję Licenciatui ir negins, neatlygins žalos ar nelaikys nekaltu dėl visų ieškinių, tiesiogiai arba netiesiogiai susijusių su Atskirai licencijuotu kodu; ir
+(d) IBM neatsako už jokius su Atskirai licencijuotu kodu susijusius tiesioginius, netiesioginius, atsitiktinius, ypatingus, pavyzdinius, baudžiamuosius ar priežastinius nuostolius, įskaitant, bet neapsiribojant, prarastus duomenis, prarastas santaupas ir prarastą pelną.
+
+Nepaisant šių išimčių, Vokietijoje ir Austrijoje IBM garantijas ir įsipareigojimus, susijusius su Atskirai licencijuotu kodu, lemia tik atitinkamos Vokietijai ir Austrijai taikomos sąlygos, nurodytos IBM kliento sutartyje.
+
+Pastaba: IBM gali teikti kai kurių Atskirai licencijuotų kodų ribotą palaikymą. Jei toks palaikymas teikiamas, išsami informacija ir papildomos tokio palaikymo sąlygos nurodomos dokumente „Licencijos informacija“.
+
+Toliau išvardyti Atskirai licencijuoti kodai:
+acl
+acpi
+acpid
+acpi-support
+adaptivetheme (drupal)
+addressfield (drupal)
+AddToAny (drupal)
+adduser
+admin_menu (drupal)
+adminimal_admin_menu (drupal)
+adminimal_theme (drupal)
+advagg (drupal)
+Advanced Forum (drupal)
+Advanced syslog (drupal)
+alpha_pagination
+alsa-lib
+angular.js/images/logo
+Ansible
+apt
+aptitude
+aptitude-common
+apt-transport-https
+apt-utils
+at
+AT Tools (drupal)
+atk
+attr
+audit
+audit-libs
+augeas
+autogen
+autogen-libopts
+Automated Logout (drupal)
+avahi
+base-files
+base-lsb
+base-passwd
+bash
+bc
+Bean (drupal)
+better_exposed_filters (drupal...
+binary_heap.js
+bind
+bind9-host
+binutils
+Block Class (drupal)
+Block Class Styles (drupal)
+BOA
+bridge-utils
+bsdutils
+busybox
+c3p0
+ca-certificates
+cairo
+cairo-spice
+caniuse-db(node)
+CAPTCHA (Drupal)
+cdrkit
+chain_menu_access
+chkconfig
+commons.wikimedia
+compat-gcc-32
+config.guess
+ConsoleKit
+console-setup
+content_access (drupal)
+context (drupal)
+coreutils
+cpio
+cracklib
+cracklib-dicts
+cron
+cronie
+crontabs
+cryptsetup-libs
+cryptsetup-luks
+csync2
+CTools (drupal)
+cups
+cvs
+d3 (drupal)
+dash
+dbus
+dbus-glib
+dbus-libs
+debian-archive-keyring
+debianutils
+desktop-file-utils
+device-mapper
+device-mapper-libs
+device-mapper-multipath
+dialog
+dictionaries-common
+diffutils
+discover
+dmidecode
+dmsetup
+dnsmasq
+dpkg
+dracut
+Drafty (Drupal)
+drbd83-kmod
+drbd83-utils
+Drupal
+drupal_helpers (drupal)
+drush_language (drupal)
+e2fslibs
+e2fslibs:amd64
+e2fsprogs
+ebtables
+ed
+eggdbus
+eject
+ejectorseat (drupal)
+elfutils
+entity (drupal)
+Entity API (drupal)
+Entity Reference (drupal)
+ethtool
+FAQ (drupal)
+faq.html
+Farbtastic
+ffmpeg-spice
+field_group (drupal)
+filesystem
+findutils
+fipscheck
+Fivestar (drupal)
+Flag (Drupal)
+flood_control
+follow
+Font Awesome4.1.0
+Font-Awesome
+forum_access
+frameprevention (drupal)
+gamin
+gawk
+gcc
+gcc-4.7-base
+gcc-5-base
+gcc-6-base
+gdb
+gdbm
+geoip-database
+gettext
+gettext-base
+git
+git-core
+git-man
+glib2
+glibc
+glibc-common
+gmp
+GNU Libtool
+gnupg
+gnupg2
+gnutls
+gobject-introspection
+gpgme
+gpgv
+gpm
+gpxe
+grep
+groff
+groff-base
+Group (drupal)
+grub
+grub2-common
+grubby
+grub-common
+grub-pc
+grub-pc-bin
+gtfs
+gtk2
+gzip
+Hibernate
+hicolor-icon-theme
+hide_submit (Drupal)
+Hierachical Select (Drupal)
+hierarchical_select
+hierarchical_select (drupal)
+hostname
+Htmlmail (drupal)
+httprl (drupal)
+hwdata
+hybridauth (drupal)
+hybridauth library
+i18n (drupal)
+ifupdown
+igb-kmod
+Image CAPTCHA Refresh (drupal)
+Images
+IMCE
+IMCE (drupal)
+imce_wysiwyg
+imce_wysiwyg (drupal)
+index-debug.html
+inetutils-ping
+info
+init
+initramfs-tools
+initscripts
+init-system-helpers
+insserv
+installation-report
+install-info
+iproute
+iproute2
+iptables
+iputils
+iputils-ping
+ipvsadm
+irqbalance
+iscsi-initiator-utils
+iso-codes
+ixgbe-kmod
+java-common
+jq
+jQuery Update (drupal)
+JSONSelect site
+kbd
+kernel
+kexec-tools
+keyboard-configuration
+keyutils
+keyutils-libs
+klibc-utils
+kmod
+kmod-libs
+kpartx
+l10n_update
+l10n_update (drupal)
+LDAP (drupal)
+legal (drupal)
+less
+libacl
+libacl1
+libacl1:amd64
+libaio
+libaio1
+libaio-devel
+libapparmor1
+libapt-inst1.5
+libapt-pkg4.12
+libapt-pkg4.12:amd64
+libapt-pkg5.0
+libart_lgpl
+libasprintf0c2
+libasprintf0c2:amd64
+libassuan
+libasyncns
+libatm1
+libattr
+libattr1
+libattr1:amd64
+libaudit1
+libaudit1:amd64
+libaudit-common
+libavahi-common-data:amd64
+libblkid
+libblkid1
+libblkid1:amd64
+libbz2-1.0
+libbz2-1.0:amd64
+libc6
+libc6:amd64
+libcap2
+libcap2-bin
+libcap-ng
+libc-bin
+libcgroup
+libclass-isa-perl
+libcmpiutil
+libcomerr2
+libcryptsetup4
+libcryptsetup4:amd64
+libcwidget3
+libdb5.1
+libdb5.1:amd64
+libdbd-mysql-perl
+libdbi-perl
+libdb-utils
+libdevmapper1.02.1
+libdevmapper1.02.1:amd64
+libdevmapper-event1.02.1
+libdiscover2
+libept1.4.12
+liberror-perl
+libestr0
+libev4
+libfdisk1
+libfile-copy-recursive-perl
+libfreetype6
+libfreetype6:amd64
+libfuse2
+libgcc1
+libgcc1:amd64
+libgcrypt
+libgcrypt11
+libgcrypt11:amd64
+libgcrypt20
+libgcrypt20:amd64
+libgd2-xpm
+libgd2-xpm:amd64
+libgd3
+libgdbm3
+libgdbm3:amd64
+libgeoip1
+libgeoip1:amd64
+libglib
+libglib2.0-0
+libglib2.0-data
+libgmp10
+libgmp10:amd64
+libgnutls2
+libgnutls26:amd64
+libgnutls30
+libgnutls-openssl27
+libgnutls-openssl27:amd64
+libgpg-error
+libgpg-error0
+libgpg-error0:amd64
+libgpm2
+libhogweed2:amd64
+libhogweed4
+libhtml-template-perl
+libidn
+libidn11
+libidn11:amd64
+libjbig0
+libjbig0:amd64
+libjpeg8
+libjpeg-turbo
+libkeyutils1
+libkeyutils1:amd64
+libklibc
+libkmod2
+libkmod2:amd64
+liblcms2-2:amd64
+liblocale-gettext-perl
+libltdl7
+libltdl7:amd64
+liblz4-1
+liblzma5
+liblzma5:amd64
+libmariadbclient18
+libmcrypt4
+libmnl
+libmnl0
+libmount
+libmount1
+libmount1:amd64
+libmverbs
+libmysqlclient18
+libmysqlclient20
+libnetfilter_conntrack
+libnettle4:amd64
+libnettle6
+libnewt0.52
+libnfnetlink
+libnfnetlink0
+libnih
+libnl
+libnspr4:amd64
+libnuma1
+libopts25
+libp11-kit0
+libp11-kit0:amd64
+libpam0g
+libpam0g:amd64
+libpam-modules
+libpam-modules:amd64
+libpam-modules-bin
+libpam-runtime
+libpci3
+libpci3:amd64
+libperconaserverclient18.1
+libperl5.22
+libpipeline1
+libpipeline1:amd64
+libpng12-0
+libpng12-0:amd64
+libpopt0
+libpopt0:amd64
+libprocps0
+libprocps0:amd64
+libprocps3:amd64
+libprocps4
+libqdbm14
+Libraries API (drupal)
+libreadline5
+libreadline5:amd64
+libreadline6
+libreadline6:amd64
+librsync1
+librsync1:amd64
+librtmp0
+librtmp0:amd64
+librtmp1
+librtmp1:amd64
+libsasl2-2
+libsasl2-2:amd64
+libsasl2-modules
+libsasl2-modules:amd64
+libsasl2-modules-db
+libseccomp2
+libselinux
+libselinux1
+libselinux1:amd64
+libsemanage
+libsemanage1
+libsemanage1:amd64
+libsemanage-common
+libsepol
+libsepol1
+libsepol1:amd64
+libsigc++-2.0-0c2a
+libsigc++-2.0-0c2a:amd64
+libsigsegv2
+libslang2
+libslang2:amd64
+libsmartcols1
+libsmartcols1:amd64
+libsndfile
+libss
+libss2
+libss2:amd64
+libstdc++
+libstdc++6
+libstdc++6:amd64
+libswitch-perl
+libsystemd0
+libsystemd0:amd64
+libt
+libt1-5
+libtasn1
+libtasn1-3
+libtasn1-3:amd64
+libtasn1-6
+libtasn1-6:amd64
+libtext-charwidth-perl
+libtext-iconv-perl
+libtext-wrapi18n-perl
+libthai
+libtool
+libudev0
+libudev0:amd64
+libudev1
+libudev1:amd64
+libusb
+libusb-0.1-4
+libusb-0.1-4:amd64
+libuser
+libustr-1.0-1
+libustr-1.0-1:amd64
+libutempter
+libuuid1
+libuuid1:amd64
+libuuid-perl
+libvirt
+libvirt-cim
+libvpx1:amd64
+libxapian22
+libxtables11
+linkchecker (drupal)
+linkit
+linkit (drupal)
+linkit_picker
+linkit_picker (drupal)
+linux-base
+linux-image-3.2.0
+lksctp-tools
+lm_sensors
+locales
+login
+logrotate
+lsb-base
+lsb-release
+lsof
+lsyncd
+lvm2
+lzo
+lzop
+m4
+Mailsystem (drupal)
+make
+MAKEDEV
+man
+man-db
+manpages
+mariadb-client-5.5
+mariadb-client-core-5.5
+mariadb-common
+mariadb-galera-server
+mariadb-galera-server-5.5
+markdown (drupal)
+material-design-icons
+material-design-icons-iconfont
+mawk
+mdadm
+megaraid_sas-kmod
+menu_item_visibility (drupal)
+messaging (drupal)
+metatag (drupal)
+microcode_ctl
+mime-support
+mingetty
+module-init-tools
+motif
+mount
+mptlinux-kmod
+multiarch-support
+mysql
+mysql-common
+nano
+netbase
+netcat-traditional
+netcf
+net-tools
+newt
+nfs-utils
+nginx
+nginx-common
+nginx-full
+nmap
+no_autocomplete (drupal)
+node_clone (drupal)
+notifications (drupal)
+notifications_forum (drupal)
+nss-pam-ldapd
+ntp
+ntpdate
+numactl
+numad
+ocfs2-tools
+ofa_kernel
+OpenIPMI
+openjdk-8-jre-headless:amd64
+openssh-blacklist
+openssh-blacklist-extra
+openssh-client
+openssh-server
+openssh-sftp-server
+oprofile
+os-prober
+pam
+pam_ldap
+Panels (drupal)
+pango
+parted
+passwd
+Password policy (drupal)
+patch
+Pathologic (drupal)
+PCD
+pciutils
+Percona XtraDB Cluster
+percona-xtrabackup
+Percona-XtraDB-Cluster
+percona-xtradb-cluster-client-5.6
+percona-xtradb-cluster-common-5.6
+percona-xtradb-cluster-galera-3
+percona-xtradb-cluster-galera-3.x
+perl
+perl-base
+perl-modules
+perl-modules-5.22
+PHP SAML2
+phpmailer
+PHPMailer (drupal)
+pinentry
+pkgconfig
+pkg-config
+plymouth
+pm-utils
+polkit
+portreserve
+prelink
+procmail
+procps
+procps-ng
+psmisc
+pth
+pulseaudio
+pygobject3-base
+pygpgme
+pyliblzma
+python
+python2.7
+python2.7-minimal
+python-apt
+python-apt-common
+python-chardet
+python-gnupginterface
+python-kitchen
+python-minimal
+python-pycurl
+python-software-properties
+python-support
+python-urlgrabber
+pyxattr
+qemu-kvm
+qrencode-libs
+readline
+readline-common
+rename
+restrict_by_ip (drupal)
+restws (drupal)
+rng-tools
+rpm
+rpm-build-libs
+rpm-libs
+rpm-python
+rsync
+rsyslog
+Rules_http_client (drupal)
+scsi-target-utils
+seabios
+search_autocomplete (drupal)
+search_config (drupal)
+search404 (drupal)
+seckit (drupal)
+security_questions (drupal)
+sed
+seek-bzip
+sensible-utils
+session_limit (drupal)
+sgml-base
+shadow-utils
+shared-mime-info
+sharutils
+Simple Dialog
+simplesamlphp
+simplesamlphp_auth (drupal)
+site_test (drupal)
+site_test_helpers (drupal)
+slang
+slick (drupal)
+slick_extras (drupal)
+slick_views (drupal)
+socat
+SPDX specification
+spdx-exceptions(Node)1.0.3
+spdx-exceptions(Node)1.0.4
+spdx-exceptions(Node)1.0.5
+spdx-expression-parse (node)
+spice-server
+ssh-import-id
+sshpass
+ssmtp
+startpar
+StatsD (drupal)
+stickynav (drupal)
+Support Ticketing System (drupal)
+swig
+sysfsutils
+syslog-ng
+sysstat
+systemd
+systemd-libs
+systemd-sysv
+sysvinit
+sysvinit-utils
+sysv-rc
+TagCloud (drupal)
+tar
+tar-static
+tasksel
+tasksel-data
+taxonomy_menu
+taxonomy_menu (drupal)
+taxonomy_menu_block (drupal)
+texinfo
+tfa
+tfa (drupal)
+tfa_basic
+tfa_basic (drupal)
+time
+tinyMCE
+tmpreaper
+Token (Drupal)
+traceroute
+Translation helpers (drupal)
+transliteration (drupal)
+trustedgrub
+tunctl
+Twitter Timeline (drupal)
+ubuntu-keyring
+ucf
+udev
+ufw
+Ulimate Cron (Drupal)
+unattended-upgrades
+underscore.js (drupal)
+unixODBC
+update-inetd
+upstart
+user_pwreset_timeout (Drupal)
+usersearchtoadmin (Drupal)
+ustr
+util-linux
+util-linux-locales
+util-linux-ng
+Variable (drupal)
+vgabios
+Views (drupal)
+Views data export (Drupal)
+Views_bulk_operations (drupal)
+views_send (drupal)
+vim
+vim-minimal
+Voting API (drupal)
+VPPR (drupal)
+wget
+which
+whiptail
+workbench (drupal)
+workbench_moderation (drupal)
+Wysiwig (drupal)
+x11-common
+xautoload (drupal)
+xdg-user-dirs
+xml-core
+xmlto
+xpath.js
+xtrabackup
+xz
+xz-utils
+yum
+yum-metadata-parser
+yum-plugin-fastestmirror
+yum-plugin-ovl
+yum-utils
+
+Kontrolinis testas
+
+Licenciatas gali atskleisti Programos arba jos pakomponenčių kontrolinio testo rezultatus trečiajai šaliai, jei Licenciatas (A) viešai atskleidžia visą kontroliniame teste naudotą metodiką (pavyzdžiui, techninės ir programinės įrangos nustatymus, diegimo procedūrą ir konfigūravimo failus), (B) atlieka Licenciato kontrolinį testą vykdydamas programą numatytoje veikimo aplinkoje, naudodamas naujausius taikomus naujinimus, pataisas ir taisymus, kuriuos pateikia IBM arba IBM produktus teikiančios trečiosios šalys („Trečiosios šalys“) ir (C) vykdo bet kokias ir visas veikimo reguliavimo ir geros praktikos rekomendacijas, kurios pateiktos Programos dokumentacijoje ir Programai skirtose IBM palaikymo svetainėse. Jei Licenciatas paskelbia bet kokius Programos kontrolinio testo rezultatus, nepaisant to, kad sutartyje tarp Licenciato ir IBM arba trečiųjų šalių gali būti numatyta kitaip, IBM ir Trečiosios šalys turės teisę paskelbti kontrolinių testų rezultatus, susijusius su Licenciato produktais, jei IBM arba Trečiosios šalys atitiks Licenciato produktų testavimo reikalavimus nurodytus (A), (B) ir (C) punktuose anksčiau.
+
+Nepaisant anksčiau nurodytų sąlygų, Licenciatas, neturėdamas raštiško sutikimo, jokiomis aplinkybėmis negali skelbti „Oracle Outside In Technology“ kontrolinio testo vykdymo rezultatų.
+
+Anksčiau nurodytos kontrolinio testo sąlygos taikomos šioms Programoms arba pakomponenčiams:
+IBM Connect V5.0
+
+Šaltinio komponentai ir pavyzdinė medžiaga
+
+Į Programą gali būti įtraukti keli komponentai išeitinio kodo forma („Šaltinio komponentai“) ir kita medžiaga, apibrėžta kaip Pavyzdinė medžiaga. Licenciatas gali kopijuoti ir modifikuoti Šaltinio komponentus ir Pavyzdinę medžiagą tik naudoti viduje, jei toks naudojimas nepažeidžia šios Sutarties licencijos teisių ir jei Licenciatas nekeičia ar nenaikina jokios Šaltinio komponentuose ir Pavyzdinėje medžiagoje esančios autoriaus teisių informacijos ar pranešimų. IBM pateikia Šaltinio komponentus ir Pavyzdinę medžiagą be palaikymo įsipareigojimo ir TOKIĄ, KOKIA YRA, NESUTEIKIANT JOKIŲ AIŠKIAI NURODYTŲ AR NENURODYTŲ GARANTIJŲ, ĮSKAITANT NUOSAVYBĖS TEISĖS, NEPAŽEIDŽIAMUMO AR NEĮSIKIŠIMO GARANTIJAS IR NENURODYTAS TINKAMUMO PREKIAUTI IR TAM TIKRAM TIKSLUI GARANTIJAS IR SĄLYGAS.
+
+Procesoriaus vertės vienetas (PVV)
+
+Procesoriaus vertės vienetas (PVV) yra matavimo vienetas, pagal kurį licencijuota ši Programa. Reikalingų PVV teisių skaičius pagrįstas procesoriaus technologija (PVV lentelėje nurodytas procesoriaus tiekėjas, prekės ženklas, tipas ir modelio numeris: http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html) ir Programai prieinamų procesorių skaičiumi. Licencijuodama pagal PVV IBM apibrėžia procesorių kaip mikroschemoje esančią atskirą procesoriaus šerdį. Pavyzdžiui, dviejų šerdžių procesoriaus mikroschemoje yra dvi procesoriaus šerdys.
+
+Licenciatas gali diegti Programą naudodamas Visos talpos licencijavimą arba Virtualizavimo talpos (talpos dalies) licencijavimą pagal „Passport Advantage“ talpos dalies licencijavimo sąlygas (žr. tinklalapį toliau). Naudodamas Visos talpos licencijavimą Licenciatas privalo įsigyti PVV teises, apimančias visas fizinėje techninės įrangos aplinkoje esančias suaktyvintas procesoriaus šerdis*, kurias pasiekia arba valdo Programa, išskyrus serverius, iš kurių Programa buvo visam laikui pašalinta. Naudodamas Virtualizavimo talpos licencijavimą Licenciatas privalo įsigyti teises, apimančias visas suaktyvintas procesoriaus šerdis, kurias pasiekia arba valdo Programa, kaip apibrėžta Virtualizavimo talpos licencijos skaičiavimo taisyklėse: http://www.ibm.com/software/lotus/passportadvantage/Counting_Software_licenses_using_specific_virtualization_technologies.html.
+
+* Suaktyvinta procesoriaus šerdis – tai procesoriaus šerdis, kurią gali naudoti fizinis arba virtualusis serveris, neatsižvelgiant į tai, ar procesoriaus šerdies talpa gali būti arba yra apribota naudojant virtualizavimo technologijas, operacinės sistemos komandas, BIOS nustatymus ar panašius apribojimus.
+
+L/N:  L-CLIG-AGFKQ9
+D/N:  L-CLIG-AGFKQ9
+P/N:  L-CLIG-AGFKQ9
+
+
+Programų kurioms neteikiama garantija tarptautinė licencinė sutartis
+
+1 dalis - bendrosios sąlygos
+
+ATSISIŲSDAMAS, DIEGDAMAS, KOPIJUODAMAS, PASIEKDAMAS PROGRAMĄ, SPAUSDAMAS MYGTUKĄ „SUTINKU“ AR KITAIS BŪDAIS NAUDODAMAS PROGRAMĄ, LICENCIATAS SUTINKA SU ŠIOS SUTARTIES SĄLYGOMIS.JEIGU SU ŠIOS LICENCIJOS SĄLYGOMIS SUTINKATE LICENCIATO VARDU, JŪS PAREIŠKIATE IR GARANTUOJATE, KAD PRISIIMATE VISĄ ATSAKOMYBĘ UŽ ŠIŲ SĄLYGŲ LAIKYMĄSI. JEIGU NESUTINKATE SU ŠIOMIS SĄLYGOMIS,
+
+* NESIŲSKITE, NEDIEKITE, NEKOPIJUOKITE, NEBANDYKITE PASIEKTI PROGRAMOS, NESPAUSKITE MYGTUKO „SUTINKU“ AR NESINAUDOKITE PROGRAMA; IR
+
+* NEDELSDAMI GRĄŽINKITE NENAUDOTAS LAIKMENAS IR DOKUMENTACIJĄ ŠALIAI, IŠ KURIOS JUOS GAVOTE, KAD SUSIGRĄŽINTUMĖTE UŽ PROGRAMĄ SUMOKĖTUS PINIGUS. JEI PROGRAMA BUVO ATSISIŲSTA, SUNAIKINKITE VISAS PROGRAMOS KOPIJAS.
+
+1. Apibrėžimai
+
+„Įgaliotasis naudojimas“ - numatytas lygis, apibrėžiantis, kaip Licenciatas įgaliotas paleisti ir vykdyti Programą. Šis lygis gali būti nustatomas pagal naudotojų skaičių, paslaugų vienetų milijonus (MPV), procesoriaus vertės vienetus (PVV) arba kitus naudojimo lygius, kuriuos nurodo IBM.
+
+IBM - „International Business Machines Corporation“ arba vienas iš jos filialų.
+
+„Licencijos informacija“ (LI) - dokumentas, kuriame pateikta specifinė informacija apie Programą ir papildomos sąlygos. Programos LI galima rasti internete adresu www.ibm.com/software/sla. LI taip pat galima rasti Programos kataloge, naudojant sisteminę komandą, arba lankstinuke, kuris pridėtas prie Programos.
+
+„Programa“ - šie išvardyti dalykai, jų originalai ir visos išsamios arba dalinės kopijos: 1) kompiuterio skaitomos instrukcijos ir duomenys, 2) komponentai, failai ir moduliai, 3) garsinė ir vaizdinė medžiaga (pvz., vaizdai, tekstas, įrašai ar paveikslėliai), ir 4) susijusi licencijos medžiaga (tokia, kaip raktai ir dokumentacija).
+
+2. Sutarties struktūra
+
+Šią sutartį sudaro: 1 dalis - bendrosios sąlygos, 2 dalis - konkrečiai šaliai taikomos sąlygos (jei tokių yra) ir LI. Tai yra galutinis susitarimas tarp Licenciato ir IBM dėl naudojimosi Programa. Ji pakeičia bet kokį ankstesnį žodinį ar raštinį bendravimą tarp Licenciato ir IBM, kurių metu buvo aptariamas Licenciato naudojimasis Programa. 2 dalies sąlygos gali pakeisti 1 dalies sąlygas. Atsiradus bet kokiems prieštaravimams, bus remiamasi LI.
+
+3. Licencijos suteikiamos teisės
+
+Programa yra IBM arba IBM platintojo nuosavybė, ginama autoriaus teisių, naudojimuisi ja suteikiama licencija, bet ji nėra parduodama.
+
+IBM suteikia Licenciatui neišimtinę licenciją 1) naudotis Programa pagal Įgaliotojo naudojimo sąlygas, nurodytas sąskaitoje, 2) kurti ir diegti kopijas, kurios palaikytų Įgaliotąjį naudojimą, ir 3) kurti atsarginę kopiją su sąlyga, kad
+
+a. Licenciatas teisėtai įsigijo Programą ir laikosi šios Sutarties sąlygų;
+
+b. atsarginė kopija nepaleidžiama, nebent neveikia pati Programa, kurios atsarginė kopija sukurta;
+
+c. Licenciatas ant kiekvienos Programos išsamios ar dalinės kopijos nurodo visą autoriaus teisių informaciją bei kitus nuosavybės ženklus;
+
+d. Licenciatas užtikrina, kad kiekvienas, kuris naudojasi Programa (vietine ar nuotoline prieiga) 1) naudojasi tik Licenciato vardu ir 2) laikosi šios Sutarties sąlygų;
+
+e. Licenciatas 1) nenaudoja, nekopijuoja, nekeičia ir neplatina Programos, nebent tai aiškiai leidžiama šioje Sutartyje; 2) nebando išardyti, dekompiliuoti, versti ar atkurti Programos kodo, nebent tai aiškiai leidžia įstatymai ir nesuteikiama teisė atsisakyti sutartyse; 3) nenaudoja jokių Programos komponentų, failų, modulių, garsinio ir vaizdinio turinio ar susijusios licencijuotos medžiagos atskirai nuo Programos; ir 4) neišduoda licencijos trečiajai šaliai, nenuomoja ir išperkamosios nuomos pagrindais nesuteikia Programos; ir
+
+f. jei Licenciatas įgyja šią Programą kaip Pagalbinę programą, Licenciatas naudoja šią Programą tik kaip pagalbinę priemonę, palaikančią Pagrindinę programą, jai taikomi bet kokie Pagrindinės programos licencijos apribojimai, arba, jei Licenciatas įgyja šią programą kaip Pagrindinę programą, Licenciatas naudoja visas Pagalbines programas tik šiai Programai palaikyti, jai taikomi bet kokie šios Sutarties apribojimai. Šiame punkte „f“ „Pagalbinė programa“ yra Programa, kuri yra kitos IBM Programos („Pagrindinės programos“) dalis ir kuri Pagrindinės programos LI yra nurodoma kaip Pagalbinė programa. (Norėdamas gauti atskirą Pagalbinės programos licenciją be šių apribojimų, Licenciatas turėtų susisiekti šalimi, iš kurios įsigijo Pagalbinę programą.)
+
+Ši licencija taikoma kiekvienai Licenciato padarytai Programos kopijai.
+
+3.1 Pakeitimai, atnaujinimai, pataisos ir taisymai
+
+3.1.1 Pakeitimai
+
+Jei Programa pakeičiama kita Programa, pakeistos Programos licencija yra nedelsiant nutraukiama.
+
+3.1.2 Atnaujinimai, pataisos ir taisymai
+
+Kai Licenciatas gauna Programos atnaujinimą, pataisą ar pataisymą, Licenciatas sutinka su bet kokiomis papildomomis ar skirtingomis sąlygomis, taikomomis šiems atnaujinimas, pataisoms ar pataisymams, kurios yra nurodytos LI. Jei nepateikta jokių papildomų ar pakeistų sąlygų, tuomet atnaujinimui, pataisai ar pataisymui taikomos tik šios Sutarties sąlygos. Jei Programa pakeičiama atnaujinimu, Licenciatas sutinka nedelsdamas nutraukti pakeistos Programos naudojimą.
+
+3.2 Fiksuotos trukmės licencijos
+
+Jei IBM suteikia Programai ribotojo laikotarpio licenciją, Licenciato licencija baigia galioti, pasibaigus fiksuotam laikotarpiui, nebent Licenciatas ir IBM susitaria ją atnaujinti.
+
+3.3 Terminas ir nutraukimas
+
+Ši sutartis galioja tol, kol yra nutraukiama.
+
+IBM gali nutraukti Licenciato licenciją, jei Licenciatas nesilaiko Sutarties sąlygų.
+
+Jei licencija yra nutraukiama bet kurios šalies iniciatyva dėl bet kokios priežasties, Licenciatas sutinka nedelsdamas nutraukti Programos naudojimą ir sunaikinti visas turimas Programos kopijas. Jei tam tikros Sutarties sąlygos dėl savo pobūdžio išlieka galioti po Sutarties nutraukimo, jos galioja, kol bus įvykdytos, ir taikomos abiejų šalių atitinkamiems teisių perėmėjams ir įgaliotiniams.
+
+4. Mokėjimas
+
+Mokesčiai priklauso nuo Įgaliotojo naudojimo pobūdžio, kuris yra aprašytas sąskaitoje. IBM neteikia kreditų, jei vėluojama sumokėti, ir negrąžina jau sumokėtų pinigų, išskyrus atvejus, aprašytus Sutartyje.
+
+Jei Licenciatas nori išplėsti savo Įgaliotojo naudojimo ribas, Licenciatas turi iš anksto pranešti IBM arba įgaliotajam IBM atstovui ir apmokėti visas susijusias išlaidas.
+
+5. Mokesčiai
+
+Jeigu kuri nors valdžios institucija taiko Programai muitą, mokesčius ar kitokią rinkliavą, išskyrus tuos, kurie skaičiuojami nuo IBM grynojo pelno, Licenciatas sutinka sumokėti sąskaitoje faktūroje nurodytą sumą arba pateikti atleidimo nuo mokesčių dokumentus. Nuo Programos įsigijimo dienos Licenciatas yra atsakingas už bet kokius Programos nuosavybės mokesčius. Jeigu kuri nors valdžios institucija taiko muitą, mokesčius ar kitokią rinkliavą už Programos importą, eksportą, persiuntimą, prieigą ar naudojimą už valstybės, kurioje Licenciatui suteikta licencija, ribų, Licenciatas sutinka sumokėti paskirtą sumą.
+
+6. Pinigų grąžinimo garantijos
+
+Jei pradinis Licenciatas dėl kokių nors priežasčių yra nepatenkintas Programa, Licenciatas gali per 30 dienų nuo sąskaitos išrašymo datos nutraukti licenciją ir susigrąžinti pinigus, kuriuos mokėjo už Programą, su sąlyga, kad Licenciatas grąžina Programą tai šaliai, iš kurios ją įsigijo. Jei suteikta ribotojo laikotarpio licencija, kurią galima pratęsti, Licenciatas gali susigrąžinti pinigus tik tuo atveju, jei Programa sugrąžinta per pirmąsias 30 pirmojo termino dienų. Jeigu Licenciatas Programą atsisiuntė, jis turi susisiekti su ją išdavusia šalimi ir iš jos gauti pinigų susigrąžinimo instrukcijas.
+
+7. Programos perleidimas
+
+Licenciatas gali perleisti Programą bei visas savo licencines teises ir įsipareigojimus kitai šaliai tik tuo atveju, jei ta šalis sutinka su šios Sutarties sąlygomis. Jei kuri nors šalis dėl tam tikrų priežasčių licenciją nutraukia, Licenciatas nebegali perleisti Programos trečiajai šaliai. Licenciatas negali perleisti dalies 1) Programos ar 2) Programos Įgaliotojo naudojimo. Perleisdamas Programą, Licenciatas kartu su LI taip pat privalo perleisti spausdintą šios Sutarties kopiją. Iš karto po perleidimo Licenciato licencija yra nutraukiama.
+
+8. Garantijų atsisakymas
+
+PAGAL ĮSTATYMO NUSTATYTAS GARANTIJAS, KURIŲ NEGALIMA NEĮTRAUKTI, „IBM“ NESUTEIKIA JOKIŲ SU PROGRAMA AR PALAIKYMO PASLAUGOMIS (JEI TOKIOS TEIKIAMOS) SUSIJUSIŲ AIŠKIAI NURODYTŲ AR NENURODYTŲ GARANTIJŲ ARBA SĄLYGŲ, ĮSKAITANT, BET NEAPSIRIBOJANT, NENURODYTAS TINKAMUMO PREKIAUTI, TINKAMUMO TAM TIKRAM TIKSLUI, NUOSAVYBĖS TEISĖS IR BET KOKIAS NEPAŽEIDŽIAMUMO GARANTIJAS ARBA SĄLYGAS.
+
+KAI KURIOSE VALSTYBĖSE ARBA JURISDIKCIJOSE NELEIDŽIAMOS AIŠKIAI NURODYTŲ AR NENURODYTŲ GARANTIJŲ IŠIMTYS, TODĖL ČIA NURODYTA IŠIMTIS LICENCIATUI GALI BŪTI NETAIKOMA. TOKIU ATVEJU ŠIŲ GARANTIJŲ TAIKYMAS APRIBOJAMAS MINIMALIA TEISĖS AKTUOSE NUMATYTA TRUKME. ŠIAM LAIKOTARPIUI PRAĖJUS NEBETAIKOMOS JOKIOS GARANTIJOS. KAI KURIOSE VALSTYBĖSE AR JURISDIKCIJOSE NELEIDŽIAMA RIBOTI NUMANOMOS GARANTIJOS TRUKMĖS, TODĖL AUKŠČIAU PATEIKTI APRIBOJIMAI LICENCIATUI GALI BŪTI NETAIKOMI.LICENCIATAS TAIP PAT GALI TURĖTI KITŲ TEISIŲ, KURIOS SKIRSIS PRIKLAUSOMAI NUO VALSTYBĖS ARBA JURISDIKCIJOS.
+
+8 SKYRIUJE NURODYTI PANEIGIMAI IR IŠIMTYS TAIP PAT TAIKOMI VISIEMS „IBM“ PROGRAMŲ KŪRĖJAMS IR TIEKĖJAMS.
+
+NE „IBM“ PROGRAMŲ GAMINTOJAI, TIEKĖJAI ARBA LEIDĖJAI GALI TEIKTI SAVO GARANTIJAS.
+
+„IBM“ NETEIKIA JOKIO PALAIKYMO, JEI „IBM“ NENURODO KITAIP. TOKIU ATVEJU, BET KOKIAM „IBM“ SUTEIKTAM PALAIKYMUI TAIKOMOS 8 SKYRIUJE NURODYTŲ PANEIGIMŲ IR IŠIMČIŲ SĄLYGOS.
+
+9. Licenciato duomenys ir duomenų bazės
+
+Siekdama padėti Licenciatui išspręsti su Programa susijusias problemas, IBM gali paprašyti, kad Licenciatas 1) leistų IBM nuotoliniu būdu prisijungti prie Licenciato sistemos arba 2) atsiųstų savo informaciją ar sistemos duomenis į IBM. Tačiau IBM neprivalo teikti tokios pagalbos, nebent IBM ir Licenciatas pasirašo atskirą susitarimą, kuriame IBM sutinka teikti Licenciatui tokio pobūdžio palaikymą, kuris nėra numatytas šios Sutarties IBM įsipareigojimuose. Bet kokiu atveju IBM naudoja informaciją apie klaidas ir problemas savo produktams ir paslaugoms tobulinti ir techninei pagalbai teikti. Licenciatas sutinka su tokia IBM, IBM juridinių asmenų ir subrangovų (veikiančių ne tik Licenciato valstybėje) veikla.
+
+Licenciatas lieka atsakingas už 1) bet kokius duomenis ar kitą bet kurios duomenų bazės turinį, kurį jis padaro prieinamą IBM, 2) duomenų prieigos, apsaugos, kodavimo, naudojimo bei duomenų perdavimo (įskaitant ir bet kokius asmeninius duomenis) procedūrų ir kontrolės pasirinkimą ir vykdymą ir 3) visų duomenų bazių ir visų saugomų duomenų atsarginių kopijų sukūrimą bei jų atkūrimą. Licenciatas nesiųs ir nesuteiks IBM prieigos prie asmeninės informacijos, nepriklausomai nuo to, kokios formos ji yra, ir bus atsakingas už pagrįstas išlaidas, kurias IBM patirs dėl tokios informacijos klaidingo perdavimo IBM arba jei IBM prarastų ar paskelbtų tokią informaciją, taip pat ir išlaidas, susijusias su trečiųjų šalių iškeltais ieškiniais.
+
+10. Atsakomybės apribojimas
+
+Apribojimai, pateikti 10 skyriuje (Atsakomybės apribojimas) yra taikomi tiek, kiek leidžia taikomi įstatymai ir neleidžiama atsisakyti sutartyse.
+
+10.1 Dalykai, už kuriuos IBM atsakinga
+
+Gali susiklostyti tokios aplinkybės, kad dėl IBM ar kitų įsipareigojimų nevykdymo Licenciatui būtų suteikta teisė gauti žalos atlyginimą iš IBM. Neatsižvelgiant į pagrindą, pagal kurį Licenciatas gauna teisę reikalauti iš IBM atlyginti žalą (įskaitant esminį pažeidimą, aplaidumą, faktų iškraipymą arba kitą sutarties ar civilinės teisės pažeidimą), išskyrus bet kokią atsakomybę, kurios negalima atsisakyti arba apriboti remiantis atitinkamais įstatymais, visa IBM atsakomybė dėl visų pretenzijų, susijusių su kiekviena Programa, neviršys 1) žalos dėl kūno sužalojimo (įskaitant mirtį), žalos nekilnojamajam turtui ir materialiajam asmeniniam turtui atlyginimo; 2) bet kokios kitos faktinės tiesioginės žalos, įskaitant mokesčius (jei už Programą mokama fiksuotais terminais, taikomi 12 mėnesių mokesčiai) už Programą, dėl kurios pateiktas ieškinys.
+
+Šis apribojimas taip pat taikomas visiems IBM Programos kūrėjams ir tiekėjams. Tai yra didžiausia IBM ir jos Programos kūrėjų ir tiekėjų kolektyvinės atsakomybės suma.
+
+10.2 Dalykai, už kuriuos IBM nėra atsakinga
+
+JOKIU ATVEJU IBM, JOS PROGRAMOS KŪRĖJAI AR TIEKĖJAI NĖRA ATSAKINGI UŽ ŠIUOS DALYKUS, NET JEI JIEMS BUVO PRANEŠTA APIE TOKIŲ APLINKYBIŲ ATSIRADIMO GALIMYBĘ:
+
+a. DUOMENŲ PRARADIMĄ AR SUGADINIMĄ;
+
+b. SPECIALIUOSIUS, ATSITIKTINIUS, BAUDINIUS AR NETIESIOGINIUS NUOSTOLIUS, ARBA BET KOKIUS PRIEŽASTINIUS EKONOMINIUS NUOSTOLIUS; ARBA
+
+c. PRARASTĄ PELNĄ, VERSLĄ, PAJAMAS, PRESTIŽĄ AR PLANUOTAS SUTAUPYTI LĖŠAS.
+
+11. Sąlygų laikymosi tikrinimas
+
+11 skyriuje (Sąlygų laikymosi tikrinimas), „ILAN Programos sąlygos” reiškia 1) šią Sutartį ir jos pataisymus bei IBM pateiktus sandorio dokumentus, ir 2) IBM programinės įrangos politiką, kurią galima rasti IBM Programinės įrangos politikos svetainėje (www.ibm.com/softwarepolicies), įskaitant, bet neapsiribojant, politiką, susijusią su atsarginėmis kopijomis, pagalbinės talpos kainų nustatymu bei informacijos perkėlimu.
+
+11 skyriuje pateikiamos teisės ir įsipareigojimai taikomi visą Programos licencijos galiojimo laiką bei dvejus metus pasibaigus galiojimui.
+
+11.1 Tikrinimo procesas
+
+Licenciatas sutinka sukurti, išsaugoti ir pateikti IBM bei jos auditoriams tikslias rašytines ataskaitas, sistemos įrankių išvestis ir kitą sistemos informaciją, kuri leistų įvertinti, ar Licenciatas, naudodamasis visomis Programomis, laikosi ILAN programos sąlygų, įskaitant, bet neapsiribojant, visas IBM licencijavimo ir kainų nustatymo sąlygas. Licenciatas yra atsakingas, kad 1) tai neviršytų jo Įgaliotojo naudojimo ribų ir 2) atitiktų ILAN Programos sąlygas.
+
+Priimtinai perspėjusi, IBM gali patikrinti, kaip Licenciatas laikosi ILAN programos sąlygų visose darbo vietose ir visose aplinkose, kuriose Licenciatas naudojasi Programomis (bet kokiu tikslu), kurioms taikomos ILAN programos sąlygos. Toks patikrinimas bus atliktas taip, kad kuo mažiau sutrikdytų Licenciato veiklą, ir gali būti atliekamas Licenciato patalpose darbo valandomis. Tikrinti IBM gali samdyti nepriklausomą trečiąjį asmenį, jei IBM ir trečiasis asmuo yra pasirašę konfidencialumo sutartį.
+
+11.2 Sprendimas
+
+Jei tikrinimo metu paaiškės, kad Licenciatas naudojosi kuria nors Programa, viršydamas Įgaliotojo naudojimo ribas, ar kitu būdu nesilaikė ILAN programos sąlygų, IBM praneš apie tai Licenciatui raštu. Licenciatas sutinka nedelsdamas tiesiogiai IBM padengti išlaidas, kurias IBM nurodo sąskaitoje faktūroje, už 1) bet kokį naudojimosi perviršį, 2) palaikymą, suteiktą šiam perviršiui per naudojimo laikotarpį arba dvejus metus, atsižvelgiant į tai, kuris laikotarpis trumpesnis, ir 3) kitas išlaidas bei įsipareigojimus, nustatytus tikrinimo metu.
+
+12. Trečiųjų šalių pastabos
+
+Programoje gali būti trečiųjų šalių kodas, kurį IBM, ne trečioji šalis, suteikia Licenciatui, remdamasi šia Sutartimi. Jei yra pastabų apie trečiųjų šalių kodą („Trečiųjų šalių pastabos”), jos įtrauktos tik Licenciatui informuoti. Šios pastabos pateikiamos Programos faile (-uose) PASTABOS. Informacija, kaip gauti šaltinio kodą tam tikram trečiosios šalies kodui, pateikta skyriuje „Trečiųjų šalių pastabos”. Jei Trečiųjų šalių pastabose IBM trečiosios šalies kodą nurodo kaip „Modifikuojamą trečiosios šalies kodą”, IBM leidžia Licenciatui 1) modifikuoti Modifikuojamą trečiosios šalies kodą ir 2) atkurti kodą tų Programos modulių, kurie tiesiogiai siejasi su Modifikuojamu trečiosios šalies kodu, su sąlyga, kad tai daroma tik norint suderinti Licenciato modifikacijas su trečiosios šalies kodu. IBM aptarnavimo ir techninės pagalbos įsipareigojimai, jei tokie yra, taikomi tik nemodifikuotai Programai.
+
+13. Bendrosios nuostatos
+
+a. Joks šios Sutarties punktas neturi įtakos įstatymų numatytoms vartotojų teisėms, kurias sutartis galėtų panaikinti ar apriboti.
+
+b. Tais atvejais, kai Licenciatui IBM Programas pateikia materialios formos, IBM savo siuntimo ir pristatymo įsipareigojimus įvykdo, perdavusi Programas IBM paskirtam vežėjui, nebent Licenciatas ir IBM raštu susitarė kitaip.
+
+c. Jeigu kuri nors šios Sutarties nuostata laikoma netekusi galios ar neturinti ieškinio galios, kitos šios Sutarties nuostatos lieka galioti.
+
+d. Licenciatas sutinka laikytis visų taikomų eksporto ir importo įstatymų bei taisyklių, tarp jų JAV embargo ir sankcijų taisyklių bei eksporto draudimų tam tikriems galutiniams vartotojams.
+
+e. Licenciatas įgalioja „International Business Machines Corporation“ ir jos filialus (bei jų teisių perėmėjus, rangovus ir IBM verslo partnerius) laikyti ir naudoti Licenciato verslo sandorio informaciją, neatsižvelgiant į sandorių vietą, susijusią su IBM produktais ir paslaugomis, arba IBM ir Licenciato verslo ryšiams palaikyti.
+
+f. Kiekviena šalis, prieš iškeldama ieškinį kitai šaliai dėl Sutarties įsipareigojimų nevykdymo, pirmiausia suteikia galimybę įvykdyti tuos įsipareigojimus. Šalys bando gera valia išspręsti iškilusius ginčus, nesutarimus ar ieškinius, susijusius su šia Sutartimi.
+
+g. Jei kitaip nereikalauja taikomi įstatymai, ir tai nepanaikina bei neapriboja sutarties įsipareigojimų, 1) nė viena šalis nesiims jokių teisinių veiksmų dėl jokio ieškinio, susijusio su šia Sutartimi, jei yra praėję dveji metai nuo įvykio pradžios; ir 2) pasibaigus šiam terminui bet koks ieškinys ir su juo susijusios atitinkamos teisės netenka galios.
+
+h. Nei Licenciatas, nei IBM neatsako už savo įsipareigojimų nevykdymą dėl nuo šalių nepriklausančių priežasčių.
+
+i. Šioje Sutartyje nenumatomos jokios trečiųjų šalių teisės ar veiksmai, ir IBM nėra atsakinga už jokius trečiųjų šalių ieškinius, pateiktus Licenciatui, išskyrus atvejus, nurodytus 10.1 poskyryje (Dalykai, už kuriuos IBM atsakinga), kai IBM juridiškai atsako trečiajai šaliai už kūno sužalojimus (taip pat mirtį) ar turtinę žalą.
+
+j. Pasirašydamos šią Sutartį, nė viena šalis nesitiki įsipareigojimų vykdymo, nenumatyto Sutartyje, įskaitant, bet neapsiribojant, įsipareigojimus, susijusius su: 1) Programos veikimu; 2) kitų šalių patirtimi ar rekomendacijomis; arba 3) bet kokiais Licenciato gautais rezultatais.
+
+k. Programoms reklamuoti, parduoti ar aptarnauti IBM yra pasirašiusi sutartis su tam tikromis organizacijomis (vadinamomis IBM verslo partneriais). IBM verslo partneriai yra nepriklausomos ir atskirai nuo IBM veikiančios institucijos. IBM nėra atsakinga už IBM verslo Partnerių veiksmus ar pareiškimus, ar jų įsipareigojimus Licenciatui.
+
+l. Licencijos ir intelektinės nuosavybės nuostolių kompensacijos sąlygos, nurodytos kitose Licenciato sutartyse su IBM (tokiose, kaip IBM kliento sutartis) netaikomos šios Sutarties suteikiamos Programos licencijoms.
+
+m. Abi šalys sutinka, kad visa informacija, kuria pasikeičiama, yra nekonfidenciali. Jei bet kuri iš šalių pageidauja keistis konfidencialia informacija, tai bus atliekama remiantis pasirašyta sutartimi dėl konfidencialumo;
+
+14. Geografinė veiklos sfera ir taikoma teisė
+
+14.1 Taikoma teisė
+
+Abi šalys sutinka, kad vykdydamos, aiškindamos ir įgyvendindamos visas Licenciato ir IBM teises, prievoles ir įsipareigojimus, kylančius ar susijusius su šios Sutarties turiniu, taikys valstybės, kurioje Licenciatas įsigijo Programos licenciją, įstatymus, nepaisant teisės principų prieštaravimų.
+
+Jungtinių Tautų Konvencija dėl tarptautinių prekių pirkimo ir pardavimo sutarčių netaikoma.
+
+14.2 Jurisdikcija
+
+Visos teisės, prievolės ir įsipareigojimai yra pavaldūs Valstybės, kurioje Licenciatas įgijo Programos licenciją, teismams.
+
+2 dalis - konkrečiai šaliai taikomos sąlygos
+
+Šios sąlygos pakeičia arba modifikuoja Lietuvoje suteiktų licencijų sąlygas, nurodytas 1 dalyje. Visos 1 dalyje nurodytos sąlygos, kurių šios pataisos nepakeičia, išlieka nepakeistos ir galiojančios. 2 dalis išdėstoma taip:
+
+* 1 dalies 14 skyriaus (Taikoma teisė ir jurisdikcija) su šalimis susijusios pataisos ir
+
+* Europos, Vidurinių Rytų ir Afrikos šalyse taikomos kitų Sutarties sąlygų pataisos.
+
+1 dalies 14 skyriaus (Taikoma teisė ir jurisdikcija) su šalimis susijusios pataisos
+
+14.1 Taikoma teisė
+
+Skyriaus „14.1 Taikoma teisė“ 1 pastraipos frazė „valstybės, kurioje Licenciatas įsigijo Programos licenciją, įstatymus“ Lietuvoje pakeičiama šiomis frazėmis:
+
+Suomijos įstatymus.
+
+14.3 Arbitražas
+
+Ši pastraipa pridedama kaip naujas poskyris „14.3 Arbitražas“, nes ji taikoma Lietuvoje. Šio 14.3 poskyrio nuostatos turi aukštesnę teisinę galią nei poskyrio 14.2 Jurisdikcija nuostatos iki ribos, numatytos taikomuose vietos teisės aktuose ir reglamentuose:
+
+Visi su šia Sutartimi susiję ginčai bus galutinai sprendžiami arbitražo teisme, kuris vyks Helsinkyje, Suomijoje, remiantis tuo metu galiojančiais Suomijos arbitražo teisės aktais. Kiekviena šalis paskirs vieną arbitrą. Arbitrai kartu paskirs pirmininką. Jei arbitrams nepavyks susitarti ir paskirti pirmininko, jį paskirs Helsinkio centriniai pramonės ir prekybos rūmai.
+
+EUROPOS, VIDURINIŲ RYTŲ IR AFRIKOS (EMEA) ŠALIMS TAIKOMOS PATAISOS
+
+EUROPOS SĄJUNGOS VALSTYBĖS NARĖS
+
+8. Garantijų atsisakymas
+
+Prie skyriaus „8. Garantijų atsisakymas“ pridedama ši informacija:
+
+Europos Sąjungoje (ES) vartotojai turi juridines teises, kurios apibrėžiamos pagal vietos teisės aktus, taikomus plataus vartojimo prekių pardavimui. Nuostatos, išvardytos šiame skyriuje „8. Garantijų atsisakymas“, šioms teisėms neturi jokios įtakos.
+
+ES VALSTYBĖS NARĖS IR TOLIAU NURODYTOS ŠALYS
+
+Bet kuri Europos valstybė, kurioje taikomi vietiniai duomenų apsaugos teisės aktai, panašūs į taikomus ES.
+
+13. Bendrosios nuostatos
+
+13.e punktą pakeičia tokia informacija:
+
+(1) Apibrėžtys - šiam 13.e punktui taikomos tokios papildomos apibrėžtys:
+
+(a) Verslo kontaktinė informacija - su verslu susijusi kontaktinė informacija, kurią Licenciatas pateikia IBM: Licenciato darbuotojų ir subrangovų vardai, pareigos, darbo vietų adresai, telefono numeriai ir el. pašto adresai. Austrijoje, Italijoje ir Šveicarijoje verslo kontaktinė informacija apima ir informaciją apie Licenciatą ir jo subrangovus kaip juridinius asmenis (pavyzdžiui, duomenis apie Licenciato pajamas ir kitą su sandoriais susijusią informaciją).
+
+(b) Verslo kontaktiniai asmenys - Licenciato darbuotojai ir subrangovai, su kuriais susijusi verslo kontaktinė informacija.
+
+(c) Duomenų apsaugos institucija - institucija, įsteigta remiantis konkrečios šalies duomenų apsaugos ir elektroninių ryšių teisės aktais, arba ne ES šalies institucija, atsakinga už asmens duomenų apsaugą toje šalyje, arba (bet kurioje iš anksčiau paminėtų šalių) tinkama tvarka paskirtas tokias pareigas perimantis subjektas.
+
+(d) Duomenų apsauga ir elektroninių ryšių taisės aktai - (i) taikomi galiojantys vietos teisės aktai ir nuostatos, pagal kurias vykdomi ES direktyvos 95/46/EB (dėl asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo) ir ES direktyvos 2002/58/EB (dėl asmens duomenų tvarkymo ir privatumo apsaugos elektroninių ryšių sektoriuje) reikalavimai, arba (ii) ne ES šalių teisės aktai ir (arba) nuostatos, susijusios su asmens duomenų apsauga ir elektroninių ryšių, kuriems naudojami asmens duomenys, reguliavimu, įskaitant (bet kurioje iš anksčiau paminėtų šalių) visus įstatymų nustatytus pakeitimus arba modifikacijas.
+
+(e) IBM grupė - „International Business Machines Corporation“, esanti JAV, Niujorko valstijos mieste Armonke, jos filialai ir atitinkami verslo partneriai bei subrangovai.
+
+(2) Licenciatas suteikia IBM teisę:
+
+(a) apdoroti ir naudoti verslo kontaktinę informaciją IBM grupėje teikiant Licenciatui palaikymo paslaugas ir siekiant toliau palaikyti verslo ryšius tarp Licenciato ir IBM grupės, įskaitant, be apribojimų, kreipimąsi į verslo kontaktinį asmenį (el. paštu ar kitu būdu) ir IBM grupės produktų ir paslaugų pardavimą („Nurodytas tikslas“), ir
+
+(b) atskleisti verslo kontaktinio asmens informaciją kitiems IBM grupės nariams tik siekiant Nurodyto tikslo.
+
+(3) IBM sutinka, kad visa verslo kontaktinė informacija bus apdorojama laikantis duomenų apsaugos ir elektroninių ryšių teisės aktų ir naudojama tik Nurodytu tikslu.
+
+(4) Iki duomenų apsaugos ir elektroninių ryšių teisės aktų nustatytos ribos Licenciatas patvirtina, kad (a) gavo (arba gaus) visus sutikimus iš verslo kontaktinių asmenų ir jiems pateikė (arba pateiks) visus pranešimus, būtinus norint leisti IBM grupei apdoroti ir naudoti verslo kontaktinę informaciją Nurodytu tikslu.
+
+(5) Licenciatas suteikia IBM teisę perduoti verslo kontaktinę informaciją už Europos ekonominės zonos ribų, jei toks perdavimas vykdomas pagal sutarties sąlygas, kurias patvirtino duomenų apsaugos institucija, arba jei tokį perdavimą leidžia duomenų apsaugos ir elektroninių ryšių teisės aktai.
+
+Z125-5589-05 (07/2011)
+
+

@@ -1,0 +1,1031 @@
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih določb in pogojev licenčne informacije, ki veljajo poleg pogojev licence za program, s katerimi naročnik in IBM predhodno soglašata. Če naročnik predhodno ne soglaša s pogoji, ki veljajo za program, velja Mednarodna licenčna pogodba za programe brez garancije (Z125-5589-05).
+
+Ime programa: IBM API Connect on Docker V5.0
+Številka programa: 5725-Z22
+
+Podporni programi
+
+Program je licenciran kot paket, sestavljen iz več izdelkov, in vključuje podporne programe, določene spodaj. Imetnik licence lahko namesti in uporablja takšne podporne programe samo v podporo svoji uporabi glavnega programa na podlagi te pogodbe in znotraj obsega potrdila o upravičenosti za program (razen če niso kjerkoli v tem dokumentu s podatki o licenciranju ponujene pravice v večjem obsegu). Fraza "v podporo svoji uporabi" vključuje samo tisto uporabo, ki je potrebna ali kako drugače neposredno povezana z licencirano uporabo glavnega programa ali drugega podpornega programa. Podpornih programov ni dovoljeno uporabljati za noben drug namen. Imetnik licence ne sme prenesti ali znova tržiti podpornih programov ločeno od glavnega programa. Podpornemu programu so lahko priložena licenčna določila, ki (če obstajajo) veljajo za uporabo podpornega programa s strani imetnika licence. V primeru neskladij določbe iz teh licenčnih informacij prevladajo nad določbami podpornega programa. Ko pravica imetnika licence za uporabo programa ugasne ali preneha, mora prenehati z uporabo, uničiti ali nemudoma vrniti vse kopije podpornih programov pogodbeni stranki, pri kateri je pridobil program. Če je imetnik licence prenesel podporne programe, se mora obrniti na stranko, pri kateri je pridobil program. Če želi imetnik licence licencirati podporne programe za kakršnokoli uporabo, ki presega zgornje omejitve, naj se za pridobitev ustrezne licence obrne na IBM-ovega prodajnega predstavnika ali na stranko, pri kateri je pridobil program.
+
+Sledijo podporni programi, ki so licencirani s programom:
+IBM WebSphere DataPower Option for Application Optimization V7.5
+WebSphere Application Server Liberty Core V8.5.5
+API Connect Create for Node.js V5.0
+IBM HTTP Server
+
+Omejitev razvijalca
+
+Če je program določen za "razvijalce", ga je mogoče razmestiti samo kot del notranjega razvoja in testiranja enote imetnika licence v računalniku razvijalca. Računalnik razvijalca je fizično ali navidezno okolje namizja, ki izvaja osnovni operacijski sistem in program, do obeh pa ima dostop in ju uporablja le en določen razvijalec. Imetnik licence nima pooblastil za uporabo programa za obdelavo delovnih obremenitev produkcije, simulacijo delovnih obremenitev produkcije ali preizkušanje razširljivosti katerekoli kode, aplikacije ali kateregakoli sistema. Imetnik licence ne sme uporabiti nobenega dela programa za noben drug namen, če ne pridobi ustreznih pooblastil za produkcijsko uporabo.
+
+Ločeno licencirana koda
+
+Določbe tega odstavka ne veljajo do mere, ko so po zakonodaji, ki ureja to licenco, ocenjene kot nične ali takšne, da jih ni mogoče uveljaviti. Vse komponente, navedene spodaj, so obravnavane kot "ločeno licencirana koda". IBM-ova ločeno licencirana koda je podeljena imetniku licence v skladu s pogoji ustreznih licenčnih pogodb drugega proizvajalca, ki so razloženi v datotekah NON_IBM_LICENSE, dodanih programu. Ne glede na pogoje iz te pogodbe ali katerekoli druge pogodbe, ki jo lahko sklene imetnik licence z IBM-om, veljajo za uporabo vseh ločeno licenciranih kod pogoji takšnih licenčnih pogodb z drugim proizvajalcem, razen če ni spodaj določeno drugače.
+
+Nadaljnje posodobitve ali popravki programa lahko vsebujejo dodatno ločeno licencirano kodo. Takšna dodatna ločeno licencirana koda in z njo povezane licence so navedene v drugi datoteki NON_IBM_LICENSE, ki jo dobite s posodobitvijo ali popravkom programa. Imetnik licence potrjuje, da je prebral licenčne pogodbe, vsebovane v datotekah NON_IBM_LICENSE, in da z njimi soglaša. Če imetnik licence ne soglaša z določbami iz teh licenčnih pogodb drugega proizvajalca, ne sme uporabljati ločeno licencirane kode.
+
+Za programe, pridobljene v skladu z mednarodno licenčno pogodbo za program ("IPLA") ali mednarodno licenčno pogodbo za program brez garancije ("ILAN"), ko je imetnik licence izvirni imetnik licence programa, ki ne soglaša z licenčnimi pogodbami drugega proizvajalca, lahko v določenem časovnem okviru, ki je določen v razdelku "Garancija z vračilom denarja" IBM-ove pogodbe IPLA ali ILAN, vrne program v skladu s tema pogodbama.
+
+Opomba: ne glede na katerekoli pogoje v licenčni pogodbi drugega proizvajalca, tej pogodbi ali katerikoli drugi pogodbi, ki jo lahko sklene imetnik licence z IBM-om, velja naslednje:
+(a) IBM nudi ločeno licencirano kodo imetniku licence BREZ VSAKRŠNIH GARANCIJ;
+(b) IBM ZAVRAČA KATEREKOLI IN VSE IZRECNE IN NAKAZANE GARANCIJE IN POGOJE, KAR VKLJUČUJE TUDI (VENDAR NI OMEJENO NA) GARANCIJO ZA NASLOV, NEKRŠENJE ALI NEOVIRANJE IN ZAKONSKE GARANCIJE IN POGOJE ZA TRŽNOST IN PRIMERNOST ZA DOLOČEN NAMEN Z OZIROM NA LOČENO LICENCIRANO KODO;
+(c) IBM ni odgovoren imetniku licence in ga bo branil, zavaroval ali mu povrnil škodo v zvezi s kakršnimikoli zahtevki, vloženimi v povezavi z ločeno licencirano kodo; in
+(d) IBM ni odgovoren za nobeno posredno, neposredno, naključno, posebno, kazensko, dodatno ali posledično škodo, kar vključuje tudi (vendar ni omejeno na) izgubljene podatke, izgubljene prihranke in izgubljene dobičke z ozirom za ločeno licencirano kodo.
+
+Ne glede na te izjeme veljajo v Nemčiji in Avstriji za IBM-ovo garancijo in odgovornost za ločeno licencirano kodo samo ustrezni pogoji, ki veljajo za Nemčijo in Avstrijo v IBM-ovih licenčnih pogodbah.
+
+Opomba: IBM lahko za nekatere ločeno licencirane kode nudi omejeno podporo. Če je na voljo takšna podpora, bodo podrobnosti in vsi dodatni pogoji, povezani s takšno podporo, določeni v dokumentu s podatki o licenciranju.
+
+Sledijo ločeno licencirane kode:
+acl
+acpi
+acpid
+acpi-support
+adaptivetheme (drupal)
+addressfield (drupal)
+AddToAny (drupal)
+adduser
+admin_menu (drupal)
+adminimal_admin_menu (drupal)
+adminimal_theme (drupal)
+advagg (drupal)
+Advanced Forum (drupal)
+Advanced syslog (drupal)
+alpha_pagination
+alsa-lib
+angular.js/images/logo
+Ansible
+apt
+aptitude
+aptitude-common
+apt-transport-https
+apt-utils
+at
+AT Tools (drupal)
+atk
+attr
+audit
+audit-libs
+augeas
+autogen
+autogen-libopts
+Automated Logout (drupal)
+avahi
+base-files
+base-lsb
+base-passwd
+bash
+bc
+Bean (drupal)
+better_exposed_filters (drupal...
+binary_heap.js
+bind
+bind9-host
+binutils
+Block Class (drupal)
+Block Class Styles (drupal)
+BOA
+bridge-utils
+bsdutils
+busybox
+c3p0
+ca-certificates
+cairo
+cairo-spice
+caniuse-db(node)
+CAPTCHA (Drupal)
+cdrkit
+chain_menu_access
+chkconfig
+commons.wikimedia
+compat-gcc-32
+config.guess
+ConsoleKit
+console-setup
+content_access (drupal)
+context (drupal)
+coreutils
+cpio
+cracklib
+cracklib-dicts
+cron
+cronie
+crontabs
+cryptsetup-libs
+cryptsetup-luks
+csync2
+CTools (drupal)
+cups
+cvs
+d3 (drupal)
+dash
+dbus
+dbus-glib
+dbus-libs
+debian-archive-keyring
+debianutils
+desktop-file-utils
+device-mapper
+device-mapper-libs
+device-mapper-multipath
+dialog
+dictionaries-common
+diffutils
+discover
+dmidecode
+dmsetup
+dnsmasq
+dpkg
+dracut
+Drafty (Drupal)
+drbd83-kmod
+drbd83-utils
+Drupal
+drupal_helpers (drupal)
+drush_language (drupal)
+e2fslibs
+e2fslibs:amd64
+e2fsprogs
+ebtables
+ed
+eggdbus
+eject
+ejectorseat (drupal)
+elfutils
+entity (drupal)
+Entity API (drupal)
+Entity Reference (drupal)
+ethtool
+FAQ (drupal)
+faq.html
+Farbtastic
+ffmpeg-spice
+field_group (drupal)
+filesystem
+findutils
+fipscheck
+Fivestar (drupal)
+Flag (Drupal)
+flood_control
+follow
+Font Awesome4.1.0
+Font-Awesome
+forum_access
+frameprevention (drupal)
+gamin
+gawk
+gcc
+gcc-4.7-base
+gcc-5-base
+gcc-6-base
+gdb
+gdbm
+geoip-database
+gettext
+gettext-base
+git
+git-core
+git-man
+glib2
+glibc
+glibc-common
+gmp
+GNU Libtool
+gnupg
+gnupg2
+gnutls
+gobject-introspection
+gpgme
+gpgv
+gpm
+gpxe
+grep
+groff
+groff-base
+Group (drupal)
+grub
+grub2-common
+grubby
+grub-common
+grub-pc
+grub-pc-bin
+gtfs
+gtk2
+gzip
+Hibernate
+hicolor-icon-theme
+hide_submit (Drupal)
+Hierachical Select (Drupal)
+hierarchical_select
+hierarchical_select (drupal)
+hostname
+Htmlmail (drupal)
+httprl (drupal)
+hwdata
+hybridauth (drupal)
+hybridauth library
+i18n (drupal)
+ifupdown
+igb-kmod
+Image CAPTCHA Refresh (drupal)
+Images
+IMCE
+IMCE (drupal)
+imce_wysiwyg
+imce_wysiwyg (drupal)
+index-debug.html
+inetutils-ping
+info
+init
+initramfs-tools
+initscripts
+init-system-helpers
+insserv
+installation-report
+install-info
+iproute
+iproute2
+iptables
+iputils
+iputils-ping
+ipvsadm
+irqbalance
+iscsi-initiator-utils
+iso-codes
+ixgbe-kmod
+java-common
+jq
+jQuery Update (drupal)
+JSONSelect site
+kbd
+kernel
+kexec-tools
+keyboard-configuration
+keyutils
+keyutils-libs
+klibc-utils
+kmod
+kmod-libs
+kpartx
+l10n_update
+l10n_update (drupal)
+LDAP (drupal)
+legal (drupal)
+less
+libacl
+libacl1
+libacl1:amd64
+libaio
+libaio1
+libaio-devel
+libapparmor1
+libapt-inst1.5
+libapt-pkg4.12
+libapt-pkg4.12:amd64
+libapt-pkg5.0
+libart_lgpl
+libasprintf0c2
+libasprintf0c2:amd64
+libassuan
+libasyncns
+libatm1
+libattr
+libattr1
+libattr1:amd64
+libaudit1
+libaudit1:amd64
+libaudit-common
+libavahi-common-data:amd64
+libblkid
+libblkid1
+libblkid1:amd64
+libbz2-1.0
+libbz2-1.0:amd64
+libc6
+libc6:amd64
+libcap2
+libcap2-bin
+libcap-ng
+libc-bin
+libcgroup
+libclass-isa-perl
+libcmpiutil
+libcomerr2
+libcryptsetup4
+libcryptsetup4:amd64
+libcwidget3
+libdb5.1
+libdb5.1:amd64
+libdbd-mysql-perl
+libdbi-perl
+libdb-utils
+libdevmapper1.02.1
+libdevmapper1.02.1:amd64
+libdevmapper-event1.02.1
+libdiscover2
+libept1.4.12
+liberror-perl
+libestr0
+libev4
+libfdisk1
+libfile-copy-recursive-perl
+libfreetype6
+libfreetype6:amd64
+libfuse2
+libgcc1
+libgcc1:amd64
+libgcrypt
+libgcrypt11
+libgcrypt11:amd64
+libgcrypt20
+libgcrypt20:amd64
+libgd2-xpm
+libgd2-xpm:amd64
+libgd3
+libgdbm3
+libgdbm3:amd64
+libgeoip1
+libgeoip1:amd64
+libglib
+libglib2.0-0
+libglib2.0-data
+libgmp10
+libgmp10:amd64
+libgnutls2
+libgnutls26:amd64
+libgnutls30
+libgnutls-openssl27
+libgnutls-openssl27:amd64
+libgpg-error
+libgpg-error0
+libgpg-error0:amd64
+libgpm2
+libhogweed2:amd64
+libhogweed4
+libhtml-template-perl
+libidn
+libidn11
+libidn11:amd64
+libjbig0
+libjbig0:amd64
+libjpeg8
+libjpeg-turbo
+libkeyutils1
+libkeyutils1:amd64
+libklibc
+libkmod2
+libkmod2:amd64
+liblcms2-2:amd64
+liblocale-gettext-perl
+libltdl7
+libltdl7:amd64
+liblz4-1
+liblzma5
+liblzma5:amd64
+libmariadbclient18
+libmcrypt4
+libmnl
+libmnl0
+libmount
+libmount1
+libmount1:amd64
+libmverbs
+libmysqlclient18
+libmysqlclient20
+libnetfilter_conntrack
+libnettle4:amd64
+libnettle6
+libnewt0.52
+libnfnetlink
+libnfnetlink0
+libnih
+libnl
+libnspr4:amd64
+libnuma1
+libopts25
+libp11-kit0
+libp11-kit0:amd64
+libpam0g
+libpam0g:amd64
+libpam-modules
+libpam-modules:amd64
+libpam-modules-bin
+libpam-runtime
+libpci3
+libpci3:amd64
+libperconaserverclient18.1
+libperl5.22
+libpipeline1
+libpipeline1:amd64
+libpng12-0
+libpng12-0:amd64
+libpopt0
+libpopt0:amd64
+libprocps0
+libprocps0:amd64
+libprocps3:amd64
+libprocps4
+libqdbm14
+Libraries API (drupal)
+libreadline5
+libreadline5:amd64
+libreadline6
+libreadline6:amd64
+librsync1
+librsync1:amd64
+librtmp0
+librtmp0:amd64
+librtmp1
+librtmp1:amd64
+libsasl2-2
+libsasl2-2:amd64
+libsasl2-modules
+libsasl2-modules:amd64
+libsasl2-modules-db
+libseccomp2
+libselinux
+libselinux1
+libselinux1:amd64
+libsemanage
+libsemanage1
+libsemanage1:amd64
+libsemanage-common
+libsepol
+libsepol1
+libsepol1:amd64
+libsigc++-2.0-0c2a
+libsigc++-2.0-0c2a:amd64
+libsigsegv2
+libslang2
+libslang2:amd64
+libsmartcols1
+libsmartcols1:amd64
+libsndfile
+libss
+libss2
+libss2:amd64
+libstdc++
+libstdc++6
+libstdc++6:amd64
+libswitch-perl
+libsystemd0
+libsystemd0:amd64
+libt
+libt1-5
+libtasn1
+libtasn1-3
+libtasn1-3:amd64
+libtasn1-6
+libtasn1-6:amd64
+libtext-charwidth-perl
+libtext-iconv-perl
+libtext-wrapi18n-perl
+libthai
+libtool
+libudev0
+libudev0:amd64
+libudev1
+libudev1:amd64
+libusb
+libusb-0.1-4
+libusb-0.1-4:amd64
+libuser
+libustr-1.0-1
+libustr-1.0-1:amd64
+libutempter
+libuuid1
+libuuid1:amd64
+libuuid-perl
+libvirt
+libvirt-cim
+libvpx1:amd64
+libxapian22
+libxtables11
+linkchecker (drupal)
+linkit
+linkit (drupal)
+linkit_picker
+linkit_picker (drupal)
+linux-base
+linux-image-3.2.0
+lksctp-tools
+lm_sensors
+locales
+login
+logrotate
+lsb-base
+lsb-release
+lsof
+lsyncd
+lvm2
+lzo
+lzop
+m4
+Mailsystem (drupal)
+make
+MAKEDEV
+man
+man-db
+manpages
+mariadb-client-5.5
+mariadb-client-core-5.5
+mariadb-common
+mariadb-galera-server
+mariadb-galera-server-5.5
+markdown (drupal)
+material-design-icons
+material-design-icons-iconfont
+mawk
+mdadm
+megaraid_sas-kmod
+menu_item_visibility (drupal)
+messaging (drupal)
+metatag (drupal)
+microcode_ctl
+mime-support
+mingetty
+module-init-tools
+motif
+mount
+mptlinux-kmod
+multiarch-support
+mysql
+mysql-common
+nano
+netbase
+netcat-traditional
+netcf
+net-tools
+newt
+nfs-utils
+nginx
+nginx-common
+nginx-full
+nmap
+no_autocomplete (drupal)
+node_clone (drupal)
+notifications (drupal)
+notifications_forum (drupal)
+nss-pam-ldapd
+ntp
+ntpdate
+numactl
+numad
+ocfs2-tools
+ofa_kernel
+OpenIPMI
+openjdk-8-jre-headless:amd64
+openssh-blacklist
+openssh-blacklist-extra
+openssh-client
+openssh-server
+openssh-sftp-server
+oprofile
+os-prober
+pam
+pam_ldap
+Panels (drupal)
+pango
+parted
+passwd
+Password policy (drupal)
+patch
+Pathologic (drupal)
+PCD
+pciutils
+Percona XtraDB Cluster
+percona-xtrabackup
+Percona-XtraDB-Cluster
+percona-xtradb-cluster-client-5.6
+percona-xtradb-cluster-common-5.6
+percona-xtradb-cluster-galera-3
+percona-xtradb-cluster-galera-3.x
+perl
+perl-base
+perl-modules
+perl-modules-5.22
+PHP SAML2
+phpmailer
+PHPMailer (drupal)
+pinentry
+pkgconfig
+pkg-config
+plymouth
+pm-utils
+polkit
+portreserve
+prelink
+procmail
+procps
+procps-ng
+psmisc
+pth
+pulseaudio
+pygobject3-base
+pygpgme
+pyliblzma
+python
+python2.7
+python2.7-minimal
+python-apt
+python-apt-common
+python-chardet
+python-gnupginterface
+python-kitchen
+python-minimal
+python-pycurl
+python-software-properties
+python-support
+python-urlgrabber
+pyxattr
+qemu-kvm
+qrencode-libs
+readline
+readline-common
+rename
+restrict_by_ip (drupal)
+restws (drupal)
+rng-tools
+rpm
+rpm-build-libs
+rpm-libs
+rpm-python
+rsync
+rsyslog
+Rules_http_client (drupal)
+scsi-target-utils
+seabios
+search_autocomplete (drupal)
+search_config (drupal)
+search404 (drupal)
+seckit (drupal)
+security_questions (drupal)
+sed
+seek-bzip
+sensible-utils
+session_limit (drupal)
+sgml-base
+shadow-utils
+shared-mime-info
+sharutils
+Simple Dialog
+simplesamlphp
+simplesamlphp_auth (drupal)
+site_test (drupal)
+site_test_helpers (drupal)
+slang
+slick (drupal)
+slick_extras (drupal)
+slick_views (drupal)
+socat
+SPDX specification
+spdx-exceptions(Node)1.0.3
+spdx-exceptions(Node)1.0.4
+spdx-exceptions(Node)1.0.5
+spdx-expression-parse (node)
+spice-server
+ssh-import-id
+sshpass
+ssmtp
+startpar
+StatsD (drupal)
+stickynav (drupal)
+Support Ticketing System (drupal)
+swig
+sysfsutils
+syslog-ng
+sysstat
+systemd
+systemd-libs
+systemd-sysv
+sysvinit
+sysvinit-utils
+sysv-rc
+TagCloud (drupal)
+tar
+tar-static
+tasksel
+tasksel-data
+taxonomy_menu
+taxonomy_menu (drupal)
+taxonomy_menu_block (drupal)
+texinfo
+tfa
+tfa (drupal)
+tfa_basic
+tfa_basic (drupal)
+time
+tinyMCE
+tmpreaper
+Token (Drupal)
+traceroute
+Translation helpers (drupal)
+transliteration (drupal)
+trustedgrub
+tunctl
+Twitter Timeline (drupal)
+ubuntu-keyring
+ucf
+udev
+ufw
+Ulimate Cron (Drupal)
+unattended-upgrades
+underscore.js (drupal)
+unixODBC
+update-inetd
+upstart
+user_pwreset_timeout (Drupal)
+usersearchtoadmin (Drupal)
+ustr
+util-linux
+util-linux-locales
+util-linux-ng
+Variable (drupal)
+vgabios
+Views (drupal)
+Views data export (Drupal)
+Views_bulk_operations (drupal)
+views_send (drupal)
+vim
+vim-minimal
+Voting API (drupal)
+VPPR (drupal)
+wget
+which
+whiptail
+workbench (drupal)
+workbench_moderation (drupal)
+Wysiwig (drupal)
+x11-common
+xautoload (drupal)
+xdg-user-dirs
+xml-core
+xmlto
+xpath.js
+xtrabackup
+xz
+xz-utils
+yum
+yum-metadata-parser
+yum-plugin-fastestmirror
+yum-plugin-ovl
+yum-utils
+
+Primerjalni preskusi
+
+Imetnik licence lahko razkrije rezultate primerjalnih preskusov programa ali njegovih podkomponent katerikoli tretji strani, pod pogojem, da imetnik licence (A) javno razkrije celotno metodologijo, uporabljeno v primerjalnem preskusu (to je nastavitev strojne in programske opreme, namestitveni postopek in konfiguracijske datoteke), (B) izvede primerjalni preskus imetnika licence z izvajanjem programa v svojem podanem operacijskem okolju z uporabo najnovejših ustreznih posodobitev in popravkov, ki jih nudijo za program IBM ali drugi proizvajalci, ki nudijo IBM-ove izdelke ("drugi proizvajalci") in (C) upošteva katerekoli in vse smernice za naravnavanje zmogljivosti in za "najboljše prakse", ki so na voljo v dokumentaciji programa in na IBM-ovih spletnih mestih s podporo za program. Če imetnik licence objavi rezultate kateregakoli primerjalnega preskusa za program, imajo IBM in drugi proizvajalci ne glede na navzkrižja, ki izhajajo iz katerekoli pogodbe med imetnikom licence in IBM-om ali drugim proizvajalcem, pravico objaviti rezultate primerjalnih preskusov v zvezi z izdelki imetnika licence, pod pogojem, da IBM ali drugi proizvajalci pri preskušanju izdelkov imetnika licence upoštevajo zgornje zahteve (A), (B) in (C).
+
+Ne glede na zgoraj povedano ne sme imetnik licence v nobenih okoliščinah objaviti rezultatov primerjalnih preskusov, opravljenih v tehnologiji Oracle Outside In Technology, če ne pridobi predhodnega pisnega dovoljenja.
+
+Za naslednje programe ali podkomponente veljajo zgornji pogoji za primerjalne preskuse:
+IBM Connect V5.0
+
+Izvorne komponente in vzorčno gradivo
+
+Program lahko vključuje nekatere komponente v obliki izvorne kode ("izvorne komponente") in drugo gradivo, imenovano "vzorčno gradivo". Imetnik licence lahko kopira in spreminja izvorne komponente ter vzorčno gradivo za notranjo uporabo samo v primeru, da je takšna uporaba v okviru licenčnih pravic, določenih v tej pogodbi, vendar imetnik licence ne sme spreminjati ali brisati kakršnihkoli informacij o avtorstvu ali obvestil v izvornih komponentah ali vzorčnem gradivu. IBM ponuja izvorne komponente in vzorčno gradivo brez obveznosti za podporo in "TAKŠNO, KAKRŠNO JE", BREZ GARANCIJ KAKRŠNEKOLI VRSTE, PA NAJ BODO IZRECNE ALI NAKAZANE, KAR VKLJUČUJE TUDI GARANCIJO ZA NASLOV, NEKRŠENJE ALI NEOVIRANJE IN ZAKONSKE GARANCIJE IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOČEN NAMEN.
+
+Enota vrednosti procesorja (PVU)
+
+Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. Število zahtevanih pooblastil PVU temelji na procesorski tehnologiji (definirani v tabeli PVU-jev s proizvajalcem procesorja, znamko, tipom in številko modela na spletnem naslovu http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html) in na številu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na čipu. Tako ima na primer procesorski čip z dvema jedroma dve procesorski jedri.
+
+Imetnik licence lahko namesti program z licenciranjem celotne kapacitete ali z licenciranjem virtualizacijske kapacitete (podkapacitete), ki je v skladu z določbami za licenciranje podkapacitete Passport Advantage (glejte spodnjo spletno stran). če uporablja imetnik licence licenciranje celotne kapacitete, mora pridobiti pooblastila PVU, ki obsegajo vsa aktivirana procesorska jedra* v okolju fizične strojne opreme, ki so na voljo za program ali jih ta upravlja, razen za tiste strežnike, s katerih je bil program trajno odstranjen. Če uporablja imetnik licence licenciranje virtualizacijske kapacitete, mora pridobiti število pooblastil, ki zadostuje za kritje vseh aktiviranih procesorskih jeder, ki so na voljo za program ali jih ta upravlja, kot je definirano glede na pravila za štetje licenc za virtualizacijsko kapaciteto na naslovu http://www.ibm.com/software/lotus/passportadvantage/Counting_Software_licenses_using_specific_virtualization_technologies.html.
+
+* Aktivirano procesorsko jedro je procesorsko jedro, ki je na voljo za uporabo na fizičnem ali navideznem strežniku, ne glede na to, ali je kapaciteta procesorskega jedra lahko omejena ali je omejena z virtualizacijskimi tehnologijami, ukazi operacijskega sistema, nastavitvami BIOS ali podobnimi omejitvami.
+
+L/N:  L-CLIG-AGFKQ9
+D/N:  L-CLIG-AGFKQ9
+P/N:  L-CLIG-AGFKQ9
+
+
+Mednarodna licenčna pogodba za programe brez garancije
+
+1. del - splošne določbe
+
+S TEM, KO IMETNIK LICENCE PRENESE, NAMESTI, PREKOPIRA, DOSTOPI DO, KLIKNE GUMB »SPREJMEM« ALI KAKO DRUGAČE UPORABI PROGRAM, SOGLAŠA Z DOLOČBAMI TE POGODBE. ČE SPREJMETE TE DOLOČBE V IMENU IMETNIKA LICENCE, ODGOVARJATE IN JAMČITE, DA IMATE VSA POOBLASTILA ZA POVEZAVO IMETNIKA LICENCE S TEMI DOLOČBAMI. ČE S TEMI DOLOČBAMI NE SOGLAŠATE,
+
+* PROGRAMA NE PRENESITE, NE NAMESTITE, NE PREKOPIRAJTE, NE DOSTOPITE DO NJEGA, NE KLIKNITE GUMBA »SPREJMEM« ALI GA NE UPORABITE IN
+
+* NEMUDOMA VRNITE NEUPORABLJEN MEDIJ IN DOKUMENTACIJO STRANKI, PRI KATERI STE JU PRIDOBILI IN ZAHTEVAJTE POVRAČILO PLAČANEGA ZNESKA. ČE STE PROGRAM PRENESLI, UNIČITE VSE NJEGOVE KOPIJE.
+
+1. Definicije
+
+»Pooblaščena uporaba«- podana raven, s katero lahko imetnik licence uporablja ali izvaja program. Ta raven je lahko merjena s številom uporabnikov, z milijoni storitvenih enot (»MSU-ji«), enotami vrednosti procesorja ("PVU-ji") ali drugimi ravnmi uporabe, ki jih poda IBM.
+
+»IBM« - International Business Machines Corporation ali ena od njegovih podružnic.
+
+»Podatki o licenciranju« (»LI«) - dokument, ki podaja informacije in kakršnekoli dodatne pogoje, specifične za program. Podatki o licenciranju za program so na voljo na naslovu www.ibm.com/software/sla, najdete pa jih lahko tudi v imeniku programa, jih prikažete z vnosom sistemskega ukaza ali si jih ogledate v knjižici, ki je priložena programu.
+
+»Program« - naslednje, vključno z izvirnikom in vsemi celotnimi ali delnimi kopijami: 1) strojno čitljiva navodila in podatki, 2) komponente, datoteke in moduli, 3) avdiovizualna vsebina (kot so slike, besedilo, posnetki ali slike) in 4) s tem povezano licenčno gradivo (kot so ključi in dokumentacija).
+
+2. Struktura pogodbe
+
+Ta pogodba vključuje 1. del - splošne določbe, 2. del - pogoji, značilni za posamezne države (če obstajajo) in podatke o licenciranju, in predstavlja celotno pogodbo med imetnikom licence in IBM-om v zvezi z uporabo programa. Kot takšna nadomešča vse predhodne ustne ali pisne komunikacije med imetnikom licence in IBM-om v zvezi z njegovo uporabo programa. Določbe iz 2. dela lahko nadomestijo ali spremenijo tiste iz 1. dela. V primeru, da pride do navzkrižja, imajo prednost pred obema deloma podatki o licenciranju.
+
+3. Odobritev pogodbe
+
+Lastnik programa je IBM ali IBM-ov dobavitelj. Program se ne prodaja, pač pa se zanj podeljujejo avtorske pravice in licenca.
+
+IBM podeljuje imetniku licence neizključno licenco za 1) uporabo programa do pooblaščene ravni uporabe, ki je določena na računu, 2) izdelavo in namestitev kopij, ki so v podporo takšni pooblaščeni uporabi, in 3) izdelavo varnostne kopije, vendar vse pod pogojem, da
+
+a. je imetnik licence pridobil program na zakonit način in zadovoljuje določbe te pogodbe;
+
+b. se varnostna kopija uporabi samo, če ni mogoče zagnati varnostno prekopiranega programa;
+
+c. imetnik licence opremi vsako kopijo ali delno kopijo programa z vsemi obvestili in drugimi oznakami o avtorskih pravicah, ki dokazujejo lastništvo;
+
+d. imetnik licence zagotovi, da vsak uporabnik, ki dostopi do programa (lokalno ali na daljavo) 1) to naredi samo v imenu imetnika licence in 2) pri tem upošteva določbe te pogodbe;
+
+e. imetnik licence program 1) uporablja, kopira, spreminja ali distribuira izključno v skladu z določbami te pogodbe; 2) v programu ne uporabi vzvratnega prevajanja, vzvratnega inženirstva ali ga kako drugače prevede, razen kot izrecno dopušča zakon brez možnosti odpovedi pogodbe; 3) ne uporabi komponent, datotek, modulov, avdiovizualne vsebine ali s tem povezanega licenčnega gradiva ločeno od programa; ali 4) programa ne podlicencira, daje v najem ali v zakup; in
+
+f. če pridobi imetnik licence ta program kot podporni program, ga bo uporabljal izključno kot podporo glavnemu programu in je predmet vseh omejitev iz licence za glavni program; ali, če pridobi imetnik licence ta program kot glavni program, bo uporabil vse podporne programe samo kot podporo temu programu in zanj veljajo vse omejitve iz te pogodbe. Za namen te točke »f« je »podporni program« tisti program, ki je del drugega IBM-ovega programa (»glavni program«) in je v podatkih o licenciranju glavnega programa določen kot podporni program. (Če želi imetnik licence pridobiti ločeno licenco za podporni program brez teh omejitev, se mora obrniti na stranko, pri kateri je pridobil podporni program.)
+
+Ta licenca velja za vsako kopijo programa, ki jo izdela imetnik licence.
+
+3.1 Zamenjave, posodobitve in popravki
+
+3.1.1 Zamenjave
+
+Če zamenjate program s programom iz zamenjave, licenca za zamenjan program nemudoma preneha veljati.
+
+3.1.2 Posodobitve in popravki
+
+Ko pridobi imetnik licence posodobitev ali popravek, soglaša z vsemi dodatnimi ali drugačnimi določbami, ki veljajo za takšno posodobitev ali popravek, in so določene v njunih podatkih o licenciranju. Če niso podane nobene dodatne ali drugačne določbe, za posodobitev ali popravek velja izključno ta pogodba. Če imetnik licence zamenja program s posodobitvijo, soglaša, da bo nemudoma prenehal uporabljati zamenjan program.
+
+3.2 Licence za določeno dobo
+
+Če dodeli IBM licenco za program za določeno dobo, licenca imetnika licence preneha veljati ob koncu te dobe, razen v primeru, če se imetnik licence in IBM dogovorita, da jo bosta podaljšala.
+
+3.3 Doba in prenehanje veljavnosti
+
+Ta pogodba ostane v veljavi, dokler se je ne odpove.
+
+IBM lahko odpove licenco imetnika licence, če ta ne upošteva določb te pogodbe.
+
+Če katerakoli stranka zaradi kakršnegakoli razloga odpove licenco, imetnik licence soglaša, da bo nemudoma prenehal uporabljati vse kopije programa in jih bo uničil. Vse določbe te pogodbe, ki zaradi svoje narave ostanejo v veljavi tudi po izteku te pogodbe, ostanejo v veljavi do svoje izpolnitve, in veljajo za ustrezne naslednike in pooblaščence obeh pogodbenih strank.
+
+4. Stroški
+
+Stroški (če obstajajo) temeljijo na pridobljeni pooblaščeni uporabi, ki je določena na računu. IBM ne daje nobenih posojil ali povračil za že zapadle ali plačane bremenitve, razen če je to določeno kje drugje v tej pogodbi.
+
+Če želi imetnik licence povečati svojo pooblaščeno uporabo, mora o tem vnaprej obvestiti IBM ali pooblaščenega IBM-ovega prodajalca in plačati vse ustrezne bremenitve.
+
+5. Davki
+
+Če ustrezna služba za program določi takso, davek, pristojbino ali prispevek, kar ne vključuje tistih, ki temeljijo na IBM-ovem čistem dohodku, imetnik licence soglaša, da bo plačal ta znesek, podan na računu, ali pa posredoval dokumente o oprostitvi. Imetnik licence je odgovoren za vse davke na osebno lastnino za program od datuma njegove pridobitve. Če ustrezna služba določi carinsko takso, davek, dajatev ali pristojbino za uvoz ali izvoz, prenos, dostop do ali uporabo programa izven države, v kateri je bila zanj imetniku licence dodeljena licenca, se imetnik licence strinja, da je odgovoren za kakršenkoli zaračunan znesek in ga bo tudi plačal.
+
+6. Garancija za vračilo denarja
+
+Če imetnik licence iz kakršnegakoli vzroka ni zadovoljen s programom in je izvirni imetnik licence, lahko prekliče licenco in pridobi povračilo plačanega zneska (če obstaja) za program, pod pogojem, da imetnik licence vrne program stranki, pri kateri ga je pridobil, v roku 30 dni od datuma računa. Če gre za licenco za določeno obdobje, ki se lahko podaljša, lahko pridobi imetnik licence povračilo samo, če vrne program v prvih 30 dneh začetnega obdobja. Če je imetnik licence prenesel program, naj se za navodila o denarnem vračilu obrne na stranko, pri kateri ga je pridobil.
+
+7. Prenos programa
+
+Imetnik licence lahko prenese program in vse njegove pravice in dolžnosti na drugo stranko samo, če ta stranka soglaša z določbami te pogodbe. Če katerakoli stran zaradi kakršnegakoli vzroka prekine licenco, imetnik licence ne sme prenesti programa na drugo stranko. Imetnik licence ne sme prenesti dela 1) programa ali 2) pooblaščene uporabe programa. Če imetnik licence prenese program, mora prenesti tudi natisnjeno kopijo te pogodbe, vključno s podatki o licenciranju. Licenca imetnika licence preneha veljati nemudoma po prenosu.
+
+8. Brez garancij
+
+V SKLADU S KATERIMIKOLI ZAKONITIMI GARANCIJAMI, KI JIH NI MOGOČE IZKLJUČITI, NE DAJE IBM NOBENIH GARANCIJ ALI POGOJEV, IZRECNIH ALI NAKAZANIH, V ZVEZI S PROGRAMOM ALI PODPORO, ČE SPLOH, KAR VKLJUČUJE TUDI (VENDAR NI OMEJENO NA) KAKRŠNEKOLI NAKAZANE GARANCIJE ALI POGOJE TRŽNOSTI, ZADOVOLJIVE KAKOVOSTI, UPORABNOSTI ZA DOLOČEN NAMEN IN PRAVNI NASLOV TER KAKRŠNEKOLI GARANCIJE ALI POGOJE NEKRŠENJA.
+
+NEKATERE DRŽAVE ALI JURISDIKCIJE NE DOVOLIJO IZKLJUČITVE IZRECNIH ALI NAKAZANIH GARANCIJ, ZATO ZGORNJA OMEJITEV ZA VAS LAHKO NE VELJA. V TEM PRIMERU JE TRAJNOST TAKŠNIH GARANCIJ OMEJENA NA MINIMALNO ZAKONSKO ZAHTEVANO OBDOBJE. PO IZTEKU TEGA ROKA NE VELJA VEČ NOBENA GARANCIJA. NEKATERE DRŽAVE ALI JURISDIKCIJE NE DOVOLIJO OMEJITVE V TRAJANJU NAKAZANIH GARANCIJ, ZATO ZGORNJA OMEJITEV LAHKO NE VELJA ZA IMETNIKA LICENCE. IMETNIKU LICENCE LAHKO PRIPADAJO TUDI DRUGE PRAVICE, KI SE RAZLIKUJEJO OD DRŽAVE DO DRŽAVE IN OD JURISDIKCIJE DO JURISDIKCIJE.
+
+IZKLJUČITVE IN IZVZETJA IZ TEGA 8. RAZDELKA VELJAJO TUDI ZA VSE IBM-OVE RAZVIJALCE IN DOBAVITELJE PROGRAMOV.
+
+PROIZVAJALCI, DOBAVITELJI ALI ZALOŽNIKI PROGRAMOV, KI NISO IBM-OVI, LAHKO PODAJO SVOJE LASTNE GARANCIJE.
+
+IBM NE NUDI PODPORE KAKRŠNEKOLI VRSTE, RAZEN ČE NE DOLOČI DRUGAČE. V TAKŠNEM PRIMERU JE KAKRŠNAKOLI PODPORA, KI JO NUDI IBM, PREDMET IZKLJUČITEV IN IZVZETIJ IZ TEGA 8. RAZDELKA.
+
+9. Podatki in baze podatkov imetnika licence
+
+Da bi imetniku licence pomagali pri osamitvi vzroka težave v programu, lahko IBM od njega zahteva, da 1) omogoči IBM-u oddaljen dostop do svojega sistema ali 2) IBM-u pošlje podatke o licenciranju ali sistemske podatke. Toda IBM ni obvezan nuditi takšne podpore, razen če skleneta IBM in imetnik licence ločeno pisno pogodbo, na podlagi katere IBM soglaša, da bo nudil imetniku licence to vrsto podpore, ki presega obveznosti IBM-a iz te pogodbe. V vsakem primeru bo IBM uporabil informacije o napakah in težavah za izboljšanje svojih izdelkov in storitev in kot pomoč pri nudenju s tem povezanih ponudb za podporo. V ta namen lahko IBM vključi IBM-ove pravne osebe in podpogodbenike (kar vključuje tudi tiste v eni ali več državah, v katerih se ne nahaja imetnik licence), imetnik licence pa daje IBM-u v ta namen pooblastilo.
+
+Imetnik licence ostaja odgovoren za 1) vse podatke in vsebino vseh baz podatkov, ki jih imetnik licence omogoči za IBM, 2) izbiro in uvedbo postopkov in nadzora v zvezi z dostopanjem, zaščito, šifriranjem, uporabljanjem in prenašanjem podatkov (vključno z vsemi osebnimi podatki) in 3) varnostno kopiranje in obnavljanje vseh baz podatkov in shranjenih podatkov. Imetnik licence IBM-u ne bo poslal ali priskrbel dostopa do osebnih informacij, ki so lahko v podatkovni ali kakršnikoli drugi obliki, in bo odgovoren za sprejemljive stroške in druge zneske, ki jih lahko naloži IBM v zvezi s takšnimi informacijami, ki so po nesreči posredovane IBM-u, ali za izgubo ali razkritje takšnih informacij s strani IBM-a, vključno s tistimi, do katerih pride zaradi zahtevkov katerihkoli tretjih strani.
+
+10. Omejitev odgovornosti
+
+Omejitve in izključitve iz tega razdelka 10 (Omejitev odgovornosti) veljajo v celoti, če jih ne prepoveduje veljaven zakon brez možnosti pogodbene odpovedi.
+
+10.1 Primeri, za katere je IBM lahko odgovoren
+
+Zaradi napake IBM-a ali zaradi kakšne druge obveznosti lahko pride do okoliščin, v katerih je imetnik licence od IBM-a upravičen terjati odškodnino. Ne glede na osnovo, na kateri lahko imetnik licence od IBM terja odškodnino (vključno z osnovno kršitvijo, malomarnostjo, napačno predstavitvijo dejstev ali kakšnim drugim pogodbenim ali kazenskim zahtevkom), IBM-ova celotna odgovornost za vse skupne zahtevke, vložene zaradi programa ali v povezavi z njim ali ki so kako drugače vloženi na osnovi te pogodbe, ne preseže zneska 1) škode za telesne poškodbe (vključno s smrtjo) in škode v nepremičninah in v osebnih premičninah in 2) druge dejanske neposredne škode do zneska (če je program predmet bremenitev za določeno obdobje, veljajo 12-mesečne bremenitve), ki ga je plačal imetnik licence za program, ki je predmet zahtevka.
+
+Ta omejitev velja tudi za vse IBM-ove razvijalce in dobavitelje programa, in predstavlja maksimum, za katerega so IBM in razvijalci in dobavitelji programa kolektivno odgovorni.
+
+10.2 Primeri, za katere IBM ni odgovoren
+
+IBM IN NJEGOVI RAZVIJALCI ALI DOBAVITELJI PROGRAMA POD NOBENIMI POGOJI NE ODGOVARJAJO ZA NASLEDNJE PRIMERE, TUDI ČE SO OBVEŠČENI O MOŽNOSTI, DA DO NJIH PRIDE:
+
+a. IZGUBO ALI POŠKODBO PODATKOV;
+
+b. POSEBNO, NAKLJUČNO, KAZENSKO ALI POSLEDIČNO ŠKODO ALI KAKRŠNOKOLI EKONOMSKO POSLEDIČNO ŠKODO; ALI
+
+c. IZGUBLJENE DOBIČKE, POSLOVANJE, DOHODKE, DOBRO IME ALI PRIČAKOVANE PRIHRANKE.
+
+11. Preverjanje skladnosti
+
+Za namene tega 11. razdelka (Preverjanje skladnosti) pomenijo "določbe programa ILAN" 1) to pogodbo in ustrezna dopolnila in transakcijske dokumente, ki jih poda IBM in 2) IBM-ova načela za programsko opremo, ki jih je mogoče najti na IBM-ovem spletnem mestu z načeli za programsko opremo (www.ibm.com/softwarepolicies), kar vključuje tudi (vendar ni omejeno na) načela, ki se nanašajo na izdelavo varnostnih kopij, določanje cen za podkapaciteto in selitev.
+
+Pravice in obveznosti iz tega razdelka 11 ostanejo v veljavi v obdobju, v katerem je program licenciran za imetnika licence in še dve leti zatem.
+
+11.1 Postopek preverjanja
+
+Imetnik licence soglaša, da bo izdelal, hranil in posredoval IBM-u in njegovim revizorjem natančne pisne zapiske, izhodne podatke sistemskih orodij in druge sistemske informacije, ki zadostujejo za preverjanje, ali uporablja imetnik licence programe v skladu z določbami programa ILAN, kar vključuje tudi (vendar ni omejeno na) vse IBM-ove ustrezne določbe za licenciranje in določanje cen. Imetnik licence mora 1) zagotoviti, da ne preseže svoje pooblaščene uporabe in 2) da upošteva določbe programa ILAN.
+
+Na osnovi predhodnega obvestila lahko IBM na vseh lokacijah in v vseh okoljih, v katerih imetnik licence (za kakršenkoli namen) uporablja programe, preveri skladnost z določbami programa ILAN. Pri takšnem preverjanju bomo poskušali čim manj motiti poslovanje imetnika licence in ga lahko opravimo na lokaciji imetnika licence med običajnimi poslovnimi urami. IBM lahko kot pomoč pri preverjanju vključi neodvisnega revizorja, pod pogojem, da je IBM z njim podpisal pogodbo o zaupnosti.
+
+11.2 Razrešitev
+
+IBM bo imetnika licence v pisni obliki obvestil, če se pri takšnem preverjanju pokaže, da je imetnik licence pri uporabi kateregakoli programa presegal svojo pooblaščeno uporabo ali kako drugače ni upošteval določb programa ILAN. Imetnik licence soglaša, da bo IBM-u nemudoma in neposredno plačal bremenitve, ki jih IBM poda na računu za 1) takšno preseženo uporabo, 2) podporo za takšno preseženo uporabo za trajanje takšne presežene uporabe ali za dve leti (kar je krajše) in 3) vse dodatne stroške in druge obveznosti, ki so ugotovljene kot rezultat takšnega preverjanja.
+
+12. Obvestila za druge proizvajalce
+
+Program lahko vključuje kodo drugega proizvajalca, za katero dodeli v tej pogodbi licenco IBM in ne drug proizvajalec. Opombe (če obstajajo) za kodo drugega proizvajalca ("Obvestila za druge proizvajalce") so vključena zgolj kot informacija za imetnika licence. Ta obvestila boste našli v datoteki (datotekah) OPOMBE programa. Informacije o tem, kako pridobiti izvorno kodo za kodo določenih drugih proizvajalcev, boste našli v razdelku Obvestila za druge proizvajalce. Če IBM v razdelku Obvestila za druge proizvajalce identificira kodo drugega proizvajala kot »kodo drugega proizvajalca z možnostjo spreminjanja«, daje IBM imetniku licence pooblastilo za 1) spreminjanje kode drugega proizvajalca z možnostjo spreminjanja in 2) vzvratno inženirstvo v modulih programa, ki so v neposrednem stiku s kodo drugega proizvajalca z možnostjo spreminjanja, pod pogojem, da gre izključno za namen razhroščevanja (debugging) popravkov imetnika licence v takšni kodi drugega proizvajalca. IBM-ove servisne in podporne obveznosti (če obstajajo) veljajo samo za nespremenjen program.
+
+13. Splošno
+
+a. Noben del te pogodbe ne vpliva na nobene zakonite pravice potrošnikov, ki jih ni mogoče odpovedati ali omejiti s pogodbo.
+
+b. Za programe, ki jih IBM posreduje imetniku licence v materialni obliki, bo IBM izpolnil svoje obveznosti glede dobave in dostave ob dostavi takšnih programov špediterju, ki ga imenuje IBM, razen če se IBM in imetnik licence v pisni obliki ne dogovorita drugače.
+
+c. Če se za katero določbo iz te pogodbe ugotovi, da ni veljavna ali da je ni mogoče uveljaviti, preostale določbe iz te pogodbe ostanejo v polni veljavi.
+
+d. Imetnik licence soglaša, da bo upošteval vse lokalne zakone in predpise v zvezi z izvažanjem in uvažanjem, vključno s predpisi in prepovedmi v povezavi z embargom in sankcijami o izvozu za določene končne uporabe ali za določene uporabnike.
+
+e. Imetnik licence pooblašča družbo International Business Machines Corporation in njene podružnice (in njene naslednike in pooblaščence, pogodbenike in IBM-ove poslovne partnerje) za shranjevanje in uporabo poslovnih kontaktnih informacij imetnika licence tam, kjer poslujejo, v povezavi z IBM-ovimi izdelki in storitvami ali pri pospeševanju IBM-ovega odnosa z imetnikom licence.
+
+f. Vsaka stran bo drugi strani omogočila sprejemljivo priložnost za zadovoljitev določb, preden bo začela trditi, da druga ne zadovoljuje svojih obveznosti iz te pogodbe. Strani bosta poskusili v dobri veri razrešiti vse spore, nesoglasja ali druge zahteve med stranmi v povezavi s to pogodbo.
+
+g. Razen če drugače ne zahteva lokalen zakon brez možnosti pogodbene odpovedi ali omejitve: 1) nobena stranka ne bo sprožila pravnega postopka, ne glede na njegovo obliko, za katerokoli zahtevo, nastalo v povezavo s to pogodbo, več kot dve leti po nastanku vzroka za zahtevo; in 2) po izteku tega časovnega obdobja vsi takšni zahtevki in druge ustrezne pravice, povezane z zahtevkom, zastarajo.
+
+h. Niti imetnik licence niti IBM nista odgovorna za neizpolnitev katerekoli obveznosti zaradi vzrokov, ki jih ni mogoče nadzorovati.
+
+i. Ta pogodba ne daje osnove za nobene pravice ali zahtevke katerihkoli tretjih strank, niti ni IBM odgovoren za nobene zahtevke tretjih strank proti imetniku licence, razen kot dovoljuje zgornji podrazdelek 10.1 (Primeri, za katere je IBM lahko odgovoren) za telesne poškodbe (vključno s smrtjo) ali škodo na nepremičninah ali v osebnih premičninah, za katere je IBM zakonsko odgovoren tej tretji stranki.
+
+j. Ob sklepu te pogodbe se nobena stranka ne zanaša na nobeno predstavitev, ki ni podana v tej pogodbi, kar vključuje tudi (vendar ni omejeno na) kakršnokoli predstavitev, ki se nanaša na: 1) zmogljivost ali delovanje programa; 2) izkušnje ali priporočila drugih strank; ali 3) kakršnekoli rezultate ali prihranke, ki jih lahko ustvari imetnik licence.
+
+k. IBM je z določenimi organizacijami (imenovanimi "IBM-ovi poslovni partnerji") podpisal pogodbe za promoviranje, trženje in podpiranje določenih programov. IBM-ovi poslovni partnerji so neodvisni in ločeni od IBM-a. IBM ni odgovoren za dejanja ali izjave IBM-ovih poslovnih partnerjev ali za obveznosti, ki jih imajo do imetnika licence.
+
+l. Določbe v zvezi z odškodnino za licenco in intelektualno lastnino iz drugih pogodb, ki jih je imetnik licence podpisal z IBM-om (kot je na primer IBM-ova pogodba za stranke), ne veljajo za programske licence, dodeljene s to pogodbo.
+
+m. Obe stranki soglašata, da so vse izmenjane informacije nezaupne. Če katera od strank zahteva izmenjavo zaupnih informacij, bosta sklenili podpisano pogodbo o zaupnosti.
+
+14. Geografsko področje in zakonodaja
+
+14.1 Zakonodaja
+
+Obe pogodbeni stranki soglašata, da bodo zakoni države, v kateri je imetnik licence pridobil licenco za program, uporabljeni za upravljanje, interpretiranje in uveljavljanje vseh ustreznih pravic, dolžnosti in obveznosti imetnika licence in IBM-a, nastalih na osnovi predmeta te pogodbe ali v povezavi z njim, ne glede na navzkrižje zakonskih načel.
+
+Konvencija Združenih narodov v zvezi s pogodbami za mednarodno prodajo blaga ne velja.
+
+14.2 Sodna pristojnost
+
+Vse pravice, dolžnosti in obveznosti bodo obravnavala sodišča v državi, v kateri imetnik licence pridobi licenco za program.
+
+2. del - pogoji, značilni za posamezne države
+
+Za licence, ki so dodeljene v Sloveniji, naslednje določbe nadomeščajo ali spremenijo omenjene določbe iz 1. dela. Vse določbe iz 1. dela, ki jih ti popravki ne spremenijo, ostanejo nespremenjene in v veljavi.
+
+DOPOLNILA ZA DRŽAVE V EVROPI, NA SREDNJEM VZHODU IN V AFRIKI (EMEA)
+
+DRŽAVE ČLANICE EVROPSKE UNIJE
+
+8. Brez garancij
+
+8. razdelku (Brez garancij) je dodano naslednje:
+
+V Evropski uniji ("EU") pripadajo strankam zakonske pravice, ki izhajajo iz ustrezne državne zakonodaje, ki ureja prodajo potrošniških dobrin. Predpisi iz tega 8. razdelka (Brez garancij) ne vplivajo na takšne pravice.
+
+DRŽAVE ČLANICE EU IN DRŽAVE, DOLOČENE SPODAJ
+
+Katerakoli evropska država, ki je predpisala varstvo lokalnih podatkov ali zakonodajo o varstvu, podobno modelu iz EU.
+
+13. Splošno
+
+Naslednje nadomešča točko 13.e:
+
+(1) Definicije - Za namene točke 13.e veljajo naslednje dodatne definicije:
+
+(a) Poslovne kontaktne informacije - s podjetjem povezane kontaktne informacije, ki jih IBM-u razkrije imetnik licence, vključno z imeni, naslovi delovnih mest, poslovnimi naslovi, telefonskimi številkami in elektronskimi naslovi uslužbencev in pogodbenikov imetnika licence. Za Avstrijo, Italijo in Švico vključujejo poslovne kontaktne informacije tudi informacije o imetniku licence in njegovih pogodbenikih kot pravnih osebah (kot so na primer podatki o dohodkih imetnika licence in druge transakcijske informacije).
+
+(b) Kontaktno osebje podjetja - Uslužbenci in pogodbeniki imetnika licence, s katerimi so povezane poslovne kontaktne informacije.
+
+(c) Urad za varstvo podatkov - urad, vzpostavljen na podlagi zakonodaje o varstvu podatkov in elektronskih komunikacijah v ustrezni državi, za države, ki niso članice EU, pa urad, ki je odgovoren za nadzor varstva osebnih podatkov v tej državi ali (za karkoli od zgoraj omenjenega) katerikoli zakonito imenovan pravni naslednik.
+
+(d) Zakonodaja o varstvu podatkov in elektronskih komunikacijah - (i) ustrezna lokalna zakonodaja in veljavni predpisi, ki uveljavljajo zahteve Smernice EU 95/46/EC (o zaščiti posameznikov glede obdelave osebnih podatkov in prostega pretoka takšnih podatkov) in Smernice EU 2002/58/EC (ki se nanaša na obdelavo osebnih podatkov in varstvo zasebnosti v sektorju elektronskih komunikacij); ali (ii) za države, ki niso članice EU, zakonodaja in/ali predpisi, ki veljajo v ustrezni državi, in se nanašajo na varstvo osebnih podatkov in reguliranje elektronskih komunikacij, ki vključujejo osebne podatke, kar vključuje tudi (za karkoli od zgoraj omenjenega) kakršnokoli njihovo zakonito zamenjavo ali popravke.
+
+(e) IBM-ova skupina - International Business Machines Corporation iz Armonka, New York, ZDA, njene podružnice in njeni poslovni partnerji in podpogodbeniki.
+
+(2) Imetnik licence pooblašča IBM za:
+
+(a) obdelavo in uporabo poslovnih kontaktnih informacij znotraj IBM-ove skupine, ki so v podporo imetniku licence, kar vključuje tudi nudenje podpornih storitev, in za namene pospeševanja poslovnega odnosa med imetnikom licence in IBM-ovo skupino, kar vključuje tudi (vendar ni omejeno na) stik s kontaktnim osebjem podjetja (po elektronski pošti ali kako drugače) in trženje izdelkov in storitev IBM-ove skupine ("določen namen"); in
+
+(b) razkritje poslovnih kontaktnih informacij drugim članom IBM-ove skupine, vendar samo za izvajanje določenega namena.
+
+(3) IBM soglaša, da bodo vse poslovne kontaktne informacije obdelane v skladu z zakonodajo o varstvu podatkov in elektronskih komunikacijah in bodo uporabljene izključno za "določen namen".
+
+(4) Do mere, ki jo zahteva zakonodaja za varstvo podatkov in elektronske komunikacije, imetnik licence izjavlja, da (a) je pridobil (ali bo pridobil) privolitve kontaktnega osebja podjetja (ali je izdal ali bo izdal obvestila zanje), potrebne, da bi IBM-ovi skupini omogočil obdelavo in uporabo poslovnih kontaktnih informacij za "določen namen".
+
+(5) Imetnik licence daje IBM-u pooblastilo za prenos poslovnih kontaktnih informacij izven evropskega ekonomskega prostora, pod pogojem, da prenos temelji na pogodbenih določbah, ki jih odobri urad za varstvo podatkov, ali da je prenos kako drugače dovoljen na podlagi zakonodaje o varstvu podatkov in elektronskih komunikacijah.
+
+Z125-5589-05 (07/2011)
+
+
