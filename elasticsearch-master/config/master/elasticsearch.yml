@@ -1,0 +1,8 @@
+cluster.name: "APIC"
+#node.master: "true"
+#node.data: "false"
+#node.client: "false"
+#discovery.zen.ping.multicast.enabled: "true"
+network.host: "0.0.0.0"
+transport.tcp.port: 9600
+http.port: 9500

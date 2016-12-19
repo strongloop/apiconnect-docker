@@ -1,0 +1,25 @@
+product: '1.0.0'
+
+info:
+  name: loopback-example-database
+  title: loopback-example-database
+  version: 1.0.0
+
+apis:
+  'loopback-example-database':
+    $ref: loopback-example-database.yaml
+
+visibility:
+  view:
+    type: public
+  subscribe:
+    type: authenticated
+
+plans:
+  default:
+    title: Default Plan
+    description: Default Plan
+    approval: false
+    rate-limit:
+      value: 100/hour
+      hard-limit: false

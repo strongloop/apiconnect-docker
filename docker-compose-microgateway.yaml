@@ -1,0 +1,128 @@
+version: '2'
+
+services:
+  make-ssh-keys:
+    build: config-ssh-keys
+    container_name: make-ssh-keys
+    volumes:
+      - config_ssh_keys:/keys:rw
+
+  esmaster:
+    build: elasticsearch-master
+    container_name: esmaster
+    networks:
+      - ibmnet
+    volumes:
+      - es_data:/usr/share/elasticsearch/data
+
+  apim:
+    image: ibmcom/apiconnect:manager-${APIC_VERSION}
+    mem_limit: 2048m
+    volumes:
+      - apim_ihvar:/ihvar
+      - apim_wip:/wip
+      - config_ssh_keys:/keys:ro
+    environment:
+      - MANAGEMENT_CLUSTER_HOST=apim
+      - PORTAL_PRIVATE_KEY=/keys/portal
+      - PORTAL_PUBLIC_KEY=/keys/portal.pub
+      - PORTAL_LB=ibmportal
+      - ES_HOST=esmaster
+      - ES_PORT=9500
+      - SMTP_HOST
+      - SMTP_PORT
+      - SMTP_USERNAME
+      - SMTP_PASSWORD
+      - SMTP_SENDER
+      - LOGSTASH_HOST=ibmlogstash
+      - ACCEPT_LICENSE
+    container_name: apim
+    networks:
+      - ibmnet
+    depends_on:
+      - make-ssh-keys
+      - esmaster
+
+  ibmportal:
+    image: ibmcom/apiconnect:portal-${APIC_VERSION}
+    environment:
+      - PORTAL_LB=ibmportal
+      - PORTAL_PUBLIC_KEY=/keys/portal.pub
+      - APIC_HOST=apim
+      - SMTP_HOST
+      - SMTP_PORT
+      - SMTP_USERNAME
+      - SMTP_PASSWORD
+      - SMTP_SENDER
+      - ACCEPT_LICENSE
+    volumes:
+      - ibmportal_var:/var
+      - ibmportal_etc:/etc
+      - config_ssh_keys:/keys:ro
+    container_name: ibmportal
+    depends_on:
+      - make-ssh-keys
+      - apim
+    networks:
+      - ibmnet
+
+  microgateway:
+    build: microgateway
+    environment:
+      - APIC_HOST=apim
+    container_name: microgateway
+    volumes:
+      - config_ssh_keys:/keys:ro
+    depends_on:
+      - make-ssh-keys
+      - apim
+    networks:
+      - ibmnet
+
+  microservice:
+    build: microservice
+    container_name: microservice
+    networks:
+      - ibmnet
+
+  logstash:
+    image: ibmcom/apiconnect:logstash-${APIC_VERSION}
+    environment:
+      - ES_HOST=esmaster
+      - MGMT_HOST=apim
+      - DB_HOST=apim
+      - ACCEPT_LICENSE
+    networks:
+      - ibmnet
+    container_name: ibmlogstash
+    depends_on:
+      - apim
+      - esmaster
+
+  nginx:
+    build: sni-proxy
+    environment:
+      - PORTAL_DNS=ibmportal
+      - APIM_DNS=apim
+      - GATEWAY_DNS=microgateway
+    ports:
+      - "443:443"
+    container_name: nginx
+    depends_on:
+      - ibmportal
+      - microgateway
+      - apim
+    networks:
+      - ibmnet
+
+volumes:
+  config_ssh_keys:
+  apim_ihvar:
+  apim_wip:
+  ibmportal_var:
+  ibmportal_etc:
+  es_data:
+
+networks:
+  ibmnet:
+
