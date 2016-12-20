@@ -2,7 +2,7 @@
 
 ## Overview
 
-The IBM API Connect on Docker combines the power of [IBM API Connect] and with the flexibility of Docker.
+The IBM API Connect on Docker combines the power of [IBM API Connect] with the flexibility of Docker.
 
 [IBM API Connect] is an API management solution that addresses critical aspects of the API lifecycle providing the capability to create, run, manage and secure APIs and microservices.
 
@@ -26,17 +26,17 @@ You can assert license acceptance by specifying the environment variable `ACCEPT
 ## Environment Setup
 Before run the package, you need to edit .env file to access license and set SMTP configuration.
 ```
-ACCEPT_LICENSE=true                 (required)
-SMTP_HOST=x.x.x.x                   (required, SMTP server)
-SMTP_PORT=25                        (required, SMTP port)
-SMTP_SENDER=someone@changeme.com    (required, the email sender)
-SMTP_USERNAME=user@changeme.com     (optional, user credential to send email)
-SMTP_PASSWORD=xxxxxxxxx             (optional, unless SMTP_USERNAME is set)
+ACCEPT_LICENSE=true                         (required)
+SMTP_HOST=smtp_server_hostname_or_address   (required)
+SMTP_PORT=smtp_port_value                   (required)
+SMTP_SENDER=sender_email_address            (required)
+SMTP_USERNAME=smtp_username                 (optional)
+SMTP_PASSWORD=smtp_password                 (optional, unless SMTP_USERNAME is set)
 ```
 
 ## Startup Options
 
-There are 2 options to run IBM API Connect on Docker package. You can either choose DataPower Gateway or Micro Gateway as your gateway service. Please refer to the following link for detailed steps.
+There are 2 options to run IBM API Connect on Docker package. You can either use DataPower Gateway or Micro Gateway as the gateway service. Please refer to the following link for detailed steps.
 
 * [Using DataPower Gateway](https://github.com/strongloop/apiconnect-docker/blob/master/README-datapower.md)
 * [Using Micro Gateway](https://github.com/strongloop/apiconnect-docker/blob/master/README-microgateway.md)
