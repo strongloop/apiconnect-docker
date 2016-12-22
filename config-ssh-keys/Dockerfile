@@ -1,6 +1,6 @@
-FROM centos
+FROM fedora:24
 ADD genkey.sh /
-RUN yum install -y openssh-clients openssl && \
+RUN dnf install -y openssh-clients openssl && \
     chmod +x /genkey.sh
 CMD /genkey.sh
 VOLUME /keys
