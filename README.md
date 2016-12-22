@@ -2,21 +2,24 @@
 
 ## Overview
 
-The IBM API Connect on Docker combines the power of [IBM API Connect] with the flexibility of Docker.
+Designed for organizations looking to streamline and accelerate their journey into the API economy, [IBM API Connect] is a comprehensive management solution that addresses all four aspects of the API lifecycle: create, run, manage and secure. This makes API Connect far more cost-effective than limited point solutions that focus on just a few lifecycle phases and can end up collectively costing more as organizations piece components together.
 
-[IBM API Connect] is an API management solution that addresses critical aspects of the API lifecycle providing the capability to create, run, manage and secure APIs and microservices.
+By installing IBM® API Connect Docker images, you can run a complete IBM API Connect on-premises environment on your local machine.
 
-## Usage
-
-[IBM API Connect Product Documentation] describes in detail how to use IBM API Connect.
-
+## System Requirements
 This package requires a minimum of 8GB RAM and 2 CPUs.
+
+You must install the following software on a supported operating system:
+
+* docker 1.12.0 or later.
+* docker-compose 1.8.1 or later.
+* IBM API Connect Toolkit
 
 ## License Acceptance
 
 To use the package, you must accept the license terms. If you do not assert that you have accepted the license, the IBM API Connect services will not start successfully.
 
-You can view the license files directly in the package LICENSE.txt, non_ibm_license.txt and notices.txt, or with the command
+You can view all the license files directly in the package: LICENSE.txt, non_ibm_license.txt and notices.txt, or with the command
 ```
 docker run -it --rm --env SHOW_LICENSE=1 ibmcom/apiconnect:manager-v5.0.6.0
 ```
@@ -36,7 +39,7 @@ SMTP_PASSWORD=smtp_password                 (optional, unless SMTP_USERNAME is s
 
 ## Startup Options
 
-There are 2 options to run IBM API Connect on Docker package. You can either use DataPower Gateway or Micro Gateway as the gateway service. Please refer to the following link for detailed steps.
+There are 2 options to run IBM API Connect docker images. You can either use DataPower Gateway or Micro Gateway as the gateway service. Please refer to the following link for detailed steps.
 
 * [Using DataPower Gateway](https://github.com/strongloop/apiconnect-docker/blob/master/README-datapower.md)
 * [Using Micro Gateway](https://github.com/strongloop/apiconnect-docker/blob/master/README-microgateway.md)
@@ -48,13 +51,6 @@ There are 2 options to run IBM API Connect on Docker package. You can either use
 * [Micro Gateway]
 * [LoopBack]
 
-## License
-
-View the license files directly in the package LICENSE.txt, non_ibm_license.txt and notices.txt, or with the command
-
-```
-docker run -it --rm --env SHOW_LICENSE=1 ibmcom/apiconnect:manager-v5.0.6.0
-```
 
 [IBM API Connect Product Documentation]: <http://www.ibm.com/support/knowledgecenter/SSMNED>
 [IBM API Connect]:  <http://www-03.ibm.com/software/products/en/api-connect>
