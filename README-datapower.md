@@ -39,9 +39,10 @@ To enable access to all the services, edit your local /etc/hosts file to map the
     ```
 * Accept the license agreement.
 * On the `Create your profile` page, enter your email address, and a new password, then click `Update profile`. The Cloud Manager user interface opens.
+* Make sure the SMTP service is reachable. Click `Settings` icon ![Settings](images/icon_service_settings.jpg), select `Email`, fill in information, and select `Test Configuration`.
 * Configure the Management service
 
-    Click `Services`. Then in the `DataPower Services` pane, click `Service Settings` icon ![Service Settings](images/icon_service_settings.jpg). Enter
+    Click `Services` icon ![Services](images/icon_navigate_to.png). Then in the `DataPower Services` pane, click `Service Settings` icon ![Service Settings](images/icon_service_settings.jpg). Enter
 
     ```
     Address: datapower
