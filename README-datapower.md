@@ -29,7 +29,7 @@ To enable access to all the services, edit your local /etc/hosts file to map the
 <docker-host-ip> apim datapower ibmportal microservice
 ```
 
-### 2.  Configuring your IBM API Connec cloud
+### 2.  Configuring your IBM API Connect cloud
 * In a web browser, enter the URL <https://apim/cmc/>, the cloud console login window opens.
 * Log in with the following credentials:
 
