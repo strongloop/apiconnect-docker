@@ -11,6 +11,7 @@ stream {
         PORTAL  portal_backend;
         APIM    apim_backend;
         GATEWAY gateway_backend;
+        GWADMIN gateway_admin;
         default gateway_backend;
     }
 
@@ -24,6 +25,9 @@ stream {
 
     upstream gateway_backend {
         server GATEWAY:443;
+    }
+    upstream gateway_admin {
+        server GATEWAY:9090;
     }
 
     server {
