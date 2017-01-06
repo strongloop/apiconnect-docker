@@ -2,8 +2,10 @@ PODATKI O LICENCIRANJU
 
 Spodaj navedeni programi so licencirani na podlagi naslednjih določb in pogojev licenčne informacije, ki veljajo poleg pogojev licence za program, s katerimi naročnik in IBM predhodno soglašata. Če naročnik predhodno ne soglaša s pogoji, ki veljajo za program, velja Mednarodna licenčna pogodba za programe brez garancije (Z125-5589-05).
 
-Ime programa: IBM API Connect on Docker V5.0
-Številka programa: 5725-Z22
+Ime programa (Številka programa):
+IBM API Connect on Docker V5.0 (5725-Z22)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
 
 Podporni programi
 
@@ -38,6 +40,7 @@ Ne glede na te izjeme veljajo v Nemčiji in Avstriji za IBM-ovo garancijo in odg
 Opomba: IBM lahko za nekatere ločeno licencirane kode nudi omejeno podporo. Če je na voljo takšna podpora, bodo podrobnosti in vsi dodatni pogoji, povezani s takšno podporo, določeni v dokumentu s podatki o licenciranju.
 
 Sledijo ločeno licencirane kode:
+aajohan-comfortaa-fonts
 acl
 acpi
 acpid
@@ -76,6 +79,7 @@ base-files
 base-lsb
 base-passwd
 bash
+bash-completion
 bc
 Bean (drupal)
 better_exposed_filters (drupal...
@@ -106,12 +110,15 @@ console-setup
 content_access (drupal)
 context (drupal)
 coreutils
+coreutils-common
 cpio
 cracklib
 cracklib-dicts
 cron
 cronie
 crontabs
+crypto-policies
+crypto-policies
 cryptsetup-libs
 cryptsetup-luks
 csync2
@@ -135,6 +142,10 @@ diffutils
 discover
 dmidecode
 dmsetup
+dnf
+dnf-conf
+dnf-plugins-core
+dnf-yum
 dnsmasq
 dpkg
 dracut
@@ -153,6 +164,8 @@ eggdbus
 eject
 ejectorseat (drupal)
 elfutils
+elfutils-default-yama-scope
+emacs-filesystem
 entity (drupal)
 Entity API (drupal)
 Entity Reference (drupal)
@@ -189,11 +202,14 @@ git-core
 git-man
 glib2
 glibc
+glibc-all-langpacks
+glibc-all-langpacks
 glibc-common
 gmp
 GNU Libtool
 gnupg
 gnupg2
+gnutls
 gnutls
 gobject-introspection
 gpgme
@@ -212,7 +228,10 @@ grub-pc
 grub-pc-bin
 gtfs
 gtk2
+guile
 gzip
+hawkey
+hawkey
 Hibernate
 hicolor-icon-theme
 hide_submit (Drupal)
@@ -231,7 +250,7 @@ igb-kmod
 Image CAPTCHA Refresh (drupal)
 Images
 IMCE
-IMCE (drupal)
+IMCE  (drupal)
 imce_wysiwyg
 imce_wysiwyg (drupal)
 index-debug.html
@@ -257,6 +276,7 @@ ixgbe-kmod
 java-common
 jq
 jQuery Update (drupal)
+js
 JSONSelect site
 kbd
 kernel
@@ -290,6 +310,7 @@ libasprintf0c2:amd64
 libassuan
 libasyncns
 libatm1
+libatomic_ops
 libattr
 libattr1
 libattr1:amd64
@@ -312,6 +333,7 @@ libcgroup
 libclass-isa-perl
 libcmpiutil
 libcomerr2
+libcomps
 libcryptsetup4
 libcryptsetup4:amd64
 libcwidget3
@@ -328,6 +350,8 @@ libept1.4.12
 liberror-perl
 libestr0
 libev4
+libfdisk
+libfdisk
 libfdisk1
 libfile-copy-recursive-perl
 libfreetype6
@@ -376,6 +400,7 @@ libkeyutils1:amd64
 libklibc
 libkmod2
 libkmod2:amd64
+libksba
 liblcms2-2:amd64
 liblocale-gettext-perl
 libltdl7
@@ -432,6 +457,9 @@ libreadline5
 libreadline5:amd64
 libreadline6
 libreadline6:amd64
+librepo
+librepo
+libreport-filesystem
 librsync1
 librsync1:amd64
 librtmp0
@@ -443,7 +471,11 @@ libsasl2-2:amd64
 libsasl2-modules
 libsasl2-modules:amd64
 libsasl2-modules-db
+libseccomp
+libseccomp
 libseccomp2
+libsecret
+libsecret
 libselinux
 libselinux1
 libselinux1:amd64
@@ -456,6 +488,7 @@ libsepol1
 libsepol1:amd64
 libsigc++-2.0-0c2a
 libsigc++-2.0-0c2a:amd64
+libsigsegv
 libsigsegv2
 libslang2
 libslang2:amd64
@@ -465,6 +498,8 @@ libsndfile
 libss
 libss2
 libss2:amd64
+libsss_idmap
+libsss_nss_idmap
 libstdc++
 libstdc++6
 libstdc++6:amd64
@@ -483,10 +518,13 @@ libtext-iconv-perl
 libtext-wrapi18n-perl
 libthai
 libtool
+libtool-ltdl
+libtool-ltdl
 libudev0
 libudev0:amd64
 libudev1
 libudev1:amd64
+libunistring
 libusb
 libusb-0.1-4
 libusb-0.1-4:amd64
@@ -507,8 +545,11 @@ linkit
 linkit (drupal)
 linkit_picker
 linkit_picker (drupal)
+linux-atm-libs
+linux-atm-libs
 linux-base
 linux-image-3.2.0
+lksctp-tools
 lksctp-tools
 lm_sensors
 locales
@@ -519,6 +560,8 @@ lsb-release
 lsof
 lsyncd
 lvm2
+lz4
+lzo
 lzo
 lzop
 m4
@@ -548,6 +591,8 @@ mingetty
 module-init-tools
 motif
 mount
+mozjs17
+mpfr
 mptlinux-kmod
 multiarch-support
 mysql
@@ -556,6 +601,7 @@ nano
 netbase
 netcat-traditional
 netcf
+nettle
 net-tools
 newt
 nfs-utils
@@ -567,6 +613,7 @@ no_autocomplete (drupal)
 node_clone (drupal)
 notifications (drupal)
 notifications_forum (drupal)
+npth
 nss-pam-ldapd
 ntp
 ntpdate
@@ -614,6 +661,12 @@ pkg-config
 plymouth
 pm-utils
 polkit
+polkit
+polkit
+polkit-libs
+polkit-libs
+polkit-pkla-compat
+polkit-pkla-compat
 portreserve
 prelink
 procmail
@@ -628,6 +681,17 @@ pyliblzma
 python
 python2.7
 python2.7-minimal
+python2-pygpgme
+python2-pygpgme
+python3-dnf
+python3-dnf-plugins-core
+python3-hawkey
+python3-hawkey
+python3-libcomps
+python3-librepo
+python3-librepo
+python3-pygpgme
+python3-pygpgme
 python-apt
 python-apt-common
 python-chardet
@@ -650,6 +714,8 @@ rng-tools
 rpm
 rpm-build-libs
 rpm-libs
+rpm-plugin-selinux
+rpm-plugin-systemd-inhibit
 rpm-python
 rsync
 rsyslog
@@ -688,6 +754,7 @@ spice-server
 ssh-import-id
 sshpass
 ssmtp
+sssd-client
 startpar
 StatsD (drupal)
 stickynav (drupal)
@@ -716,6 +783,7 @@ tfa (drupal)
 tfa_basic
 tfa_basic (drupal)
 time
+timedatex
 tinyMCE
 tmpreaper
 Token (Drupal)
@@ -785,6 +853,8 @@ Izvorne komponente in vzorčno gradivo
 
 Program lahko vključuje nekatere komponente v obliki izvorne kode ("izvorne komponente") in drugo gradivo, imenovano "vzorčno gradivo". Imetnik licence lahko kopira in spreminja izvorne komponente ter vzorčno gradivo za notranjo uporabo samo v primeru, da je takšna uporaba v okviru licenčnih pravic, določenih v tej pogodbi, vendar imetnik licence ne sme spreminjati ali brisati kakršnihkoli informacij o avtorstvu ali obvestil v izvornih komponentah ali vzorčnem gradivu. IBM ponuja izvorne komponente in vzorčno gradivo brez obveznosti za podporo in "TAKŠNO, KAKRŠNO JE", BREZ GARANCIJ KAKRŠNEKOLI VRSTE, PA NAJ BODO IZRECNE ALI NAKAZANE, KAR VKLJUČUJE TUDI GARANCIJO ZA NASLOV, NEKRŠENJE ALI NEOVIRANJE IN ZAKONSKE GARANCIJE IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOČEN NAMEN.
 
+Za uporabo programa s strani imetnika licence morda veljajo naslednje merske enote.
+
 Enota vrednosti procesorja (PVU)
 
 Enota vrednosti procesorja (PVU) je merska enota, na podlagi katere je lahko licenciran program. Število zahtevanih pooblastil PVU temelji na procesorski tehnologiji (definirani v tabeli PVU-jev s proizvajalcem procesorja, znamko, tipom in številko modela na spletnem naslovu http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html) in na številu procesorjev, ki so na voljo za program. Za namen licenciranja, ki temelji na PVU-jih, definira IBM kot procesor vsako procesorsko jedro na čipu. Tako ima na primer procesorski čip z dvema jedroma dve procesorski jedri.
@@ -793,9 +863,9 @@ Imetnik licence lahko namesti program z licenciranjem celotne kapacitete ali z l
 
 * Aktivirano procesorsko jedro je procesorsko jedro, ki je na voljo za uporabo na fizičnem ali navideznem strežniku, ne glede na to, ali je kapaciteta procesorskega jedra lahko omejena ali je omejena z virtualizacijskimi tehnologijami, ukazi operacijskega sistema, nastavitvami BIOS ali podobnimi omejitvami.
 
-L/N:  L-CLIG-AGFKQ9
-D/N:  L-CLIG-AGFKQ9
-P/N:  L-CLIG-AGFKQ9
+L/N:  L-CLIG-AHAM7K
+D/N:  L-CLIG-AHAM7K
+P/N:  L-CLIG-AHAM7K
 
 
 Mednarodna licenčna pogodba za programe brez garancije

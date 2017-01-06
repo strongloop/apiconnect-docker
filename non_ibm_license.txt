@@ -20,6 +20,7 @@ Code and its related agreements that are not used by, or that were not
 shipped with, the Program as Licensee installed it.
 
 The following are Separately Licensed Code:
+aajohan-comfortaa-fonts
 acl
 acpi
 acpid
@@ -58,6 +59,7 @@ base-files
 base-lsb
 base-passwd
 bash
+bash-completion
 bc
 Bean (drupal)
 better_exposed_filters (drupal...
@@ -88,12 +90,15 @@ console-setup
 content_access (drupal)
 context (drupal)
 coreutils
+coreutils-common
 cpio
 cracklib
 cracklib-dicts
 cron
 cronie
 crontabs
+crypto-policies
+crypto-policies
 cryptsetup-libs
 cryptsetup-luks
 csync2
@@ -117,6 +122,10 @@ diffutils
 discover
 dmidecode
 dmsetup
+dnf
+dnf-conf
+dnf-plugins-core
+dnf-yum
 dnsmasq
 dpkg
 dracut
@@ -135,6 +144,8 @@ eggdbus
 eject
 ejectorseat (drupal)
 elfutils
+elfutils-default-yama-scope
+emacs-filesystem
 entity (drupal)
 Entity API (drupal)
 Entity Reference (drupal)
@@ -171,11 +182,14 @@ git-core
 git-man
 glib2
 glibc
+glibc-all-langpacks
+glibc-all-langpacks
 glibc-common
 gmp
 GNU Libtool
 gnupg
 gnupg2
+gnutls
 gnutls
 gobject-introspection
 gpgme
@@ -194,7 +208,10 @@ grub-pc
 grub-pc-bin
 gtfs
 gtk2
+guile
 gzip
+hawkey
+hawkey
 Hibernate
 hicolor-icon-theme
 hide_submit (Drupal)
@@ -213,7 +230,7 @@ igb-kmod
 Image CAPTCHA Refresh (drupal)
 Images
 IMCE
-IMCE (drupal)
+IMCE  (drupal)
 imce_wysiwyg
 imce_wysiwyg (drupal)
 index-debug.html
@@ -239,6 +256,7 @@ ixgbe-kmod
 java-common
 jq
 jQuery Update (drupal)
+js
 JSONSelect site
 kbd
 kernel
@@ -272,6 +290,7 @@ libasprintf0c2:amd64
 libassuan
 libasyncns
 libatm1
+libatomic_ops
 libattr
 libattr1
 libattr1:amd64
@@ -294,6 +313,7 @@ libcgroup
 libclass-isa-perl
 libcmpiutil
 libcomerr2
+libcomps
 libcryptsetup4
 libcryptsetup4:amd64
 libcwidget3
@@ -310,6 +330,8 @@ libept1.4.12
 liberror-perl
 libestr0
 libev4
+libfdisk
+libfdisk
 libfdisk1
 libfile-copy-recursive-perl
 libfreetype6
@@ -358,6 +380,7 @@ libkeyutils1:amd64
 libklibc
 libkmod2
 libkmod2:amd64
+libksba
 liblcms2-2:amd64
 liblocale-gettext-perl
 libltdl7
@@ -414,6 +437,9 @@ libreadline5
 libreadline5:amd64
 libreadline6
 libreadline6:amd64
+librepo
+librepo
+libreport-filesystem
 librsync1
 librsync1:amd64
 librtmp0
@@ -425,7 +451,11 @@ libsasl2-2:amd64
 libsasl2-modules
 libsasl2-modules:amd64
 libsasl2-modules-db
+libseccomp
+libseccomp
 libseccomp2
+libsecret
+libsecret
 libselinux
 libselinux1
 libselinux1:amd64
@@ -438,6 +468,7 @@ libsepol1
 libsepol1:amd64
 libsigc++-2.0-0c2a
 libsigc++-2.0-0c2a:amd64
+libsigsegv
 libsigsegv2
 libslang2
 libslang2:amd64
@@ -447,6 +478,8 @@ libsndfile
 libss
 libss2
 libss2:amd64
+libsss_idmap
+libsss_nss_idmap
 libstdc++
 libstdc++6
 libstdc++6:amd64
@@ -465,10 +498,13 @@ libtext-iconv-perl
 libtext-wrapi18n-perl
 libthai
 libtool
+libtool-ltdl
+libtool-ltdl
 libudev0
 libudev0:amd64
 libudev1
 libudev1:amd64
+libunistring
 libusb
 libusb-0.1-4
 libusb-0.1-4:amd64
@@ -489,8 +525,11 @@ linkit
 linkit (drupal)
 linkit_picker
 linkit_picker (drupal)
+linux-atm-libs
+linux-atm-libs
 linux-base
 linux-image-3.2.0
+lksctp-tools
 lksctp-tools
 lm_sensors
 locales
@@ -501,6 +540,8 @@ lsb-release
 lsof
 lsyncd
 lvm2
+lz4
+lzo
 lzo
 lzop
 m4
@@ -530,6 +571,8 @@ mingetty
 module-init-tools
 motif
 mount
+mozjs17
+mpfr
 mptlinux-kmod
 multiarch-support
 mysql
@@ -538,6 +581,7 @@ nano
 netbase
 netcat-traditional
 netcf
+nettle
 net-tools
 newt
 nfs-utils
@@ -549,6 +593,7 @@ no_autocomplete (drupal)
 node_clone (drupal)
 notifications (drupal)
 notifications_forum (drupal)
+npth
 nss-pam-ldapd
 ntp
 ntpdate
@@ -596,6 +641,12 @@ pkg-config
 plymouth
 pm-utils
 polkit
+polkit
+polkit
+polkit-libs
+polkit-libs
+polkit-pkla-compat
+polkit-pkla-compat
 portreserve
 prelink
 procmail
@@ -610,6 +661,17 @@ pyliblzma
 python
 python2.7
 python2.7-minimal
+python2-pygpgme
+python2-pygpgme
+python3-dnf
+python3-dnf-plugins-core
+python3-hawkey
+python3-hawkey
+python3-libcomps
+python3-librepo
+python3-librepo
+python3-pygpgme
+python3-pygpgme
 python-apt
 python-apt-common
 python-chardet
@@ -632,6 +694,8 @@ rng-tools
 rpm
 rpm-build-libs
 rpm-libs
+rpm-plugin-selinux
+rpm-plugin-systemd-inhibit
 rpm-python
 rsync
 rsyslog
@@ -670,6 +734,7 @@ spice-server
 ssh-import-id
 sshpass
 ssmtp
+sssd-client
 startpar
 StatsD (drupal)
 stickynav (drupal)
@@ -698,6 +763,7 @@ tfa (drupal)
 tfa_basic
 tfa_basic (drupal)
 time
+timedatex
 tinyMCE
 tmpreaper
 Token (Drupal)
@@ -756,8 +822,7 @@ yum-utils
 
 The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU General Public License version 2.
 
-Acl,acpi,acpid,acpi-support,adaptivetheme (drupal),addressfield (drupal),AddToAny (drupal),adduser,admin_menu (drupal),adminimal_admin_menu (drupal),adminimal_theme (drupal),advagg (drupal),Advanced Forum (drupal),Advanced syslog (drupal),alpha_pagination,apt,aptitude,aptitude-common,apt-transport-https,apt-utils,AT Tools (drupal),audit-libs,Automated Logout (drupal),base-files,base-passwd,Bean (drupal),better_exposed_filters (drupal...,bind9-host,binutils,Block Class (drupal),Block Class Styles (drupal),BOA,bsdutils,ca-certificates,CAPTCHA (Drupal),chain_menu_access,chkconfig,console-setup,content_access (drupal),context (drupal),cpio,cron,csync2,CTools (drupal),d3 (drupal),dash,dbus,dbus-libs,debian-archive-keyring,debianutils,dictionaries-common,discover,dmidecode,dmsetup,dpkg,Drafty (Drupal),Drupal,drupal_helpers (drupal),drush_language (drupal),e2fslibs,e2fslibs:amd64,e2fsprogs,eject,ejectorseat (drupal),entity (drupal),Entity API (drupal),Entity Reference (drupal),FAQ (drupal),Farbtastic,field_group (drupal),findutils,fipscheck,Fivestar (drupal),Flag (Drupal),flood_control,follow,forum_access,frameprevention (drupal),gettext-base,git,git-core,git-man,glibc,glibc-common,Group (drupal),hide_submit (Drupal),Hierachical Select (Drupal),hierarchical_select,hierarchical_select (drupal),hostname,Htmlmail (drupal),httprl (drupal),hybridauth (drupal),i18n (drupal),ifupdown,Image CAPTCHA Refresh (drupal),IMCE,imce_wysiwyg,initramfs-tools,initscripts,insserv,installation-report,iproute,iproute2,iptables,iputils,iputils-ping,java-common,jq,jQuery Update (drupal),kbd,keyboard-configuration,klibc-utils,kmod,kpartx,l10n_update,LDAP (drupal),legal (drupal),libapt-inst1.5,libapt-pkg4.12,libapt-pkg4.12:amd64,libapt-pkg5.0,libaudit1,libaudit1:amd64,libaudit-common,libblkid1,libblkid1:amd64,libbz2-1.0,libbz2-1.0:amd64,libc6,libcap2,libcap2-bin,libcap-ng,libc-bin,libclass-isa-perl,libcomerr2,libcryptsetup4,libcryptsetup4:amd64,libcwidget3,libdb5.1,libdbd-mysql-perl,libdbi-perl,libdevmapper1.02.1,libdevmapper-event1.02.1,libdiscover2,libev4,libfdisk1,libfuse2,libgcrypt11,libgd2-xpm,libgd3,libgdbm3,libgdbm3:amd64,libgpm2,libhtml-template-perl,libjbig0,libjbig0:amd64,libjpeg-turbo,libkeyutils1,libklibc,libkmod2,liblcms2-2:amd64,liblocale-gettext-perl,libltdl7,liblz4-1,libmariadbclient18,libmnl0,libmount1,libmount1:amd64,libmysqlclient18,libmysqlclient20,libnetfilter_conntrack,libnettle4:amd64,libnfnetlink,libnih,libp11-kit0,libp11-kit0:amd64,libpci3,libperconaserverclient18.1,libpng12-0,libpopt0,libprocps0,libprocps3:amd64,libqdbm14,Libraries API (drupal),libreadline5,libreadline6,librtmp0,libselinux,libselinux1,libselinux1:amd64,libsemanage1,libsemanage-common,libsepol1,libsigsegv2,libslang2,libsmartcols1,libsmartcols1:amd64,libss,libss2,libss2:amd64,libswitch-perl,libt,libt1-5 ,libtext-charwidth-perl,libtext-iconv-perl,libtext-wrapi18n-perl,libudev0,libudev1,libustr-1.0-1,libuuid1,libuuid-perl,libxapian22,libxtables11,linkchecker (drupal),linkit,linkit_picker,linux-base,linux-image-3.2.0,locales,login,logrotate,lsb-base,lsb-release,lsof,lsyncd,lvm2,Mailsystem (drupal),make,man-db,manpages,mariadb-client-5.5,mariadb-client-core-5.5,mariadb-common,mariadb-galera-server,mariadb-galera-server-5.5,markdown (drupal),mawk,menu_item_visibility (drupal),messaging (drupal),metatag (drupal),mime-support,module-init-tools,mount,multiarch-support,mysql-common,netbase,netcat-traditional,net-tools,nginx,nginx-common,nginx-full,no_autocomplete (drupal),node_clone (drupal),notifications (drupal),notifications_forum (drupal),ntpdate,openjdk-8-jre-headless:amd64,openssh-blacklist,openssh-blacklist-extra,openssh-sftp-server,os-prober,pam,Panels (drupal),passwd,Password policy (drupal),patch,Pathologic (drupal),pciutils,percona-xtrabackup,Percona-XtraDB-Cluster,percona-xtradb-cluster-client-5.6,percona-xtradb-cluster-common-5.6,percona-xtradb-cluster-galera-3,percona-xtradb-cluster-galera-3.x,perl,perl-base,perl-modules,perl-modules-5.22,PHPMailer (drupal),pinentry,pkgconfig,procps,psmisc,python,python2.7,python2.7-minimal,python-apt,python-apt-common,pytho
-n-gnupginterface,python-minimal,python-software-properties,python-support,readline-common,restrict_by_ip (drupal),restws (drupal),rpm,rpm-build-libs,rpm-libs,rpm-python,Rules_http_client (drupal),search_autocomplete (drupal),search_config (drupal),search404 (drupal),seckit (drupal),security_questions (drupal),sed,sensible-utils,session_limit (drupal),sgml-base,shared-mime-info,Simple Dialog,simplesamlphp_auth (drupal),site_test (drupal),site_test_helpers (drupal),slick (drupal),slick_extras (drupal),slick_views (drupal),socat,sshpass,startpar,StatsD (drupal),stickynav (drupal),Support Ticketing System (drupal),syslog-ng,sysvinit,sysvinit-utils,sysv-rc,TagCloud (drupal),tar,tasksel,tasksel-data,taxonomy_menu,taxonomy_menu_block (drupal),tfa,tfa_basic,tmpreaper,Token (Drupal),traceroute,Translation helpers (drupal),transliteration (drupal),Twitter Timeline (drupal),ubuntu-keyring,ucf,Ulimate Cron (Drupal),unattended-upgrades,underscore.js (drupal),update-inetd,upstart,user_pwreset_timeout (Drupal),usersearchtoadmin (Drupal),ustr,util-linux,util-linux-locales,Variable (drupal),Views (drupal),Views data export (Drupal),Views_bulk_operations (drupal),views_send (drupal),vim-minimal,Voting API (drupal),VPPR (drupal),wget,workbench (drupal),workbench_moderation (drupal),Wysiwig (drupal),x11-common,xautoload (drupal),xdg-user-dirs,xml-core,xtrabackup,yum,yum-metadata-parser,yum-plugin-fastestmirror,yum-plugin-ovl,yum-utils
+Acl,acpi,acpid,acpi-support,adaptivetheme (drupal),addressfield (drupal),AddToAny (drupal),adduser,admin_menu (drupal),adminimal_admin_menu (drupal),adminimal_theme (drupal),advagg (drupal),Advanced Forum (drupal),Advanced syslog (drupal),alpha_pagination,apt,aptitude,aptitude-common,apt-transport-https,apt-utils,AT Tools (drupal),audit-libs,Automated Logout (drupal),base-files,base-passwd,bash-completion,Bean (drupal),better_exposed_filters (drupal...,bind9-host,binutils,Block Class (drupal),Block Class Styles (drupal),BOA,bsdutils,ca-certificates,CAPTCHA (Drupal),chain_menu_access,chkconfig,console-setup,content_access (drupal),context (drupal),cpio,cron,csync2,CTools (drupal),d3 (drupal),dash,dbus,dbus-libs,debian-archive-keyring,debianutils,dictionaries-common,discover,dmidecode,dmsetup,dnf,dnf-conf,dnf-plugins-core,dnf-yum,dpkg,Drafty (Drupal),Drupal,drupal_helpers (drupal),drush_language (drupal),e2fslibs,e2fslibs:amd64,e2fsprogs,eject,ejectorseat (drupal),entity (drupal),Entity API (drupal),Entity Reference (drupal),FAQ (drupal),Farbtastic,field_group (drupal),findutils,fipscheck,Fivestar (drupal),Flag (Drupal),flood_control,follow,forum_access,frameprevention (drupal),gettext-base,git,git-core,git-man,glibc,glibc-common,Group (drupal),hide_submit (Drupal),Hierachical Select (Drupal),hierarchical_select,hierarchical_select (drupal),hostname,Htmlmail (drupal),httprl (drupal),hybridauth (drupal),i18n (drupal),ifupdown,Image CAPTCHA Refresh (drupal),IMCE,imce_wysiwyg,initramfs-tools,initscripts,insserv,installation-report,iproute,iproute2,iptables,iputils,iputils-ping,java-common,jq,jQuery Update(drupal),kbd,keyboard-configuration,klibc-utils, kmod,kpartx,l10n_update,LDAP (drupal),legal(drupal),libapt-inst1.5,libapt-pkg4.12,libapt-pkg4.12:amd64,libapt-pkg5.0,libatomic_ops,libaudit1,libaudit1:amd64,libaudit-common,libblkid1,libblkid1:amd64, libbz2-1.0,libbz2-1.0:amd64,libc6,libcap2,libcap2-bin,libcap-ng,libc-bin,libclass-isa-perl,libcomerr2,libcomps,libcryptsetup4,libcryptsetup4:amd64,libcwidget3,libdb5.1,libdbd-mysql-perl,libdbi-perl,libdevmapper1.02.1,libdevmapper-event1.02.1,libdiscover2,libev4,libfdisk1,libfuse2,libgcrypt11,libgd2-xpm,libgd3,libgdbm3,libgdbm3:amd64,libgpm2,libhtml-template-perl,libjbig0,libjbig0:amd64,libjpeg-turbo,libkeyutils1,libklibc,libkmod2,liblcms2-2:amd64,liblocale-gettext-perl,libltdl7,liblz4-1,libmariadbclient18,libmnl0,libmount1,libmount1:amd64,libmysqlclient18,libmysqlclient20,libnetfilter_conntrack,libnettle4:amd64,libnfnetlink,libnih,libp11-kit0,libp11-kit0:amd64,libpci3,libperconaserverclient18.1,libpng12-0,libpopt0,libprocps0,libprocps3:amd64,libqdbm14,Libraries API (drupal),libreadline5,libreadline6, libreport-filesystem,librtmp0,libselinux,libselinux1,libselinux1:amd64,libsemanage1,libsemanage-common,libsepol1,libsigsegv,libsigsegv2,libslang2,libsmartcols1,libsmartcols1:amd64,libss,libss2,libss2:amd64,libswitch-perl,libt,libt1-5 ,libtext-charwidth-perl,libtext-iconv-perl,libtext-wrapi18n-perl,libudev0,libudev1,libustr-1.0-1,libuuid1,libuuid-perl,libxapian22,libxtables11,linkchecker (drupal),linkit, linkit_picker,linux-base,linux-image-3.2.0,lksctp-tools,locales,login,logrotate,lsb-base,lsb-release,lsof,lsyncd,lvm2,lz4,lzo,Mailsystem (drupal),make,man-db,manpages,mariadb-client-5.5, mariadb-client-core-5.5,mariadb-common,mariadb-galera-server,mariadb-galera-server-5.5,markdown (drupal),mawk,menu_item_visibility (drupal),messaging (drupal),metatag (drupal),mime-support, module-init-tools,mount,multiarch-support,mysql-common,netbase,netcat-traditional,net-tools,nginx,nginx-common,nginx-full,no_autocomplete (drupal),node_clone (drupal),notifications (drupal),notifications_forum (drupal),ntpdate,openjdk-8-jre-headless:amd64,openssh-blacklist,openssh-blacklist-extra,openssh-sftp-server,os-prober,pam,Panels (drupal),passwd,Password policy (drupal),patch,Pathologic(drupal),pciutils,percona-xtrabackup,Percona-XtraDB-Cluster,percona-xtradb-cluster-client-5.6,percona-xtradb-cluster-common-5.6,percona-xtradb-cluster-galera-3,percona-xtradb-cluster-galera-3.x,perl,perl-base,perl-modules,perl-modules-5.22,PHPMailer(drupal),pinentry,pkgconfig,procps,psmisc,python,python2.7,python2.7-minimal,python3-dnf,python3-dnf-plugins-core,python3-libcomps,python-apt,python-apt-common,python-gnupginterface,python-minimal,python-software-properties,python-support,readline-common,restrict_by_ip (drupal),restws (drupal),rpm,rpm-build-libs, rpm-libs,rpm-plugin-selinux,rpm-plugin-systemd-inhibit,rpm-python,Rules_http_client (drupal),search_autocomplete (drupal),search_config (drupal),search404 (drupal),seckit (drupal),security_questions (drupal),sed,sensible-utils,session_limit (drupal),sgml-base,shared-mime-info,Simple Dialog,simplesamlphp_auth (drupal),site_test (drupal),site_test_helpers (drupal),slick (drupal),slick_extras (drupal),slick_views (drupal),socat,sshpass,startpar,StatsD (drupal),stickynav (drupal),Support Ticketing System (drupal),syslog-ng,sysvinit,sysvinit-utils,sysv-rc,TagCloud (drupal),tar,tasksel, tasksel-data,taxonomy_menu,taxonomy_menu_block (drupal),tfa,tfa_basic,timedatex,tmpreaper,Token (Drupal),traceroute,Translation helpers (drupal),transliteration (drupal),Twitter Timeline (drupal),ubuntu-keyring,ucf,Ulimate Cron (Drupal),unattended-upgrades,underscore.js (drupal),update-inetd,upstart,user_pwreset_timeout (Drupal),usersearchtoadmin (Drupal),ustr, util-linux, util-linux-locales,Variable (drupal),Views (drupal),Views data export (Drupal),Views_bulk_operations (drupal),views_send (drupal),vim-minimal,Voting API (drupal),VPPR (drupal),wget,workbench (drupal),workbench_moderation (drupal),Wysiwig (drupal),x11-common,xautoload (drupal),xdg-user-dirs,xml-core,xtrabackup,yum,yum-metadata-parser,yum-plugin-fastestmirror,yum-plugin-ovl,yum-utils
 
 Note: Source code to any of the above-listed packages is available upon written request to the following address: IBM Corporation, Dept. QX3A, 3039 Cornwallis Rd., Research Triangle Park NC 27709. Identify the IBM product and the GPL-licensed program for which you are requesting the source code.
 
@@ -765,7 +830,7 @@ Note: Source code to any of the above-listed packages is available upon written 
 
 The Program includes some or all of the following licensed to you as Separately Licensed Code under the GNU Lesser General Public License version 2.1.
 
-aaa_base,acl,attr,bash,bc,bind,busybox,c3p0,coreutils,device-mapper,dialog,dmidecode,drbd,e2fsprogs,ethtool,filesystem,fillup,gawk,gdb,gdbm,git,git-core,git-man,glib2,glibc,gmp,gobject-introspection,grep,grub,gzip,hibernate,insserv,iproute2,iptables,ipvsadm,iso-codes,kernel,kexec-tools,keyutils,kmod,libacl,libacl1,libacl1:amd64,libaio1,libasprintf0c2:amd64,libatm1,libattr1,libattr1:amd64,libblkid,libc6,libc6:amd64,libc-bin,libdevmapper1.02.1,libdevmapper-event1.02.1,libept1.4.12,libestr0,libgcrypt11,libgcrypt20,libgcrypt20:amd64,libgeoip1:amd64,libgnutls26,libgnutls-openssl27,libgpg-error,libgpg-error0,libgpg-error0:amd64,libhogweed2:amd64,libhogweed4,libidn11,libjpeg8,libkmod2,liblzma5,libmnl,libnettle6,libnl,libnuma1,libqdbm14,librsync1,librtmp0,libsemanage1,libsemanage-common,libsepol,libsepol1,libsepol1:amd64,libsigc++-2.0-0c2a,libslang2:amd64,libstdcxx-compat,libsystemd0:amd64,libtasn1-3,libtasn1-6,libudev0,libusb,libusb-0.1-4:amd64,libustr-1.0-1,locales,logrotate,lvm2,mdadm,mingetty,module-init-,module-init-tools,multiarch-support,multipath-tools,netcfg,net-tools,numactl,open-iscsi,pam,pam_ldap,PCD,PHP SAML2,phpmailer,procps,psmisc,pygpgme,python-kitchen,python-pycurl,python-urlgrabber,readline,rpm,sed,seek-bzip,sharutils,simplesamlphp,strongswan,sysfsutils,sysstat,systemd,systemd-libs,systemd-sysv,termcap,tinyMCE,tools,traceroute,trustedgrub,udev,update-desktop-files,util-linux,vlan,wodim,xz-utils
+aaa_base,acl,attr,bash,bc,bind,busybox,c3p0,coreutils,crypto-policies,device-mapper,dialog,dmidecode,drbd,e2fsprogs,ethtool,filesystem,fillup,gawk,gdb,gdbm,git,git-core,git-man,glib2,glibc,glibc-all-langpacks,gmp,gobject-introspection,grep,grub,gzip,hawkey,hibernate,insserv,iproute2,iptables,ipvsadm,iso-codes,kernel,kexec-tools,keyutils,kmod,libacl,libacl1,libacl1:amd64,libaio1,libasprintf0c2:amd64,libatm1,libattr1,libattr1:amd64,libblkid,libc6,libc6:amd64,libc-bin,libdevmapper1.02.1,libdevmapper-event1.02.1,libept1.4.12,libestr0,libfdisk,libgcrypt11,libgcrypt20,libgcrypt20:amd64,libgeoip1:amd64,libgnutls26,libgnutls-openssl27,libgpg-error,libgpg-error0,libgpg-error0:amd64,libhogweed2:amd64,libhogweed4,libidn11,libjpeg8,libkmod2,liblzma5,libmnl,libnettle6,libnl,libnuma1,libqdbm14,librepo,librsync1,librtmp0,libseccomp,libsecret,libsemanage1,libsemanage-common,libsepol,libsepol1,libsepol1:amd64,libsigc++-2.0-0c2a,libslang2:amd64,libstdcxx-compat,libsystemd0:amd64,libtasn1-3,libtasn1-6,libtool-ltdl,libudev0,libusb,libusb-0.1-4:amd64,libustr-1.0-1,linux-atm-libs,locales,logrotate,lvm2,mdadm,mingetty,module-init-,module-init-tools,multiarch-support,multipath-tools,netcfg,net-tools,numactl,open-iscsi,pam,pam_ldap,PCD,PHP SAML2,phpmailer,polkit,polkit-libs,polkit-pkla-compat,procps,psmisc,pygpgme,python2-pygpgme,python3-hawkey,python3-librepo,python3-pygpgme,python-kitchen,python-pycurl, python-urlgrabber,readline,rpm,sed,seek-bzip,sharutils,simplesamlphp,strongswan,sysfsutils,sysstat,systemd,systemd-libs,systemd-sysv,termcap,tinyMCE,tools,traceroute,trustedgrub,udev,update-desktop-files,util-linux,vlan,wodim,xz-utils
 
 Note: Source code to any of the above-listed packages is available upon written request to the following address: IBM Corporation, Dept. QX3A, 3039 Cornwallis Rd., Research Triangle Park NC 27709. Identify the IBM product and the LGPL-licensed program for which you are requesting the source code.
 
@@ -773,7 +838,7 @@ Note: Source code to any of the above-listed packages is available upon written 
 
 This product contains certain code packages that are licensed pursuant to the terms of the GNU General Public License ("GPL") and/or the GNU Lesser General Public License ("LGPL"). Those terms are reproduced below for your reference. The code packages that are licensed under the GPL or LGPL version 2 include:
 
-cracklib,cracklib-dicts,cryptsetup-libs,debianutils,device-mapper,device-mapper-libs,dracut,elfutils-libelf,elfutils-libs,geoip-database,gpgme,keyutils-libs,kmod-libs,libaio,libaio-devel,libapparmor1,libattr,libavahi-common-data:amd64,libdb-utils,libdevmapper1.02.1:amd64,libfuse2,libgcrypt,libgeoip1,libgeoip1:amd64,libglib,libglib2.0-0,libglib2.0-data,libgmp10,libgmp10:amd64,libkeyutils1,libkeyutils1:amd64,libkmod2,libkmod2:amd64,liblocale-gettext-perl,libmcrypt4,libmount,libnewt0.52,libprocps0,libprocps4,librtmp1,librtmp1:amd64,libseccomp2,libsemanage,libsemanage1:amd64,libsemanage-common,libsystemd0,libudev1:amd64,libusb-0.1-4,libuser,libustr-1.0-1:amd64,libutempter,motif,multiarch-support,procps,procps-ng,pth,pygobject3-base,python-chardet,pyxattr,qrencode-libs,systemd,systemd-sysv,udev,whiptailil
+cracklib,cracklib-dicts,cryptsetup-libs,debianutils,device-mapper,device-mapper-libs,dracut,elfutils-default-yama-scope,elfutils-libelf,elfutils-libs,geoip-database,gpgme,js,keyutils-libs,kmod-libs,libaio,libaio-devel,libapparmor1,libattr,libavahi-common-data:amd64,libdb-utils,libdevmapper1.02.1:amd64,libfuse2,libgcrypt,libgeoip1,libgeoip1:amd64,libglib,libglib2.0-0,libglib2.0-data,libgmp10,libgmp10:amd64,libkeyutils1,libkeyutils1:amd64,libkmod2,libkmod2:amd64,liblocale-gettext-perl,libmcrypt4,libmount,libnewt0.52,libprocps0,libprocps4,librtmp1,librtmp1:amd64,libseccomp2,libsemanage,libsemanage1:amd64,libsemanage-common,libsystemd0,libudev1:amd64,libusb-0.1-4,libuser,libustr-1.0-1:amd64,libutempter,motif,mozjs17,multiarch-support,procps,procps-ng,pth,pygobject3-base,python-chardet,pyxattr,qrencode-libs,systemd,systemd-sysv,udev,whiptail
 
 Note: Source code to any of the above-listed packages is available upon written request to the following address:
 IBM Corporation
@@ -785,7 +850,7 @@ Austin, TX 78758
 
 The code packages that are licensed under the GPL or LGPL version 3 include:
 
-Ansible,autogen,autogen-libopts,bash,bind9-host,busybox,coreutils,cpio,diffutils,dpkg,findutils,gawk,gcc-4.7-base,gcc-5-base,gcc-6-base,gdbm,glib2,gmp,gnupg,gnupg2,gpgv,grep,groff-base,grub2-common,grub-common,grub-pc,grub-pc-bin,gzip,hybridauth library,inetutils-ping,info,init,init-system-helpers,install-info,less,libasprintf0c2,libassuan,libattr,liberror-perl,libfile-copy-recursive-perl,libfreetype6,libfreetype6:amd64,libgcc1,libgnutls26,libgnutls30,libgnutls-openssl27,libidn,libidn11,liblzma5,libnfnetlink0,libnspr4:amd64,libopts25,libpam0g,libpam0g:amd64,libpam-modules,libpam-modules:amd64,libpam-modules-bin,libpam-runtime,libpipeline1,libreadline5,libreadline6,libreadline6:amd64,libsasl2-2,libsasl2-modules,libsasl2-modules-db,libstdc++,libstdc++6,libstdc++6:amd64,libstdcxx,libtasn1,libtasn1-3,libtasn1-6:amd64,man-db,nano,ntp,openssh-client,openssh-server,percona-xtrabackup,pyliblzma,python-software-properties,readline,readline-common,rsync,rsyslog,sed,socat,ssh-import-id,tar,ufw,wget,xtrabackup,xz,xz-utils
+Ansible,autogen,autogen-libopts,bash,bind9-host,busybox,coreutils,coreutils-common,cpio,diffutils,dpkg,emacs-filesystem,findutils,gawk,gcc-4.7-base,gcc-5-base,gcc-6-base,gdbm,glib2,gmp,gnupg,gnupg2,gnutls,gpgv,grep,groff-base,grub2-common,grub-common,grub-pc,grub-pc-bin,guile,gzip,hybridauth library,inetutils-ping,info,init,init-system-helpers,install-info,less,libasprintf0c2,libassuan,libattr,liberror-perl,libfile-copy-recursive-perl,libfreetype6,libfreetype6:amd64,libgcc1,libgnutls26,libgnutls30,libgnutls-openssl27,libidn,libidn11,libksba,liblzma5,libnfnetlink0,libnspr4:amd64,libopts25,libpam0g,libpam0g:amd64,libpam-modules,libpam-modules:amd64,libpam-modules-bin,libpam-runtime,libpipeline1,libreadline5,libreadline6,libreadline6:amd64,libsasl2-2,libsasl2-modules,libsasl2-modules-db,libsss_idmap,libsss_nss_idmap,libstdc++,libstdc++6,libstdc++6:amd64,libstdcxx,libtasn1,libtasn1-3,libtasn1-6:amd64,libunistring,man-db,mpfr,nano,nettle,npth,ntp,openssh-client,openssh-server,percona-xtrabackup,pyliblzma,python-software-properties,readline,readline-common,rsync,rsyslog,sed,socat,ssh-import-id,sssd-client,tar,ufw,wget,xtrabackup,xz,xz-utils
 
 Note: Source code to any of the above-listed packages is available upon written request to the following address:
 IBM Corporation
@@ -810,6 +875,7 @@ silk/accept.png
 
 The icon packages that are listed under the SIL Open Font License include :
 
+aajohan-comfortaa-fonts
 Font-Awesome
 material-design-icons
 
@@ -1919,6 +1985,6 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 =========================================================
 
 
-L/N:  L-CLIG-AGFKQ9
-D/N:  L-CLIG-AGFKQ9
-P/N:  L-CLIG-AGFKQ9 
+L/N:  L-CLIG-AHAM7K
+D/N:  L-CLIG-AHAM7K
+P/N:  L-CLIG-AHAM7K 

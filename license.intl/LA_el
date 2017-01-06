@@ -2,8 +2,10 @@
 
 Τα Προγράμματα που περιλαμβάνονται στην παρακάτω λίστα παραχωρούνται με άδεια χρήσηςη βάσει των ακόλουθων όρων και προϋποθέσεων των Πληροφοριών για την Άδεια Χρήσης, επιπλέον των όρων άδειας χρήσης του Προγράμματος τους οποίους αποδέχθηκαν προηγουμένως ο Πελάτης και η IBM. Εάν ο Πελάτης δεν έχει αποδεχθεί προηγουμένως τους όρους άδειας χρήσης που διέπουν τη χρήση του Προγράμματος, τότε η ισχύει η Διεθνής Σύμβαση Άδειας Χρήσης για Προγράμματα χωρίς Εγγύηση (Z125-5589-05).
 
-Όνομα Προγράμματος: IBM API Connect on Docker V5.0
-Αριθμός Προγράμματος: 5725-Z22
+Όνομα Προγράμματος (Αριθμός Προγράμματος):
+IBM API Connect on Docker V5.0 (5725-Z22)
+
+Οι ακόλουθοι βασικοί όροι διέπουν τη χρήση του Προγράμματος εκ μέρους του Δικαιούχου Άδειας Χρήσης.
 
 Υποστηρικτικά Προγράμματα
 
@@ -38,6 +40,7 @@ IBM HTTP Server
 Σημείωση: Η IBM μπορεί να παρέχει περιορισμένη υποστήριξη για ορισμένα στοιχεία Κώδικα με Χωριστή Άδεια Χρήσης. Εάν διατίθεται τέτοια υποστήριξη, οι λεπτομέρειες και οποιοιδήποτε πρόσθετοι όροι που διέπουν την εν λόγω υποστήριξη θα καθορίζονται στο έγγραφο Πληροφορίες για την Άδεια Χρήσης.
 
 Τα ακόλουθα στοιχεία αποτελούν Κώδικα με Χωριστή Άδεια Χρήσης:
+aajohan-comfortaa-fonts
 acl
 acpi
 acpid
@@ -76,6 +79,7 @@ base-files
 base-lsb
 base-passwd
 bash
+bash-completion
 bc
 Bean (drupal)
 better_exposed_filters (drupal...
@@ -106,12 +110,15 @@ console-setup
 content_access (drupal)
 context (drupal)
 coreutils
+coreutils-common
 cpio
 cracklib
 cracklib-dicts
 cron
 cronie
 crontabs
+crypto-policies
+crypto-policies
 cryptsetup-libs
 cryptsetup-luks
 csync2
@@ -135,6 +142,10 @@ diffutils
 discover
 dmidecode
 dmsetup
+dnf
+dnf-conf
+dnf-plugins-core
+dnf-yum
 dnsmasq
 dpkg
 dracut
@@ -153,6 +164,8 @@ eggdbus
 eject
 ejectorseat (drupal)
 elfutils
+elfutils-default-yama-scope
+emacs-filesystem
 entity (drupal)
 Entity API (drupal)
 Entity Reference (drupal)
@@ -189,11 +202,14 @@ git-core
 git-man
 glib2
 glibc
+glibc-all-langpacks
+glibc-all-langpacks
 glibc-common
 gmp
 GNU Libtool
 gnupg
 gnupg2
+gnutls
 gnutls
 gobject-introspection
 gpgme
@@ -212,7 +228,10 @@ grub-pc
 grub-pc-bin
 gtfs
 gtk2
+guile
 gzip
+hawkey
+hawkey
 Hibernate
 hicolor-icon-theme
 hide_submit (Drupal)
@@ -231,7 +250,7 @@ igb-kmod
 Image CAPTCHA Refresh (drupal)
 Images
 IMCE
-IMCE (drupal)
+IMCE  (drupal)
 imce_wysiwyg
 imce_wysiwyg (drupal)
 index-debug.html
@@ -257,6 +276,7 @@ ixgbe-kmod
 java-common
 jq
 jQuery Update (drupal)
+js
 JSONSelect site
 kbd
 kernel
@@ -290,6 +310,7 @@ libasprintf0c2:amd64
 libassuan
 libasyncns
 libatm1
+libatomic_ops
 libattr
 libattr1
 libattr1:amd64
@@ -312,6 +333,7 @@ libcgroup
 libclass-isa-perl
 libcmpiutil
 libcomerr2
+libcomps
 libcryptsetup4
 libcryptsetup4:amd64
 libcwidget3
@@ -328,6 +350,8 @@ libept1.4.12
 liberror-perl
 libestr0
 libev4
+libfdisk
+libfdisk
 libfdisk1
 libfile-copy-recursive-perl
 libfreetype6
@@ -376,6 +400,7 @@ libkeyutils1:amd64
 libklibc
 libkmod2
 libkmod2:amd64
+libksba
 liblcms2-2:amd64
 liblocale-gettext-perl
 libltdl7
@@ -432,6 +457,9 @@ libreadline5
 libreadline5:amd64
 libreadline6
 libreadline6:amd64
+librepo
+librepo
+libreport-filesystem
 librsync1
 librsync1:amd64
 librtmp0
@@ -443,7 +471,11 @@ libsasl2-2:amd64
 libsasl2-modules
 libsasl2-modules:amd64
 libsasl2-modules-db
+libseccomp
+libseccomp
 libseccomp2
+libsecret
+libsecret
 libselinux
 libselinux1
 libselinux1:amd64
@@ -456,6 +488,7 @@ libsepol1
 libsepol1:amd64
 libsigc++-2.0-0c2a
 libsigc++-2.0-0c2a:amd64
+libsigsegv
 libsigsegv2
 libslang2
 libslang2:amd64
@@ -465,6 +498,8 @@ libsndfile
 libss
 libss2
 libss2:amd64
+libsss_idmap
+libsss_nss_idmap
 libstdc++
 libstdc++6
 libstdc++6:amd64
@@ -483,10 +518,13 @@ libtext-iconv-perl
 libtext-wrapi18n-perl
 libthai
 libtool
+libtool-ltdl
+libtool-ltdl
 libudev0
 libudev0:amd64
 libudev1
 libudev1:amd64
+libunistring
 libusb
 libusb-0.1-4
 libusb-0.1-4:amd64
@@ -507,8 +545,11 @@ linkit
 linkit (drupal)
 linkit_picker
 linkit_picker (drupal)
+linux-atm-libs
+linux-atm-libs
 linux-base
 linux-image-3.2.0
+lksctp-tools
 lksctp-tools
 lm_sensors
 locales
@@ -519,6 +560,8 @@ lsb-release
 lsof
 lsyncd
 lvm2
+lz4
+lzo
 lzo
 lzop
 m4
@@ -548,6 +591,8 @@ mingetty
 module-init-tools
 motif
 mount
+mozjs17
+mpfr
 mptlinux-kmod
 multiarch-support
 mysql
@@ -556,6 +601,7 @@ nano
 netbase
 netcat-traditional
 netcf
+nettle
 net-tools
 newt
 nfs-utils
@@ -567,6 +613,7 @@ no_autocomplete (drupal)
 node_clone (drupal)
 notifications (drupal)
 notifications_forum (drupal)
+npth
 nss-pam-ldapd
 ntp
 ntpdate
@@ -614,6 +661,12 @@ pkg-config
 plymouth
 pm-utils
 polkit
+polkit
+polkit
+polkit-libs
+polkit-libs
+polkit-pkla-compat
+polkit-pkla-compat
 portreserve
 prelink
 procmail
@@ -628,6 +681,17 @@ pyliblzma
 python
 python2.7
 python2.7-minimal
+python2-pygpgme
+python2-pygpgme
+python3-dnf
+python3-dnf-plugins-core
+python3-hawkey
+python3-hawkey
+python3-libcomps
+python3-librepo
+python3-librepo
+python3-pygpgme
+python3-pygpgme
 python-apt
 python-apt-common
 python-chardet
@@ -650,6 +714,8 @@ rng-tools
 rpm
 rpm-build-libs
 rpm-libs
+rpm-plugin-selinux
+rpm-plugin-systemd-inhibit
 rpm-python
 rsync
 rsyslog
@@ -688,6 +754,7 @@ spice-server
 ssh-import-id
 sshpass
 ssmtp
+sssd-client
 startpar
 StatsD (drupal)
 stickynav (drupal)
@@ -716,6 +783,7 @@ tfa (drupal)
 tfa_basic
 tfa_basic (drupal)
 time
+timedatex
 tinyMCE
 tmpreaper
 Token (Drupal)
@@ -785,6 +853,8 @@ IBM Connect V5.0
 
 Το Πρόγραμμα μπορεί να περιλαμβάνει ορισμένα λειτουργικά τμήματα σε μορφή πηγαίου κώδικα ("Λειτουργικά Τμήματα Πηγαίου Κώδικα") και άλλα υλικά που προσδιορίζονται ως Υλικά Δειγμάτων. Ο Δικαιούχος Άδειας Χρήσης επιτρέπεται να αντιγράφει και να τροποποιεί Λειτουργικά Τμήματα Πηγαίου Κώδικα και Υλικά Δειγμάτων μόνο για εσωτερική χρήση, υπό τον όρο ότι η εν λόγω χρήση γίνεται εντός των ορίων των δικαιωμάτων χρήσης που παρέχονται βάσει της παρούσας Σύμβασης, υπό την προϋπόθεση όμως ότι ο Δικαιούχος Άδειας Χρήσης δεν προβαίνει στην τροποποίηση ή διαγραφή οποιωνδήποτε πληροφοριών περί πνευματικών δικαιωμάτων ή ειδοποιήσεων που περιέχονται στα Λειτουργικά Τμήματα Πηγαίου Κώδικα ή στα Υλικά Δειγμάτων. Η IBM παρέχει τα Λειτουργικά Τμήματα Πηγαίου Κώδικα και τα Υλικά Δειγμάτων χωρίς υποχρέωση υποστήριξης και "ΩΣ ΕΧΟΥΝ", ΧΩΡΙΣ ΚΑΝΕΝΟΣ ΕΙΔΟΥΣ ΕΓΓΥΗΣΗ, ΡΗΤΗ Ή ΣΙΩΠΗΡΗ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΗΣ ΤΗΣ ΕΓΓΥΗΣΗΣ ΤΙΤΛΟΥ ΚΥΡΙΟΤΗΤΑΣ, ΜΗ ΠΑΡΑΒΙΑΣΗΣ ΔΙΚΑΙΩΜΑΤΩΝ Ή ΜΗ ΠΑΡΕΜΒΑΣΗΣ ΚΑΙ ΤΩΝ ΣΙΩΠΗΡΩΝ ΕΓΓΥΗΣΕΩΝ ΚΑΙ ΠΡΟΫΠΟΘΕΣΕΩΝ ΕΜΠΟΡΕΥΣΙΜΟΤΗΤΑΣ ΚΑΙ ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ ΓΙΑ ΣΥΓΚΕΚΡΙΜΕΝΟΥΣ ΣΚΟΠΟΥΣ.
 
+Οι ακόλουθες μονάδες μέτρησης μπορεί να διέπουν τη χρήση του Προγράμματος εκ μέρους του Δικαιούχου Άδειας Χρήσης.
+
 Μονάδα Αξίας Επεξεργαστή (Μονάδα PVU)
 
 Μονάδα Αξίας Επεξεργαστή (Processor Value Unit - "Μονάδα PVU") είναι μια μονάδα μέτρησης βάσει της οποίας μπορεί να χορηγηθεί άδεια χρήσης του Προγράμματος. Ο αριθμός των απαιτούμενων δικαιωμάτων επί μονάδων PVU βασίζεται στη χρησιμοποιούμενη τεχνολογία επεξεργαστών (η οποία ορίζεται στον Πίνακα PVU ανά Προμηθευτή Επεξεργαστή, Κατηγορία Προϊόντος (Brand), Τύπο και Κωδικό Μοντέλου στη διεύθυνση http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html) και στον αριθμό των επεξεργαστών που καθίστανται διαθέσιμοι στο Πρόγραμμα. Για τους σκοπούς της χορήγησης αδειών χρήσης βάσει μονάδων PVU, η ΙΒΜ εξακολουθεί να ορίζει τον όρο "επεξεργαστής" ως τον κάθε πυρήνα επεξεργαστή (processor core) σε ένα ολοκληρωμένο κύκλωμα (chip). Για παράδειγμα, ένα ολοκληρωμένο κύκλωμα επεξεργαστή διπλού πυρήνα (dual-core) διαθέτει δύο πυρήνες επεξεργαστή.
@@ -793,9 +863,9 @@ IBM Connect V5.0
 
 * Ενεργοποιημένος πυρήνας επεξεργαστή είναι ένας πυρήνας επεξεργαστή που είναι διαθέσιμος για χρήση σε έναν υλικό ή εικονικό εξυπηρετητή, ανεξάρτητα από το εάν η δυναμικότητα του πυρήνα επεξεργαστή μπορεί να περιοριστεί ή περιορίζεται με τη χρήση τεχνολογιών εικονικοποίησης (virtualization), εντολών του λειτουργικού συστήματος, παραμετροποίησης του BIOS ή παρόμοιων περιοριστικών ρυθμίσεων.
 
-L/N:  L-CLIG-AGFKQ9
-D/N:  L-CLIG-AGFKQ9
-P/N:  L-CLIG-AGFKQ9
+L/N:  L-CLIG-AHAM7K
+D/N:  L-CLIG-AHAM7K
+P/N:  L-CLIG-AHAM7K
 
 
 Διεθνής Σύμβαση Άδειας Χρήσης για Προγράμματα χωρίς Εγγύηση

@@ -41,6 +41,7 @@ To enable access to all the services, edit your local /etc/hosts file to map the
     ```
 * Accept the license agreement.
 * On the `Create your profile` page, enter your email address, and a new password, then click `Update profile`. The Cloud Manager user interface opens.
+* Make sure the SMTP service is reachable. Click `Settings`, select `Email`, fill in information, and select `Test Configuration`.
 
 * Add a new provider organization
     In the Cloud Manager, click `Organizations`. Click `Add`, and enter

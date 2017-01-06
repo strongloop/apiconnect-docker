@@ -1,6 +1,7 @@
 dea
 .project
 .DS_Store
+.apiconnect
 *.sublime*
 *.seed
 *.log
