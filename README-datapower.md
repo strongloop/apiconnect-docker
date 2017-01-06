@@ -26,8 +26,9 @@ Service `make-ssh-keys` has completed and exited.
 
 To enable access to all the services, edit your local /etc/hosts file to map the IP address of your Docker host to the IBM API Connect host names,
 ```
-<docker-host-ip> apim datapower ibmportal microservice
+<docker-host-ip> apim datapower gwadmin ibmportal microservice
 ```
+For example, you can access the Web UI of DataPower Gateway by entering <https://gwadmin/> in a browser.
 
 ### 2.  Configuring your IBM API Connect cloud
 * In a web browser, enter the URL <https://apim/cmc/>, the cloud console login window opens.
@@ -39,6 +40,7 @@ To enable access to all the services, edit your local /etc/hosts file to map the
     ```
 * Accept the license agreement.
 * On the `Create your profile` page, enter your email address, and a new password, then click `Update profile`. The Cloud Manager user interface opens.
+* Make sure the SMTP service is reachable. Click `Settings`, select `Email`, fill in information, and select `Test Configuration`.
 * Configure the Management service
 
     Click `Services`. Then in the `DataPower Services` pane, click `Service Settings` icon ![Service Settings](images/icon_service_settings.jpg). Enter
@@ -179,7 +181,7 @@ Client  Secret: yY7xL8hA0iD1tR0qD5hY0kG3rR3nC2eA3mM8iN2yL4hD2bQ2gU
 * Accessing POST API via DataPower Gateway
     ```
     $ curl -k --request POST \
-       --url https://datapower/organization_name/sb/api/Accounts \
+       --url 'https://datapower/organization_name/sb/api/Accounts' \
        --header 'accept: application/json' \
        --header 'content-type: application/json' \
        --header 'x-ibm-client-id: ad37d0e2-4551-41f7-a011-88f0447f4560' \

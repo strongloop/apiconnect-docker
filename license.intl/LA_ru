@@ -2,8 +2,10 @@
 
 Перечисленные ниже Программы лицензируются в соответствии со следующими положениями и условиями Лицензионной Информации в дополнение к положениям лицензии на Программу, которые ранее были согласованы Клиентом и IBM. Если Клиент ранее не принимал лицензионные условия, действующие для Программы, применяется Международное Лицензионное Соглашение для Программ без Гарантий (Z125-5589-05).
 
-Название Программы: IBM API Connect on Docker V5.0
-Номер Программы: 5725-Z22
+Название Программы (Номер Программы):
+IBM API Connect on Docker V5.0 (5725-Z22)
+
+Следующие стандартные положения применяются в отношении использования Программы Лицензиатом.
 
 Вспомогательные Программы
 
@@ -38,6 +40,7 @@ IBM HTTP Server
 Примечание: IBM может предоставлять ограниченную поддержку для некоторого Отдельно Лицензируемого Программного Кода. Если такая поддержка доступна, подробная информация и любые дополнительные условия, связанные с такой поддержкой, будут приведены в документе с Лицензионной Информацией.
 
 Нижеперечисленное является Отдельно Лицензируемым Программным Кодом:
+aajohan-comfortaa-fonts
 acl
 acpi
 acpid
@@ -76,6 +79,7 @@ base-files
 base-lsb
 base-passwd
 bash
+bash-completion
 bc
 Bean (drupal)
 better_exposed_filters (drupal...
@@ -106,12 +110,15 @@ console-setup
 content_access (drupal)
 context (drupal)
 coreutils
+coreutils-common
 cpio
 cracklib
 cracklib-dicts
 cron
 cronie
 crontabs
+crypto-policies
+crypto-policies
 cryptsetup-libs
 cryptsetup-luks
 csync2
@@ -135,6 +142,10 @@ diffutils
 discover
 dmidecode
 dmsetup
+dnf
+dnf-conf
+dnf-plugins-core
+dnf-yum
 dnsmasq
 dpkg
 dracut
@@ -153,6 +164,8 @@ eggdbus
 eject
 ejectorseat (drupal)
 elfutils
+elfutils-default-yama-scope
+emacs-filesystem
 entity (drupal)
 Entity API (drupal)
 Entity Reference (drupal)
@@ -189,11 +202,14 @@ git-core
 git-man
 glib2
 glibc
+glibc-all-langpacks
+glibc-all-langpacks
 glibc-common
 gmp
 GNU Libtool
 gnupg
 gnupg2
+gnutls
 gnutls
 gobject-introspection
 gpgme
@@ -212,7 +228,10 @@ grub-pc
 grub-pc-bin
 gtfs
 gtk2
+guile
 gzip
+hawkey
+hawkey
 Hibernate
 hicolor-icon-theme
 hide_submit (Drupal)
@@ -231,7 +250,7 @@ igb-kmod
 Image CAPTCHA Refresh (drupal)
 Images
 IMCE
-IMCE (drupal)
+IMCE  (drupal)
 imce_wysiwyg
 imce_wysiwyg (drupal)
 index-debug.html
@@ -257,6 +276,7 @@ ixgbe-kmod
 java-common
 jq
 jQuery Update (drupal)
+js
 JSONSelect site
 kbd
 kernel
@@ -290,6 +310,7 @@ libasprintf0c2:amd64
 libassuan
 libasyncns
 libatm1
+libatomic_ops
 libattr
 libattr1
 libattr1:amd64
@@ -312,6 +333,7 @@ libcgroup
 libclass-isa-perl
 libcmpiutil
 libcomerr2
+libcomps
 libcryptsetup4
 libcryptsetup4:amd64
 libcwidget3
@@ -328,6 +350,8 @@ libept1.4.12
 liberror-perl
 libestr0
 libev4
+libfdisk
+libfdisk
 libfdisk1
 libfile-copy-recursive-perl
 libfreetype6
@@ -376,6 +400,7 @@ libkeyutils1:amd64
 libklibc
 libkmod2
 libkmod2:amd64
+libksba
 liblcms2-2:amd64
 liblocale-gettext-perl
 libltdl7
@@ -432,6 +457,9 @@ libreadline5
 libreadline5:amd64
 libreadline6
 libreadline6:amd64
+librepo
+librepo
+libreport-filesystem
 librsync1
 librsync1:amd64
 librtmp0
@@ -443,7 +471,11 @@ libsasl2-2:amd64
 libsasl2-modules
 libsasl2-modules:amd64
 libsasl2-modules-db
+libseccomp
+libseccomp
 libseccomp2
+libsecret
+libsecret
 libselinux
 libselinux1
 libselinux1:amd64
@@ -456,6 +488,7 @@ libsepol1
 libsepol1:amd64
 libsigc++-2.0-0c2a
 libsigc++-2.0-0c2a:amd64
+libsigsegv
 libsigsegv2
 libslang2
 libslang2:amd64
@@ -465,6 +498,8 @@ libsndfile
 libss
 libss2
 libss2:amd64
+libsss_idmap
+libsss_nss_idmap
 libstdc++
 libstdc++6
 libstdc++6:amd64
@@ -483,10 +518,13 @@ libtext-iconv-perl
 libtext-wrapi18n-perl
 libthai
 libtool
+libtool-ltdl
+libtool-ltdl
 libudev0
 libudev0:amd64
 libudev1
 libudev1:amd64
+libunistring
 libusb
 libusb-0.1-4
 libusb-0.1-4:amd64
@@ -507,8 +545,11 @@ linkit
 linkit (drupal)
 linkit_picker
 linkit_picker (drupal)
+linux-atm-libs
+linux-atm-libs
 linux-base
 linux-image-3.2.0
+lksctp-tools
 lksctp-tools
 lm_sensors
 locales
@@ -519,6 +560,8 @@ lsb-release
 lsof
 lsyncd
 lvm2
+lz4
+lzo
 lzo
 lzop
 m4
@@ -548,6 +591,8 @@ mingetty
 module-init-tools
 motif
 mount
+mozjs17
+mpfr
 mptlinux-kmod
 multiarch-support
 mysql
@@ -556,6 +601,7 @@ nano
 netbase
 netcat-traditional
 netcf
+nettle
 net-tools
 newt
 nfs-utils
@@ -567,6 +613,7 @@ no_autocomplete (drupal)
 node_clone (drupal)
 notifications (drupal)
 notifications_forum (drupal)
+npth
 nss-pam-ldapd
 ntp
 ntpdate
@@ -614,6 +661,12 @@ pkg-config
 plymouth
 pm-utils
 polkit
+polkit
+polkit
+polkit-libs
+polkit-libs
+polkit-pkla-compat
+polkit-pkla-compat
 portreserve
 prelink
 procmail
@@ -628,6 +681,17 @@ pyliblzma
 python
 python2.7
 python2.7-minimal
+python2-pygpgme
+python2-pygpgme
+python3-dnf
+python3-dnf-plugins-core
+python3-hawkey
+python3-hawkey
+python3-libcomps
+python3-librepo
+python3-librepo
+python3-pygpgme
+python3-pygpgme
 python-apt
 python-apt-common
 python-chardet
@@ -650,6 +714,8 @@ rng-tools
 rpm
 rpm-build-libs
 rpm-libs
+rpm-plugin-selinux
+rpm-plugin-systemd-inhibit
 rpm-python
 rsync
 rsyslog
@@ -688,6 +754,7 @@ spice-server
 ssh-import-id
 sshpass
 ssmtp
+sssd-client
 startpar
 StatsD (drupal)
 stickynav (drupal)
@@ -716,6 +783,7 @@ tfa (drupal)
 tfa_basic
 tfa_basic (drupal)
 time
+timedatex
 tinyMCE
 tmpreaper
 Token (Drupal)
@@ -785,6 +853,8 @@ IBM Connect V5.0
 
 Программа может содержать некоторые компоненты в виде исходного кода ("Исходные Компоненты") и другие материалы, обозначаемые как Образцы Материалов. Лицензиат может копировать и изменять Исходные Компоненты и Образцы Материалов только для внутреннего использования при условии, что такое использование осуществляется в рамках лицензионных прав по настоящему Соглашению; однако при этом Лицензиату не разрешается изменять или удалять любую информацию или замечания об авторских правах, содержащиеся в Исходных Компонентах или Образцах Материалов. IBM предоставляет Исходные Компоненты и Образцы Материалов без обязательств по обеспечению поддержки и на условиях "КАК ЕСТЬ", БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, КАК ЯВНЫХ, ТАК И ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ ГАРАНТИЮ ПРАВА СОБСТВЕННОСТИ, НЕНАРУШЕНИЯ ПРАВ ИЛИ ОТСУТСТВИЯ СТОЛКНОВЕНИЯ ПАТЕНТНЫХ ПРИТЯЗАНИЙ, А ТАКЖЕ ПОДРАЗУМЕВАЕМЫЕ ГАРАНТИИ И УСЛОВИЯ ТОВАРОПРИГОДНОСТИ И СООТВЕТСТВИЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ.
 
+Следующие единицы измерения могут применяться к использованию Программы Лицензиатом.
+
 Единица Мощности Процессора (PVU)
 
 Единица мощности процессора (PVU) - это единица измерения, по которой может лицензироваться эта Программа. Число необходимых разрешений на основе PVU зависит от процессорной технологии (определяется по Поставщику Процессора, Торговой Марке, Типу и Номеру Модели в Таблице PVU, размещенной по адресу http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html) и числа процессоров, доступных для Программы. Для цели лицензирования на основе PVU IBM по-прежнему определяет процессор как процессорное ядро на микросхеме. Микросхема двухъядерного процессора, например, содержит два процессорных ядра.
@@ -793,9 +863,9 @@ IBM Connect V5.0
 
 * Активированное процессорное ядро - это процессорное ядро, доступное для использования на физическом или виртуальном сервере, даже в том случае, если мощность процессорных ядер может быть ограничена или ограничивается с помощью технологий виртуализации, команд операционной системы, параметров настройки BIOS или аналогичных ограничений.
 
-L/N:  L-CLIG-AGFKQ9
-D/N:  L-CLIG-AGFKQ9
-P/N:  L-CLIG-AGFKQ9
+L/N:  L-CLIG-AHAM7K
+D/N:  L-CLIG-AHAM7K
+P/N:  L-CLIG-AHAM7K
 
 
 Международное Лицензионное Соглашение для Программ без Гарантий

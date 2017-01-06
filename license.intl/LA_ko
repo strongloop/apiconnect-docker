@@ -2,10 +2,12 @@
 
 아래 나열된 프로그램은 이전에 고객과 IBM이 합의한 프로그램 라이센스 조건에 추가하여 다음 라이센스 정보 이용 약관에 의거하여 라이센스가 부여됩니다. 이전에 고객이 해당 프로그램에 적용되는 라이센스 조항에 동의하지 않은 경우 무보증 프로그램에 관한 국제 라이센스 계약(Z125-5589-05)이(가) 적용됩니다.
 
-프로그램 이름: IBM API Connect on Docker V5.0
-프로그램 번호: 5725-Z22
+프로그램 이름 (프로그램 번호:
+IBM API Connect on Docker V5.0 (5725-Z22)
 
-보조 프로그램
+라이센스 사용자가 본 프로그램을 사용하는 경우 다음 표준 조항이 적용됩니다.
+
+보조 프로그램(Supporting Programs)
 
 본 프로그램은 다중 제품 패키지로 라이센스가 부여되며 본 프로그램에는 아래 보조 프로그램이 포함되어 있습니다. 라이센스 사용자는 본 계약 및 본 프로그램 라이센스 증서의 제한 범위 내에서(본 라이센스 정보 문서에서 더 많은 권리를 제공한 경우는 제외) 주 프로그램의 사용을 지원하기 위해서만 해당 보조 프로그램을 설치하고 사용할 수 있습니다. "사용을 지원하기 위해"에서 사용이란 라이센스가 부여된 주 프로그램 또는 다른 보조 프로그램을 사용하는 데 필요하거나 직접적으로 관련이 있는 사용만 의미합니다. 기타 다른 용도를 위해서는 보조 프로그램을 사용할 수 없습니다. 라이센스 사용자는 주 프로그램과 별도로 보조 프로그램을 양도하거나 재판매할 수 없습니다. 보조 프로그램에는 라이센스 조항이 포함되어 있을 수 있으며 라이센스 사용자가 보조 프로그램을 사용하는 경우 해당 조항이 적용됩니다. 계약 조항이 상충하는 경우에는 라이센스 정보 문서의 조항이 보조 프로그램 조항에 우선하여 적용됩니다. 본 프로그램에 대한 사용 권한이 만료되거나 해지된 경우, 라이센스 사용자는 보조 프로그램의 모든 사본을 사용 중단하거나 파기하거나 프로그램 구입처에 즉시 반환해야 합니다. 라이센스 사용자가 보조 프로그램을 다운로드한 경우에는 프로그램 구입처에 연락해야 합니다. 상기한 제한 범위를 넘어서 보조 프로그램을 사용하고자 하는 경우에는 IBM 판매 담당자나 프로그램 구입처에 문의하여 필요한 라이센스를 취득해야 합니다.
 
@@ -38,6 +40,7 @@ IBM HTTP Server
 주: IBM은 별도로 라이센스가 부여된 코드 일부에 대하여 제한적인 지원을 제공할 수 있습니다. 이러한 지원이 제공되는 경우에는 라이센스 정보 문서에 자세한 지원 사항과 추가 조항을 명시합니다.
 
 다음은 별도로 라이센스가 부여된 코드입니다.
+aajohan-comfortaa-fonts
 acl
 acpi
 acpid
@@ -76,6 +79,7 @@ base-files
 base-lsb
 base-passwd
 bash
+bash-completion
 bc
 Bean (drupal)
 better_exposed_filters (drupal...
@@ -106,12 +110,15 @@ console-setup
 content_access (drupal)
 context (drupal)
 coreutils
+coreutils-common
 cpio
 cracklib
 cracklib-dicts
 cron
 cronie
 crontabs
+crypto-policies
+crypto-policies
 cryptsetup-libs
 cryptsetup-luks
 csync2
@@ -135,6 +142,10 @@ diffutils
 discover
 dmidecode
 dmsetup
+dnf
+dnf-conf
+dnf-plugins-core
+dnf-yum
 dnsmasq
 dpkg
 dracut
@@ -153,6 +164,8 @@ eggdbus
 eject
 ejectorseat (drupal)
 elfutils
+elfutils-default-yama-scope
+emacs-filesystem
 entity (drupal)
 Entity API (drupal)
 Entity Reference (drupal)
@@ -189,11 +202,14 @@ git-core
 git-man
 glib2
 glibc
+glibc-all-langpacks
+glibc-all-langpacks
 glibc-common
 gmp
 GNU Libtool
 gnupg
 gnupg2
+gnutls
 gnutls
 gobject-introspection
 gpgme
@@ -212,7 +228,10 @@ grub-pc
 grub-pc-bin
 gtfs
 gtk2
+guile
 gzip
+hawkey
+hawkey
 Hibernate
 hicolor-icon-theme
 hide_submit (Drupal)
@@ -231,7 +250,7 @@ igb-kmod
 Image CAPTCHA Refresh (drupal)
 Images
 IMCE
-IMCE (drupal)
+IMCE  (drupal)
 imce_wysiwyg
 imce_wysiwyg (drupal)
 index-debug.html
@@ -257,6 +276,7 @@ ixgbe-kmod
 java-common
 jq
 jQuery Update (drupal)
+js
 JSONSelect site
 kbd
 kernel
@@ -290,6 +310,7 @@ libasprintf0c2:amd64
 libassuan
 libasyncns
 libatm1
+libatomic_ops
 libattr
 libattr1
 libattr1:amd64
@@ -312,6 +333,7 @@ libcgroup
 libclass-isa-perl
 libcmpiutil
 libcomerr2
+libcomps
 libcryptsetup4
 libcryptsetup4:amd64
 libcwidget3
@@ -328,6 +350,8 @@ libept1.4.12
 liberror-perl
 libestr0
 libev4
+libfdisk
+libfdisk
 libfdisk1
 libfile-copy-recursive-perl
 libfreetype6
@@ -376,6 +400,7 @@ libkeyutils1:amd64
 libklibc
 libkmod2
 libkmod2:amd64
+libksba
 liblcms2-2:amd64
 liblocale-gettext-perl
 libltdl7
@@ -432,6 +457,9 @@ libreadline5
 libreadline5:amd64
 libreadline6
 libreadline6:amd64
+librepo
+librepo
+libreport-filesystem
 librsync1
 librsync1:amd64
 librtmp0
@@ -443,7 +471,11 @@ libsasl2-2:amd64
 libsasl2-modules
 libsasl2-modules:amd64
 libsasl2-modules-db
+libseccomp
+libseccomp
 libseccomp2
+libsecret
+libsecret
 libselinux
 libselinux1
 libselinux1:amd64
@@ -456,6 +488,7 @@ libsepol1
 libsepol1:amd64
 libsigc++-2.0-0c2a
 libsigc++-2.0-0c2a:amd64
+libsigsegv
 libsigsegv2
 libslang2
 libslang2:amd64
@@ -465,6 +498,8 @@ libsndfile
 libss
 libss2
 libss2:amd64
+libsss_idmap
+libsss_nss_idmap
 libstdc++
 libstdc++6
 libstdc++6:amd64
@@ -483,10 +518,13 @@ libtext-iconv-perl
 libtext-wrapi18n-perl
 libthai
 libtool
+libtool-ltdl
+libtool-ltdl
 libudev0
 libudev0:amd64
 libudev1
 libudev1:amd64
+libunistring
 libusb
 libusb-0.1-4
 libusb-0.1-4:amd64
@@ -507,8 +545,11 @@ linkit
 linkit (drupal)
 linkit_picker
 linkit_picker (drupal)
+linux-atm-libs
+linux-atm-libs
 linux-base
 linux-image-3.2.0
+lksctp-tools
 lksctp-tools
 lm_sensors
 locales
@@ -519,6 +560,8 @@ lsb-release
 lsof
 lsyncd
 lvm2
+lz4
+lzo
 lzo
 lzop
 m4
@@ -548,6 +591,8 @@ mingetty
 module-init-tools
 motif
 mount
+mozjs17
+mpfr
 mptlinux-kmod
 multiarch-support
 mysql
@@ -556,6 +601,7 @@ nano
 netbase
 netcat-traditional
 netcf
+nettle
 net-tools
 newt
 nfs-utils
@@ -567,6 +613,7 @@ no_autocomplete (drupal)
 node_clone (drupal)
 notifications (drupal)
 notifications_forum (drupal)
+npth
 nss-pam-ldapd
 ntp
 ntpdate
@@ -614,6 +661,12 @@ pkg-config
 plymouth
 pm-utils
 polkit
+polkit
+polkit
+polkit-libs
+polkit-libs
+polkit-pkla-compat
+polkit-pkla-compat
 portreserve
 prelink
 procmail
@@ -628,6 +681,17 @@ pyliblzma
 python
 python2.7
 python2.7-minimal
+python2-pygpgme
+python2-pygpgme
+python3-dnf
+python3-dnf-plugins-core
+python3-hawkey
+python3-hawkey
+python3-libcomps
+python3-librepo
+python3-librepo
+python3-pygpgme
+python3-pygpgme
 python-apt
 python-apt-common
 python-chardet
@@ -650,6 +714,8 @@ rng-tools
 rpm
 rpm-build-libs
 rpm-libs
+rpm-plugin-selinux
+rpm-plugin-systemd-inhibit
 rpm-python
 rsync
 rsyslog
@@ -688,6 +754,7 @@ spice-server
 ssh-import-id
 sshpass
 ssmtp
+sssd-client
 startpar
 StatsD (drupal)
 stickynav (drupal)
@@ -716,6 +783,7 @@ tfa (drupal)
 tfa_basic
 tfa_basic (drupal)
 time
+timedatex
 tinyMCE
 tmpreaper
 Token (Drupal)
@@ -785,6 +853,8 @@ IBM Connect V5.0
 
 본 프로그램에는 소스 코드 형식의 일부 구성요소(이하 "소스 구성요소") 및 샘플 자료로 식별된 기타 자료가 포함될 수 있습니다. 라이센스 사용자는 본 계약에 의거한 라이센스 권리의 제한 범위 내에서 사용하는 경우에 한해 내부적인 용도로만 소스 구성요소 및 샘플 자료를 복사하고 수정할 수 있습니다. 단, 소스 구성요소 또는 샘플 자료에 포함된 저작권 정보나 주의사항은 변경하거나 삭제할 수 없습니다. IBM은 소유권, 타인의 권리 비침해 또는 비간섭에 대한 보증, 상품성 및 특정 목적에의 적합성에 대한 묵시적 보증 및 조건을 포함하여 명시적이거나 묵시적인 일체의 보증 없이, 소스 구성요소 및 샘플 자료를 지원 서비스가 제공되지 않는 "현상태대로" 제공합니다.
 
+라이센스 사용자가 본 프로그램을 사용하는 경우 다음 측정 단위가 적용될 수 있습니다.
+
 프로세서 밸류 유닛(PVU)
 
 프로세서 밸류 유닛(Processor Value Unit: PVU)은 본 프로그램의 라이센스가 부여되는 측정 단위입니다. 필요한 PVU 권한 수는 프로세서 기술(프로세서 벤더, 브랜드, 유형 및 모델 번호별로 PVU 표에 정의됨, http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html 참조)과 본 프로그램에 제공된 프로세서 수에 의해 결정됩니다. IBM은 PVU 기반 라이센스의 목적상, 칩의 각 프로세서 코어를 프로세서로 정의합니다. 예를 들어, 듀얼 코어 프로세서 칩의 프로세서 코어는 두 개입니다.
@@ -793,9 +863,9 @@ IBM Connect V5.0
 
 * 활성화된 프로세서 코어란 가상화 기술, 운영 체제 명령, BIOS 설정 또는 유사한 제한사항을 통해 프로세서 코어의 용량을 제한할 수 있는지 또는 실제로 제한하는지 여부에 관계 없이 물리적 서버나 가상 서버에서 사용 가능한 프로세서 코어를 의미합니다.
 
-L/N:  L-CLIG-AGFKQ9
-D/N:  L-CLIG-AGFKQ9
-P/N:  L-CLIG-AGFKQ9
+L/N:  L-CLIG-AHAM7K
+D/N:  L-CLIG-AHAM7K
+P/N:  L-CLIG-AHAM7K
 
 
 무보증 프로그램에 관한 국제 라이센스 계약

@@ -2,8 +2,10 @@
 
 下列本程式之授權除係依客戶與 IBM 先前同意之授權條款外，並依下述授權手冊條款授權。若客戶先前就本程式未同意生效任何授權條款，則本程式適用 國際授權合約 - 無保證程式 (Z125-5589-05)。
 
-程式名稱：IBM API Connect on Docker V5.0
-程式編號：5725-Z22
+程式名稱 (程式編號)：
+IBM API Connect on Docker V5.0 (5725-Z22)
+
+下列標準條款適用於被授權人對本程式之使用。
 
 支援程式
 
@@ -38,6 +40,7 @@ IBM HTTP Server
 附註：IBM 得就某些「獨立授權程式碼」提供有限支援，若可取得此等支援，關於此等支援之詳細資料與任何額外條款將於本授權手冊中明文規定。
 
 下列為「獨立授權程式碼」：
+aajohan-comfortaa-fonts
 acl
 acpi
 acpid
@@ -76,6 +79,7 @@ base-files
 base-lsb
 base-passwd
 bash
+bash-completion
 bc
 Bean (drupal)
 better_exposed_filters (drupal...
@@ -106,12 +110,15 @@ console-setup
 content_access (drupal)
 context (drupal)
 coreutils
+coreutils-common
 cpio
 cracklib
 cracklib-dicts
 cron
 cronie
 crontabs
+crypto-policies
+crypto-policies
 cryptsetup-libs
 cryptsetup-luks
 csync2
@@ -135,6 +142,10 @@ diffutils
 discover
 dmidecode
 dmsetup
+dnf
+dnf-conf
+dnf-plugins-core
+dnf-yum
 dnsmasq
 dpkg
 dracut
@@ -153,6 +164,8 @@ eggdbus
 eject
 ejectorseat (drupal)
 elfutils
+elfutils-default-yama-scope
+emacs-filesystem
 entity (drupal)
 Entity API (drupal)
 Entity Reference (drupal)
@@ -189,11 +202,14 @@ git-core
 git-man
 glib2
 glibc
+glibc-all-langpacks
+glibc-all-langpacks
 glibc-common
 gmp
 GNU Libtool
 gnupg
 gnupg2
+gnutls
 gnutls
 gobject-introspection
 gpgme
@@ -212,7 +228,10 @@ grub-pc
 grub-pc-bin
 gtfs
 gtk2
+guile
 gzip
+hawkey
+hawkey
 Hibernate
 hicolor-icon-theme
 hide_submit (Drupal)
@@ -231,7 +250,7 @@ igb-kmod
 Image CAPTCHA Refresh (drupal)
 Images
 IMCE
-IMCE (drupal)
+IMCE  (drupal)
 imce_wysiwyg
 imce_wysiwyg (drupal)
 index-debug.html
@@ -257,6 +276,7 @@ ixgbe-kmod
 java-common
 jq
 jQuery Update (drupal)
+js
 JSONSelect site
 kbd
 kernel
@@ -290,6 +310,7 @@ libasprintf0c2:amd64
 libassuan
 libasyncns
 libatm1
+libatomic_ops
 libattr
 libattr1
 libattr1:amd64
@@ -312,6 +333,7 @@ libcgroup
 libclass-isa-perl
 libcmpiutil
 libcomerr2
+libcomps
 libcryptsetup4
 libcryptsetup4:amd64
 libcwidget3
@@ -328,6 +350,8 @@ libept1.4.12
 liberror-perl
 libestr0
 libev4
+libfdisk
+libfdisk
 libfdisk1
 libfile-copy-recursive-perl
 libfreetype6
@@ -376,6 +400,7 @@ libkeyutils1:amd64
 libklibc
 libkmod2
 libkmod2:amd64
+libksba
 liblcms2-2:amd64
 liblocale-gettext-perl
 libltdl7
@@ -432,6 +457,9 @@ libreadline5
 libreadline5:amd64
 libreadline6
 libreadline6:amd64
+librepo
+librepo
+libreport-filesystem
 librsync1
 librsync1:amd64
 librtmp0
@@ -443,7 +471,11 @@ libsasl2-2:amd64
 libsasl2-modules
 libsasl2-modules:amd64
 libsasl2-modules-db
+libseccomp
+libseccomp
 libseccomp2
+libsecret
+libsecret
 libselinux
 libselinux1
 libselinux1:amd64
@@ -456,6 +488,7 @@ libsepol1
 libsepol1:amd64
 libsigc++-2.0-0c2a
 libsigc++-2.0-0c2a:amd64
+libsigsegv
 libsigsegv2
 libslang2
 libslang2:amd64
@@ -465,6 +498,8 @@ libsndfile
 libss
 libss2
 libss2:amd64
+libsss_idmap
+libsss_nss_idmap
 libstdc++
 libstdc++6
 libstdc++6:amd64
@@ -483,10 +518,13 @@ libtext-iconv-perl
 libtext-wrapi18n-perl
 libthai
 libtool
+libtool-ltdl
+libtool-ltdl
 libudev0
 libudev0:amd64
 libudev1
 libudev1:amd64
+libunistring
 libusb
 libusb-0.1-4
 libusb-0.1-4:amd64
@@ -507,8 +545,11 @@ linkit
 linkit (drupal)
 linkit_picker
 linkit_picker (drupal)
+linux-atm-libs
+linux-atm-libs
 linux-base
 linux-image-3.2.0
+lksctp-tools
 lksctp-tools
 lm_sensors
 locales
@@ -519,6 +560,8 @@ lsb-release
 lsof
 lsyncd
 lvm2
+lz4
+lzo
 lzo
 lzop
 m4
@@ -548,6 +591,8 @@ mingetty
 module-init-tools
 motif
 mount
+mozjs17
+mpfr
 mptlinux-kmod
 multiarch-support
 mysql
@@ -556,6 +601,7 @@ nano
 netbase
 netcat-traditional
 netcf
+nettle
 net-tools
 newt
 nfs-utils
@@ -567,6 +613,7 @@ no_autocomplete (drupal)
 node_clone (drupal)
 notifications (drupal)
 notifications_forum (drupal)
+npth
 nss-pam-ldapd
 ntp
 ntpdate
@@ -614,6 +661,12 @@ pkg-config
 plymouth
 pm-utils
 polkit
+polkit
+polkit
+polkit-libs
+polkit-libs
+polkit-pkla-compat
+polkit-pkla-compat
 portreserve
 prelink
 procmail
@@ -628,6 +681,17 @@ pyliblzma
 python
 python2.7
 python2.7-minimal
+python2-pygpgme
+python2-pygpgme
+python3-dnf
+python3-dnf-plugins-core
+python3-hawkey
+python3-hawkey
+python3-libcomps
+python3-librepo
+python3-librepo
+python3-pygpgme
+python3-pygpgme
 python-apt
 python-apt-common
 python-chardet
@@ -650,6 +714,8 @@ rng-tools
 rpm
 rpm-build-libs
 rpm-libs
+rpm-plugin-selinux
+rpm-plugin-systemd-inhibit
 rpm-python
 rsync
 rsyslog
@@ -688,6 +754,7 @@ spice-server
 ssh-import-id
 sshpass
 ssmtp
+sssd-client
 startpar
 StatsD (drupal)
 stickynav (drupal)
@@ -716,6 +783,7 @@ tfa (drupal)
 tfa_basic
 tfa_basic (drupal)
 time
+timedatex
 tinyMCE
 tmpreaper
 Token (Drupal)
@@ -785,6 +853,8 @@ IBM Connect V5.0
 
 本程式可能內含若干原始碼格式之元件（「原始碼元件」）及其他標示為「範例著作物」之著作物。於本合約規定之授權使用限制範圍內，被授權人僅限基於內部使用之目的而複製及修改原始碼元件及範例著作物，但被授權人不得更改或刪除原始碼元件或範例著作物所含任何著作權資訊或注意事項。IBM 對於原始碼元件及範例著作物之提供，不含支援義務，並以「現狀」提供，不提供任何明示或默示之保證，包括但不限於所有權、未涉侵權或未涉干擾之保證，以及適售性與符合特定目的之默示保證及條件。
 
+下列計量單位適用於被授權人對本程式之使用。
+
 處理器價值單元 (PVU)
 
 稱「處理器價值單元 (PVU)」者，係指本程式之授權計量單位。所需 PVU 授權之份數，係以處理器技術（依處理器供應商、品牌、機型及型號而被定義於 PVU 表，該表位於 http://www.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html 網址）及供本程式使用之處理器數量為基礎。IBM 基於以 PVU 為授權計量單位之目的，持續將一個處理器定義為晶片上之每一處理器核心。例如，雙核心處理器晶片有二個處理器核心。
@@ -793,9 +863,9 @@ IBM Connect V5.0
 
 *「已啟動處理器核心」係指可使用於實體或虛擬伺服器中之處理器核心，不論處理器核心之容量是否可藉由或已藉由虛擬化技術、作業系統指令、BIOS 設定或類似限制而加以限制者，均同。
 
-L/N:  L-CLIG-AGFKQ9
-D/N:  L-CLIG-AGFKQ9
-P/N:  L-CLIG-AGFKQ9
+L/N:  L-CLIG-AHAM7K
+D/N:  L-CLIG-AHAM7K
+P/N:  L-CLIG-AHAM7K
 
 
 國際授權合約 - 無保證程式
