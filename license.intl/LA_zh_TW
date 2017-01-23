@@ -91,6 +91,7 @@ Block Class (drupal)
 Block Class Styles (drupal)
 BOA
 bridge-utils
+bsdmainutils
 bsdutils
 busybox
 c3p0
@@ -118,7 +119,6 @@ cron
 cronie
 crontabs
 crypto-policies
-crypto-policies
 cryptsetup-libs
 cryptsetup-luks
 csync2
@@ -130,6 +130,8 @@ dash
 dbus
 dbus-glib
 dbus-libs
+debconf
+debconf-i18n
 debian-archive-keyring
 debianutils
 desktop-file-utils
@@ -140,6 +142,7 @@ dialog
 dictionaries-common
 diffutils
 discover
+discover-data
 dmidecode
 dmsetup
 dnf
@@ -147,6 +150,7 @@ dnf-conf
 dnf-plugins-core
 dnf-yum
 dnsmasq
+dnsutils
 dpkg
 dracut
 Drafty (Drupal)
@@ -169,12 +173,32 @@ emacs-filesystem
 entity (drupal)
 Entity API (drupal)
 Entity Reference (drupal)
+erlang-asn1
+erlang-compiler
+erlang-crypto
+erlang-erts
+erlang-hipe
+erlang-inets
+erlang-kernel
+erlang-mnesia
+erlang-os_mon
+erlang-otp_mibs
+erlang-public_key
+erlang-runtime_tools
+erlang-sasl
+erlang-snmp
+erlang-ssl
+erlang-stdlib
+erlang-syntax_tools
+erlang-tools
+erlang-xmerl
 ethtool
 FAQ (drupal)
 faq.html
 Farbtastic
 ffmpeg-spice
 field_group (drupal)
+file
 filesystem
 findutils
 fipscheck
@@ -203,13 +227,11 @@ git-man
 glib2
 glibc
 glibc-all-langpacks
-glibc-all-langpacks
 glibc-common
 gmp
 GNU Libtool
 gnupg
 gnupg2
-gnutls
 gnutls
 gobject-introspection
 gpgme
@@ -231,13 +253,13 @@ gtk2
 guile
 gzip
 hawkey
-hawkey
 Hibernate
 hicolor-icon-theme
 hide_submit (Drupal)
 Hierachical Select (Drupal)
 hierarchical_select
 hierarchical_select (drupal)
+highlight.js
 hostname
 Htmlmail (drupal)
 httprl (drupal)
@@ -245,6 +267,9 @@ hwdata
 hybridauth (drupal)
 hybridauth library
 i18n (drupal)
+iamerican
+ibritish
+ienglish-common
 ifupdown
 igb-kmod
 Image CAPTCHA Refresh (drupal)
@@ -272,11 +297,13 @@ ipvsadm
 irqbalance
 iscsi-initiator-utils
 iso-codes
+ispell
 ixgbe-kmod
 java-common
 jq
 jQuery Update (drupal)
 js
+jsmin
 JSONSelect site
 kbd
 kernel
@@ -288,8 +315,10 @@ klibc-utils
 kmod
 kmod-libs
 kpartx
+krb5-locales
 l10n_update
 l10n_update (drupal)
+laptop-detect
 LDAP (drupal)
 legal (drupal)
 less
@@ -318,9 +347,11 @@ libaudit1
 libaudit1:amd64
 libaudit-common
 libavahi-common-data:amd64
+libbind9-80
 libblkid
 libblkid1
 libblkid1:amd64
+libbsd0:amd64
 libbz2-1.0
 libbz2-1.0:amd64
 libc6
@@ -329,6 +360,7 @@ libcap2
 libcap2-bin
 libcap-ng
 libc-bin
+libc-client2007e
 libcgroup
 libclass-isa-perl
 libcmpiutil
@@ -336,6 +368,8 @@ libcomerr2
 libcomps
 libcryptsetup4
 libcryptsetup4:amd64
+libcurl3:amd64
+libcurl3-gnutls:amd64
 libcwidget3
 libdb5.1
 libdb5.1:amd64
@@ -346,13 +380,17 @@ libdevmapper1.02.1
 libdevmapper1.02.1:amd64
 libdevmapper-event1.02.1
 libdiscover2
+libdns88
+libedit2:amd64
 libept1.4.12
 liberror-perl
 libestr0
 libev4
-libfdisk
+libevent
+libexpat1:amd64
 libfdisk
 libfdisk1
+libffi
 libfile-copy-recursive-perl
 libfreetype6
 libfreetype6:amd64
@@ -385,31 +423,42 @@ libgpg-error
 libgpg-error0
 libgpg-error0:amd64
 libgpm2
+libgssapi-krb5-2:amd64
 libhogweed2:amd64
 libhogweed4
 libhtml-template-perl
 libidn
 libidn11
 libidn11:amd64
+libisc84
+libisccc80
+libisccfg82
 libjbig0
 libjbig0:amd64
 libjpeg8
 libjpeg-turbo
+libk5crypto3:amd64
 libkeyutils1
 libkeyutils1:amd64
 libklibc
 libkmod2
 libkmod2:amd64
+libkrb5-3:amd64
+libkrb5support0:amd64
 libksba
 liblcms2-2:amd64
 liblocale-gettext-perl
 libltdl7
 libltdl7:amd64
+liblua5.1-0:amd64
+liblwres80
 liblz4-1
 liblzma5
 liblzma5:amd64
+libmagic1:amd64
 libmariadbclient18
 libmcrypt4
+libmetalink
 libmnl
 libmnl0
 libmount
@@ -418,16 +467,20 @@ libmount1:amd64
 libmverbs
 libmysqlclient18
 libmysqlclient20
+libncurses5:amd64
+libncursesw5:amd64
 libnetfilter_conntrack
 libnettle4:amd64
 libnettle6
 libnewt0.52
 libnfnetlink
 libnfnetlink0
+libnghttp2
 libnih
 libnl
 libnspr4:amd64
 libnuma1
+libonig2
 libopts25
 libp11-kit0
 libp11-kit0:amd64
@@ -439,8 +492,10 @@ libpam-modules-bin
 libpam-runtime
 libpci3
 libpci3:amd64
+libpcre3:amd64
 libperconaserverclient18.1
 libperl5.22
+libphp5-embed
 libpipeline1
 libpipeline1:amd64
 libpng12-0
@@ -451,13 +506,13 @@ libprocps0
 libprocps0:amd64
 libprocps3:amd64
 libprocps4
+libpsl
 libqdbm14
 Libraries API (drupal)
 libreadline5
 libreadline5:amd64
 libreadline6
 libreadline6:amd64
-librepo
 librepo
 libreport-filesystem
 librsync1
@@ -472,9 +527,7 @@ libsasl2-modules
 libsasl2-modules:amd64
 libsasl2-modules-db
 libseccomp
-libseccomp
 libseccomp2
-libsecret
 libsecret
 libselinux
 libselinux1
@@ -495,9 +548,13 @@ libslang2:amd64
 libsmartcols1
 libsmartcols1:amd64
 libsndfile
+libsqlite0
+libsqlite3-0:amd64
 libss
 libss2
 libss2:amd64
+libssh2-1:amd64
+libssl1.0.0:amd64
 libsss_idmap
 libsss_nss_idmap
 libstdc++
@@ -517,8 +574,8 @@ libtext-charwidth-perl
 libtext-iconv-perl
 libtext-wrapi18n-perl
 libthai
+libtinfo5:amd64
 libtool
-libtool-ltdl
 libtool-ltdl
 libudev0
 libudev0:amd64
@@ -537,19 +594,31 @@ libuuid1:amd64
 libuuid-perl
 libvirt
 libvirt-cim
+libvpx
 libvpx1:amd64
+libwrap0:amd64
+libx11-6:amd64
+libx11-data
 libxapian22
+libxau6:amd64
+libxcb1:amd64
+libxdmcp6:amd64
+libxext6:amd64
+libxkbcommon
+libxml2:amd64
+libxmuu1:amd64
+libxpm4:amd64
+libxslt1.1:amd64
 libxtables11
+libyaml-dev:amd64
 linkchecker (drupal)
 linkit
 linkit (drupal)
 linkit_picker
 linkit_picker (drupal)
 linux-atm-libs
-linux-atm-libs
 linux-base
 linux-image-3.2.0
-lksctp-tools
 lksctp-tools
 lm_sensors
 locales
@@ -559,9 +628,9 @@ lsb-base
 lsb-release
 lsof
 lsyncd
+lua5.1
 lvm2
 lz4
-lzo
 lzo
 lzop
 m4
@@ -582,12 +651,14 @@ material-design-icons-iconfont
 mawk
 mdadm
 megaraid_sas-kmod
+memcached
 menu_item_visibility (drupal)
 messaging (drupal)
 metatag (drupal)
 microcode_ctl
 mime-support
 mingetty
+mlock
 module-init-tools
 motif
 mount
@@ -598,6 +669,10 @@ multiarch-support
 mysql
 mysql-common
 nano
+ncurses-base
+ncurses-bin
+ncurses-compat-libs
+ncurses-term
 netbase
 netcat-traditional
 netcf
@@ -611,8 +686,13 @@ nginx-full
 nmap
 no_autocomplete (drupal)
 node_clone (drupal)
+nodejs
+nodejs-fs-ext
+nodejs-nan
+nodejs-nan1
 notifications (drupal)
 notifications_forum (drupal)
+npm
 npth
 nss-pam-ldapd
 ntp
@@ -621,6 +701,7 @@ numactl
 numad
 ocfs2-tools
 ofa_kernel
+openbsd-inetd
 OpenIPMI
 openjdk-8-jre-headless:amd64
 openssh-blacklist
@@ -628,6 +709,7 @@ openssh-blacklist-extra
 openssh-client
 openssh-server
 openssh-sftp-server
+openssl
 oprofile
 os-prober
 pam
@@ -653,21 +735,31 @@ perl-base
 perl-modules
 perl-modules-5.22
 PHP SAML2
+php5
+php5-cli
+php5-common
+php5-curl
+php5-fpm
+php5-gd
+php5-imap
+php5-ldap
+php5-mcrypt
+php5-mysql
+php5-readline
 phpmailer
 PHPMailer (drupal)
+php-memcache
+php-pear
 pinentry
 pkgconfig
 pkg-config
 plymouth
 pm-utils
 polkit
-polkit
-polkit
 polkit-libs
-polkit-libs
-polkit-pkla-compat
 polkit-pkla-compat
 portreserve
+postfix
 prelink
 procmail
 procps
@@ -681,23 +773,28 @@ pyliblzma
 python
 python2.7
 python2.7-minimal
+python2-iniparse
+python2-iniparse
 python2-pygpgme
-python2-pygpgme
+python3
 python3-dnf
 python3-dnf-plugins-core
 python3-hawkey
-python3-hawkey
+python3-iniparse
+python3-iniparse
 python3-libcomps
 python3-librepo
-python3-librepo
+python3-libs
+python3-pip
 python3-pygpgme
-python3-pygpgme
+python3-six
 python-apt
 python-apt-common
 python-chardet
 python-gnupginterface
 python-kitchen
 python-minimal
+python-pip
 python-pycurl
 python-software-properties
 python-support
@@ -719,6 +816,7 @@ rpm-plugin-systemd-inhibit
 rpm-python
 rsync
 rsyslog
+rubypick
 Rules_http_client (drupal)
 scsi-target-utils
 seabios
@@ -751,13 +849,17 @@ spdx-exceptions(Node)1.0.4
 spdx-exceptions(Node)1.0.5
 spdx-expression-parse (node)
 spice-server
+sqlite
+sqlite-libs
 ssh-import-id
 sshpass
+ssl-cert
 ssmtp
 sssd-client
 startpar
 StatsD (drupal)
 stickynav (drupal)
+sudo
 Support Ticketing System (drupal)
 swig
 sysfsutils
@@ -777,6 +879,7 @@ tasksel-data
 taxonomy_menu
 taxonomy_menu (drupal)
 taxonomy_menu_block (drupal)
+tcpd
 texinfo
 tfa
 tfa (drupal)
@@ -793,6 +896,7 @@ transliteration (drupal)
 trustedgrub
 tunctl
 Twitter Timeline (drupal)
+tzdata
 ubuntu-keyring
 ucf
 udev
@@ -801,6 +905,7 @@ Ulimate Cron (Drupal)
 unattended-upgrades
 underscore.js (drupal)
 unixODBC
+unzip
 update-inetd
 upstart
 user_pwreset_timeout (Drupal)
@@ -819,6 +924,7 @@ vim
 vim-minimal
 Voting API (drupal)
 VPPR (drupal)
+wamerican
 wget
 which
 whiptail
@@ -826,14 +932,18 @@ workbench (drupal)
 workbench_moderation (drupal)
 Wysiwig (drupal)
 x11-common
+xauth
 xautoload (drupal)
 xdg-user-dirs
+xkb-data
 xml-core
 xmlto
 xpath.js
+xsltproc
 xtrabackup
 xz
 xz-utils
+yaml
 yum
 yum-metadata-parser
 yum-plugin-fastestmirror
