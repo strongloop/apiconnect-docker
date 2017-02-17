@@ -5,6 +5,7 @@
 Designed for organizations looking to streamline and accelerate their journey into the API economy, [IBM API Connect] is a comprehensive management solution that addresses all four aspects of the API lifecycle: create, run, manage and secure. This makes API Connect far more cost-effective than limited point solutions that focus on just a few lifecycle phases and can end up collectively costing more as organizations piece components together.
 
 By installing IBM® API Connect Docker images, you can run a complete IBM API Connect on-premises environment on your local machine.
+A Docker installation of IBM API Connect is only for development use; it is not supported in a production environment.
 
 ## System Requirements
 This package requires a minimum of 8GB RAM and 2 CPUs.
@@ -47,6 +48,7 @@ There are 2 options to run IBM API Connect docker images. You can either use Dat
 ## Links to Resources
 
 * [IBM API Connect]
+* [IBM API Connect in a Docker container]
 * [IBM DataPower Gateway]
 * [Micro Gateway]
 * [LoopBack]
@@ -54,6 +56,7 @@ There are 2 options to run IBM API Connect docker images. You can either use Dat
 
 [IBM API Connect Product Documentation]: <http://www.ibm.com/support/knowledgecenter/SSMNED>
 [IBM API Connect]:  <http://www-03.ibm.com/software/products/en/api-connect>
+[IBM API Connect in a Docker container]: <https://www.ibm.com/support/knowledgecenter/en/SSMNED_5.0.0/com.ibm.apic.install.doc/tapic_docker_install.html>
 [IBM DataPower Gateway]: <https://hub.docker.com/r/ibmcom/datapower/>
 [Micro Gateway]: <https://github.com/strongloop/microgateway>
 [LoopBack]: <https://loopback.io/>
