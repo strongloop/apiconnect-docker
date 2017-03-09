@@ -18,6 +18,8 @@ services:
   datapower:
     build: datapower
     container_name: datapower
+    ports:
+      - "9090:9090"
     networks:
       - ibmnet
     environment:
