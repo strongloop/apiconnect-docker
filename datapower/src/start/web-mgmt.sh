@@ -1,6 +1,6 @@
 {
-  if [ "$DP_WEB_MGMT" = "true" ]
-  then
+#  if [ "$DP_WEB_MGMT" = "true" ]
+#  then
     cat <<-EOF
 	top; co
 
@@ -10,13 +10,13 @@
 	  idle-timeout 0
 	exit
 	EOF
-  else
-    cat <<-EOF
-	top; co
-
-	web-mgmt
-	  admin disabled
-	exit
-	EOF
-  fi
+#  else
+#    cat <<-EOF
+#	top; co
+#
+#	web-mgmt
+#	  admin disabled
+#	exit
+#	EOF
+#  fi
 } | tee /drouter/config/web-mgmt.cfg
