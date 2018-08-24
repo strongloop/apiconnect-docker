@@ -14,9 +14,7 @@ RUN mkdir -p /usr/src/app && \
 WORKDIR /usr/src/app
 
 # Install microgateway 
-RUN npm install --silent -g npm && \
-    npm install --silent microgateway && \
-    npm install --silent microgateway && \
+RUN npm install --silent microgateway && \
     mkdir -p /usr/src/app/node_modules/microgateway/config/default
 
 # Bundle app source

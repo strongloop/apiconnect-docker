@@ -9,8 +9,7 @@ WORKDIR /usr/src/app
 
 # Install app dependencies
 COPY package.json /usr/src/app/
-RUN npm install --silent -g npm && \
-    npm install --silent --prod && \
+RUN npm install --silent --prod && \
     npm prune --prod
 
 # Bundle app source
